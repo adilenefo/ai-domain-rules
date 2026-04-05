@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-04-05T08:05:16+00:00",
+  "updated_at": "2026-04-05T09:01:58+00:00",
   "vendor_count": 12,
-  "domain_count": 108,
+  "domain_count": 113,
   "vendors": [
     {
       "name": "OpenAI",
       "domains": [
         "chat.openai.com",
         "chatgpt.com",
+        "developers.openai.com",
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",
@@ -19,21 +20,25 @@
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=32&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
+        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "conway.claudeusercontent.com",
         "docs.anthropic.com",
         "privacy.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -71,14 +76,15 @@
         "policies.google.com",
         "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://ogs.google.com/widget/callout?eom=1: HTTPError: HTTP Error 400: Bad Request"
+      ]
     },
     {
       "name": "xAI",
@@ -94,7 +100,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://assets.grok.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -122,8 +129,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fcf8fa1a8-15b0-4fbe-bc2f-7aa081231567&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F419f5c4d-5120-42a0-9b41-e372be036c58&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fa76ee02b-0791-4c49-bd10-9e950b4f4e50&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -135,7 +141,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -161,11 +168,12 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
-        "support.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Midjourney",
@@ -183,26 +191,27 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "policies.character.ai",
-        "support.character.ai"
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "about.ads.microsoft.com",
-        "account.microsoft.com",
         "api.githubcopilot.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
+        "developer.microsoft.com",
+        "developercommunity.microsoft.com",
         "dynamics.microsoft.com",
         "education.microsoft.com",
         "githubcopilot.com",
@@ -211,9 +220,10 @@
         "marketplace.microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
-        "support.microsoft.com",
+        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "visualstudio.microsoft.com",
+        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
