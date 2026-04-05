@@ -1,0 +1,235 @@
+{
+  "updated_at": "2026-04-05T07:58:28+00:00",
+  "vendor_count": 12,
+  "domain_count": 116,
+  "vendors": [
+    {
+      "name": "OpenAI",
+      "domains": [
+        "chat.openai.com",
+        "chatgpt.com",
+        "developers.openai.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "status.openai.com"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "domains": [
+        "anthropic.com",
+        "claude.ai",
+        "claudeusercontent.com",
+        "conway.claudeusercontent.com",
+        "docs.anthropic.com",
+        "s-cdn.anthropic.com",
+        "status.anthropic.com",
+        "support.anthropic.com",
+        "trust.anthropic.com",
+        "www-cdn.anthropic.com",
+        "www.anthropic.com",
+        "www.claudeusercontent.com"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "name": "Google Gemini",
+      "domains": [
+        "accounts.google.com",
+        "admin.google.com",
+        "ai.google.dev",
+        "aistudio.google.com",
+        "apis.google.com",
+        "cloud.google.com",
+        "colab.sandbox.google.com",
+        "deepmind.com",
+        "deepmind.google",
+        "deepmind.google.com",
+        "discuss.ai.google.dev",
+        "docs.google.com",
+        "drive.google.com",
+        "firebase.google.com",
+        "gemini.google.com",
+        "geminiweb-pa.clients6.google.com",
+        "health.corp.google.com",
+        "labs.google.com",
+        "myaccount.google.com",
+        "notebooklm.google.com",
+        "ogads-pa.clients6.google.com",
+        "ogs.google.com",
+        "one.google.com",
+        "policies.google.com",
+        "services.google.com",
+        "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
+        "waa-pa.clients6.google.com",
+        "workspace.google.com",
+        "www.google.com"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://drive.google.com/viewer/main: HTTPError: HTTP Error 404: Not Found"
+      ]
+    },
+    {
+      "name": "xAI",
+      "domains": [
+        "console.x.ai",
+        "docs.x.ai",
+        "grok.com",
+        "shop.x.ai",
+        "status.x.ai",
+        "x.ai"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://grok.com/: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+      ]
+    },
+    {
+      "name": "Meta AI",
+      "domains": [
+        "ai.meta.com",
+        "meta.ai"
+      ],
+      "pages_scanned": 2,
+      "errors": [
+        "https://www.meta.ai/: HTTPError: HTTP Error 403: Client challenge"
+      ]
+    },
+    {
+      "name": "Mistral",
+      "domains": [
+        "chat.mistral.ai",
+        "cms.mistral.ai",
+        "console.mistral.ai",
+        "docs.mistral.ai",
+        "help.mistral.ai",
+        "legal.mistral.ai",
+        "mistral.ai"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fe8d8d013-ac34-4a04-924f-16e52254db5c&amp;w=3840&amp;q=90: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fc7627522-667c-4bb5-a16c-4580f3767b64&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "domains": [
+        "api.perplexity.ai",
+        "community.perplexity.ai",
+        "console.perplexity.ai",
+        "docs.perplexity.ai",
+        "perplexity.ai",
+        "pplx.ai",
+        "research.perplexity.ai"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://docs.perplexity.ai/models/assets/search_api.png: HTTPError: HTTP Error 404: Not Found"
+      ]
+    },
+    {
+      "name": "Cohere",
+      "domains": [
+        "cohere.com",
+        "dashboard.cohere.com",
+        "docs.cohere.com",
+        "events.cohere.com",
+        "trustcenter.cohere.com"
+      ],
+      "pages_scanned": 8,
+      "errors": []
+    },
+    {
+      "name": "Stability AI",
+      "domains": [
+        "dreamstudio.stability.ai",
+        "kb.stability.ai",
+        "platform.stability.ai",
+        "stability.ai",
+        "trust.stability.ai"
+      ],
+      "pages_scanned": 8,
+      "errors": []
+    },
+    {
+      "name": "Midjourney",
+      "domains": [
+        "midjourney.com"
+      ],
+      "pages_scanned": 1,
+      "errors": [
+        "https://www.midjourney.com/: HTTPError: HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "name": "Character.AI",
+      "domains": [
+        "blog.character.ai",
+        "c.ai",
+        "character.ai",
+        "policies.character.ai",
+        "support.character.ai"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+      ]
+    },
+    {
+      "name": "GitHub Copilot",
+      "domains": [
+        "about.ads.microsoft.com",
+        "account.microsoft.com",
+        "api.githubcopilot.com",
+        "apps.microsoft.com",
+        "azure.microsoft.com",
+        "blogs.microsoft.com",
+        "careers.microsoft.com",
+        "choice.microsoft.com",
+        "copilot.microsoft.com",
+        "devblogs.microsoft.com",
+        "developer.microsoft.com",
+        "education.microsoft.com",
+        "educationblog.microsoft.com",
+        "githubcopilot.com",
+        "go.microsoft.com",
+        "learn.microsoft.com",
+        "marketplace.microsoft.com",
+        "microsoft.com",
+        "news.microsoft.com",
+        "partner.microsoft.com",
+        "support.microsoft.com",
+        "support.serviceshub.microsoft.com",
+        "techcommunity.microsoft.com",
+        "uhf.microsoft.com",
+        "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
+        "wcpstatic.microsoft.com",
+        "www.microsoft.com"
+      ],
+      "pages_scanned": 8,
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
+    }
+  ]
+}

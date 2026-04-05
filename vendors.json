@@ -1,0 +1,121 @@
+{
+  "vendors": [
+    {
+      "name": "OpenAI",
+      "seeds": ["openai.com", "chatgpt.com", "oaistatic.com", "oaiusercontent.com"],
+      "start_urls": [
+        "https://openai.com/",
+        "https://platform.openai.com/",
+        "https://help.openai.com/",
+        "https://status.openai.com/",
+        "https://chatgpt.com/"
+      ],
+      "extra_allow": ["openai.com", "chatgpt.com", "oaistatic.com", "oaiusercontent.com"]
+    },
+    {
+      "name": "Anthropic",
+      "seeds": ["anthropic.com", "claude.ai", "claudeusercontent.com"],
+      "start_urls": [
+        "https://www.anthropic.com/",
+        "https://docs.anthropic.com/",
+        "https://status.anthropic.com/",
+        "https://claude.ai/"
+      ],
+      "extra_allow": ["anthropic.com", "claude.ai", "claudeusercontent.com"]
+    },
+    {
+      "name": "Google Gemini",
+      "seeds": ["gemini.google.com", "ai.google.dev", "deepmind.google", "deepmind.com"],
+      "start_urls": [
+        "https://gemini.google.com/",
+        "https://ai.google.dev/",
+        "https://deepmind.google/",
+        "https://deepmind.com/"
+      ],
+      "extra_allow": ["gemini.google.com", "ai.google.dev", "deepmind.google", "deepmind.com"]
+    },
+    {
+      "name": "xAI",
+      "seeds": ["x.ai", "grok.com"],
+      "start_urls": [
+        "https://x.ai/",
+        "https://grok.com/"
+      ],
+      "extra_allow": ["x.ai", "grok.com"]
+    },
+    {
+      "name": "Meta AI",
+      "seeds": ["meta.ai", "ai.meta.com"],
+      "start_urls": [
+        "https://www.meta.ai/",
+        "https://ai.meta.com/"
+      ],
+      "extra_allow": ["meta.ai", "ai.meta.com"]
+    },
+    {
+      "name": "Mistral",
+      "seeds": ["mistral.ai"],
+      "start_urls": [
+        "https://mistral.ai/",
+        "https://docs.mistral.ai/",
+        "https://console.mistral.ai/"
+      ],
+      "extra_allow": ["mistral.ai"]
+    },
+    {
+      "name": "Perplexity",
+      "seeds": ["perplexity.ai", "pplx.ai"],
+      "start_urls": [
+        "https://www.perplexity.ai/",
+        "https://docs.perplexity.ai/",
+        "https://www.pplx.ai/"
+      ],
+      "extra_allow": ["perplexity.ai", "pplx.ai"]
+    },
+    {
+      "name": "Cohere",
+      "seeds": ["cohere.com"],
+      "start_urls": [
+        "https://cohere.com/",
+        "https://docs.cohere.com/"
+      ],
+      "extra_allow": ["cohere.com"]
+    },
+    {
+      "name": "Stability AI",
+      "seeds": ["stability.ai", "stability.ai"],
+      "start_urls": [
+        "https://stability.ai/",
+        "https://platform.stability.ai/"
+      ],
+      "extra_allow": ["stability.ai"]
+    },
+    {
+      "name": "Midjourney",
+      "seeds": ["midjourney.com"],
+      "start_urls": [
+        "https://www.midjourney.com/"
+      ],
+      "extra_allow": ["midjourney.com"]
+    },
+    {
+      "name": "Character.AI",
+      "seeds": ["character.ai", "c.ai"],
+      "start_urls": [
+        "https://character.ai/",
+        "https://blog.character.ai/"
+      ],
+      "extra_allow": ["character.ai", "c.ai"]
+    },
+    {
+      "name": "GitHub Copilot",
+      "seeds": ["githubcopilot.com", "copilot.microsoft.com"],
+      "start_urls": [
+        "https://github.com/features/copilot",
+        "https://docs.github.com/en/copilot",
+        "https://copilot.microsoft.com/"
+      ],
+      "extra_allow": ["githubcopilot.com", "copilot.microsoft.com"]
+    }
+  ]
+}

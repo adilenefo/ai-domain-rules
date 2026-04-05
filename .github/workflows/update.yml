@@ -1,0 +1,33 @@
+name: update-ai-domain-rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate rules
+        run: python scrape_ai_domains.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md generated/ .github/workflows/update.yml vendors.json scrape_ai_domains.py
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update AI domain rules"
+          git push
