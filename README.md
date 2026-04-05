@@ -6,10 +6,18 @@
 
 ## Files
 
+### AI Domain Rules
 - `generated/quantumultx.list`
 - `generated/clash.yaml`
 - `generated/surge.list`
 - `generated/domains.json`
+
+### China IP Rules
+- `generated/cn-ipv4-qx.list`
+- `generated/cn-ipv6-qx.list`
+- `generated/cn-ip-clash.yaml`
+- `generated/cn-ip-surge.list`
+- `generated/cn-ip-meta.json`
 
 ## Vendors
 
@@ -28,6 +36,7 @@
 
 ## Notes
 
-- This project scrapes public official pages and keeps vendor-owned domains/suffixes.
-- GitHub Actions refreshes the list every hour.
-- You can use the generated rules directly in Quantumult X / Clash / Surge.
+- AI 域名规则来自公开官网 / 文档 / 状态页抓取与域名归属过滤。
+- 中国大陆 IP 规则来自 APNIC delegated 数据。
+- GitHub Actions 每小时自动更新一次。
+- 可直接用于 Quantumult X / Clash / Surge。
