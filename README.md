@@ -19,6 +19,12 @@
 - `generated/cn-ip-surge.list`
 - `generated/cn-ip-meta.json`
 
+### China Domain Rules
+- `generated/cn-domain-qx.list`
+- `generated/cn-domain-clash.yaml`
+- `generated/cn-domain-surge.list`
+- `generated/cn-domain-meta.json`
+
 ## Vendors
 
 - **OpenAI**: 7
@@ -38,5 +44,6 @@
 
 - AI 域名规则来自公开官网 / 文档 / 状态页抓取与域名归属过滤。
 - 中国大陆 IP 规则来自 APNIC delegated 数据。
+- 中国大陆域名规则来自多个公开规则源聚合、去重与归一化。
 - GitHub Actions 每小时自动更新一次。
 - 可直接用于 Quantumult X / Clash / Surge。

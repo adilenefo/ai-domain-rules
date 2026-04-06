@@ -26,11 +26,14 @@ jobs:
       - name: Generate China IP rules
         run: python fetch_cn_ip.py
 
+      - name: Generate China domain rules
+        run: python fetch_cn_domains.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md generated/ .github/workflows/update.yml vendors.json scrape_ai_domains.py fetch_cn_ip.py
+          git add README.md generated/ .github/workflows/update.yml vendors.json scrape_ai_domains.py fetch_cn_ip.py fetch_cn_domains.py
           git diff --cached --quiet && exit 0
-          git commit -m "chore: update AI domain and CN IP rules"
+          git commit -m "chore: update AI domain, CN IP and CN domain rules"
           git push
