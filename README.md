@@ -1,49 +1,33 @@
 # AI Domain Rules
 
-- Last updated: `2026-04-05T13:31:21+00:00`
+- Last updated: `2026-04-06T00:26:49+00:00`
 - Vendors: `12`
-- Domains: `107`
+- Domains: `118`
 
 ## Files
 
-### AI Domain Rules
 - `generated/quantumultx.list`
 - `generated/clash.yaml`
 - `generated/surge.list`
 - `generated/domains.json`
 
-### China IP Rules
-- `generated/cn-ipv4-qx.list`
-- `generated/cn-ipv6-qx.list`
-- `generated/cn-ip-clash.yaml`
-- `generated/cn-ip-surge.list`
-- `generated/cn-ip-meta.json`
-
-### China Domain Rules
-- `generated/cn-domain-qx.list`
-- `generated/cn-domain-clash.yaml`
-- `generated/cn-domain-surge.list`
-- `generated/cn-domain-meta.json`
-
 ## Vendors
 
 - **OpenAI**: 7
-- **Anthropic**: 12
-- **Google Gemini**: 29
+- **Anthropic**: 14
+- **Google Gemini**: 30
 - **xAI**: 8
 - **Meta AI**: 2
 - **Mistral**: 7
 - **Perplexity**: 7
-- **Cohere**: 6
-- **Stability AI**: 6
+- **Cohere**: 5
+- **Stability AI**: 5
 - **Midjourney**: 1
 - **Character.AI**: 3
-- **GitHub Copilot**: 19
+- **GitHub Copilot**: 29
 
 ## Notes
 
-- AI 域名规则来自公开官网 / 文档 / 状态页抓取与域名归属过滤。
-- 中国大陆 IP 规则来自 APNIC delegated 数据。
-- 中国大陆域名规则来自多个公开规则源聚合、去重与归一化。
-- GitHub Actions 每小时自动更新一次。
-- 可直接用于 Quantumult X / Clash / Surge。
+- This project scrapes public official pages and keeps vendor-owned domains/suffixes.
+- GitHub Actions refreshes the list every hour.
+- You can use the generated rules directly in Quantumult X / Clash / Surge.
