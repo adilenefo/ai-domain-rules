@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-07T15:45:35+00:00",
+  "updated_at": "2026-04-07T17:16:59+00:00",
   "vendor_count": 12,
-  "domain_count": 101,
+  "domain_count": 105,
   "vendors": [
     {
       "name": "OpenAI",
@@ -33,6 +33,7 @@
         "docs.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -47,32 +48,39 @@
       "name": "Google Gemini",
       "domains": [
         "accounts.google.com",
+        "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "b.corp.google.com",
-        "chat.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
         "deepmind.com",
         "deepmind.google",
         "deepmind.google.com",
         "discuss.ai.google.dev",
+        "docs.google.com",
+        "drive.google.com",
         "firebase.google.com",
         "g3doc.corp.google.com",
         "gemini.google.com",
-        "jules.google.com",
+        "geminiweb-pa.clients6.google.com",
+        "health.corp.google.com",
         "labs.google.com",
-        "mail.google.com",
+        "login.corp.google.com",
+        "myaccount.google.com",
+        "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
+        "one.google.com",
         "policies.google.com",
-        "services.google.com"
+        "services.google.com",
+        "static.corp.google.com",
+        "support.google.com",
+        "waa-pa.clients6.google.com",
+        "workspace.google.com",
+        "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://gemini.google.com/: HTTPError: HTTP Error 502: Bad Gateway",
-        "https://ai.google.dev/Firebase: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -115,7 +123,9 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F7bb6e937-ddfa-4f1a-bb09-3dd4491fe77e&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fe8d8d013-ac34-4a04-924f-16e52254db5c&amp;w=3840&amp;q=90: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -141,8 +151,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
-        "trustcenter.cohere.com"
+        "events.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -151,7 +160,6 @@
       "name": "Stability AI",
       "domains": [
         "dreamstudio.stability.ai",
-        "info.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -175,9 +183,7 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "policies.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -187,31 +193,26 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "api.githubcopilot.com",
         "azure.microsoft.com",
-        "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "dynamics.microsoft.com",
         "education.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "news.microsoft.com",
         "partner.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
+        "uhf.microsoft.com",
         "visualstudio.microsoft.com",
+        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
