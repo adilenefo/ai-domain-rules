@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-04-09T23:03:28+00:00
+#!updated=2026-04-09T23:55:00+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -90846,6 +90846,7 @@ HOST-SUFFIX,soukuyou.com,DIRECT
 HOST-SUFFIX,soulapp.me,DIRECT
 HOST-SUFFIX,soulgame.mobi,DIRECT
 HOST-SUFFIX,soulsky.net,DIRECT
+HOST-SUFFIX,soulteary.com,DIRECT
 HOST-SUFFIX,soulu365.com,DIRECT
 HOST-SUFFIX,souluo.net,DIRECT
 HOST-SUFFIX,souluojie.com,DIRECT
