@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-04-09T14:16:41+00:00
+#!updated=2026-04-09T15:57:35+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -13413,6 +13413,7 @@ HOST-SUFFIX,anyskygame.com,DIRECT
 HOST-SUFFIX,anysql.net,DIRECT
 HOST-SUFFIX,anystandards.com,DIRECT
 HOST-SUFFIX,anytesting.com,DIRECT
+HOST-SUFFIX,anytocopy.com,DIRECT
 HOST-SUFFIX,anyun100.com,DIRECT
 HOST-SUFFIX,anyunjianzhan.com,DIRECT
 HOST-SUFFIX,anyv.net,DIRECT
@@ -14733,6 +14734,7 @@ HOST-SUFFIX,awsonamazon.com,DIRECT
 HOST-SUFFIX,awspaas.com,DIRECT
 HOST-SUFFIX,awspony.com,DIRECT
 HOST-SUFFIX,awstar.net,DIRECT
+HOST-SUFFIX,awstme.top,DIRECT
 HOST-SUFFIX,awtmt.com,DIRECT
 HOST-SUFFIX,awuming.com,DIRECT
 HOST-SUFFIX,awx1.com,DIRECT
@@ -29638,6 +29640,7 @@ HOST-SUFFIX,daoapp.me,DIRECT
 HOST-SUFFIX,daoboime.com,DIRECT
 HOST-SUFFIX,daochen.com,DIRECT
 HOST-SUFFIX,daocloud.io,DIRECT
+HOST-SUFFIX,daocloud.vip,DIRECT
 HOST-SUFFIX,daocloudapp.com,DIRECT
 HOST-SUFFIX,daodao.com,DIRECT
 HOST-SUFFIX,daodaojizhang.com,DIRECT
@@ -39333,6 +39336,7 @@ HOST-SUFFIX,gamemili.com,DIRECT
 HOST-SUFFIX,gamenow.club,DIRECT
 HOST-SUFFIX,gameol.com,DIRECT
 HOST-SUFFIX,gamepingce.com,DIRECT
+HOST-SUFFIX,gamepp.com,DIRECT
 HOST-SUFFIX,gamer520.net,DIRECT
 HOST-SUFFIX,gamerboom.com,DIRECT
 HOST-SUFFIX,gameres.com,DIRECT
@@ -48733,6 +48737,7 @@ HOST-SUFFIX,hezibook.com,DIRECT
 HOST-SUFFIX,hezijia.com,DIRECT
 HOST-SUFFIX,hezimi.com,DIRECT
 HOST-SUFFIX,hezongyy.com,DIRECT
+HOST-SUFFIX,hezuvip.com,DIRECT
 HOST-SUFFIX,hf-alu.com,DIRECT
 HOST-SUFFIX,hf-aw.com,DIRECT
 HOST-SUFFIX,hf-iflysse.com,DIRECT
@@ -76987,6 +76992,7 @@ HOST-SUFFIX,osaaa.com,DIRECT
 HOST-SUFFIX,osakacopyshop.com,DIRECT
 HOST-SUFFIX,osapublishing.org,DIRECT
 HOST-SUFFIX,osase.net,DIRECT
+HOST-SUFFIX,osbdf.com,DIRECT
 HOST-SUFFIX,osbean.com,DIRECT
 HOST-SUFFIX,osbkj.com,DIRECT
 HOST-SUFFIX,osbzr.com,DIRECT
@@ -85533,6 +85539,7 @@ HOST-SUFFIX,scqstv.com,DIRECT
 HOST-SUFFIX,scqy100.com,DIRECT
 HOST-SUFFIX,scraij.com,DIRECT
 HOST-SUFFIX,scrape.center,DIRECT
+HOST-SUFFIX,scratch5.com,DIRECT
 HOST-SUFFIX,scratchmirror.com,DIRECT
 HOST-SUFFIX,scratchmirror.net,DIRECT
 HOST-SUFFIX,scrc168.com,DIRECT
@@ -96162,6 +96169,7 @@ HOST-SUFFIX,tileywy.com,DIRECT
 HOST-SUFFIX,tillcn.com,DIRECT
 HOST-SUFFIX,tillglance.com,DIRECT
 HOST-SUFFIX,timanetworks.com,DIRECT
+HOST-SUFFIX,timbrd.com,DIRECT
 HOST-SUFFIX,time-weekly.com,DIRECT
 HOST-SUFFIX,time-year.com,DIRECT
 HOST-SUFFIX,time.amazonaws.cn,DIRECT
@@ -103472,6 +103480,7 @@ HOST-SUFFIX,wildcardx.net,DIRECT
 HOST-SUFFIX,wilddog.com,DIRECT
 HOST-SUFFIX,wilddream.net,DIRECT
 HOST-SUFFIX,wildfire.work,DIRECT
+HOST-SUFFIX,wildfirechat.net,DIRECT
 HOST-SUFFIX,wildgun.net,DIRECT
 HOST-SUFFIX,wildhorde.com,DIRECT
 HOST-SUFFIX,wildto.com,DIRECT
@@ -105185,6 +105194,7 @@ HOST-SUFFIX,wxdhnt.com,DIRECT
 HOST-SUFFIX,wxdianju.com,DIRECT
 HOST-SUFFIX,wxdtsj.com,DIRECT
 HOST-SUFFIX,wxdw.info,DIRECT
+HOST-SUFFIX,wxdw.top,DIRECT
 HOST-SUFFIX,wxeditor.com,DIRECT
 HOST-SUFFIX,wxedu.net,DIRECT
 HOST-SUFFIX,wxeic.com,DIRECT
@@ -106240,6 +106250,7 @@ HOST-SUFFIX,xgxedu.com,DIRECT
 HOST-SUFFIX,xgxsignage.com,DIRECT
 HOST-SUFFIX,xgyszj.com,DIRECT
 HOST-SUFFIX,xgz.cc,DIRECT
+HOST-SUFFIX,xgzb.top,DIRECT
 HOST-SUFFIX,xgzbwdj.com,DIRECT
 HOST-SUFFIX,xgzdhj.com,DIRECT
 HOST-SUFFIX,xgzrs.com,DIRECT
@@ -115236,6 +115247,7 @@ HOST-SUFFIX,yyrjd.net,DIRECT
 HOST-SUFFIX,yyrtv.com,DIRECT
 HOST-SUFFIX,yysf.cc,DIRECT
 HOST-SUFFIX,yyshangfu.com,DIRECT
+HOST-SUFFIX,yyshub.top,DIRECT
 HOST-SUFFIX,yystatic.com,DIRECT
 HOST-SUFFIX,yysweb.com,DIRECT
 HOST-SUFFIX,yyszfsxx.com,DIRECT
@@ -115875,6 +115887,7 @@ HOST-SUFFIX,zcsweb.com,DIRECT
 HOST-SUFFIX,zcszcm.com,DIRECT
 HOST-SUFFIX,zctec.cc,DIRECT
 HOST-SUFFIX,zctl.net,DIRECT
+HOST-SUFFIX,zctnet.top,DIRECT
 HOST-SUFFIX,zctpt.com,DIRECT
 HOST-SUFFIX,zctt.com,DIRECT
 HOST-SUFFIX,zctx.com,DIRECT
