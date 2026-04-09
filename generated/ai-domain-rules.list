@@ -1,24 +1,27 @@
 # Title: AI Domain Rules
-# Updated: 2026-04-09T03:30:24+00:00
-# Total domains: 117
+# Updated: 2026-04-09T05:59:01+00:00
+# Total domains: 125
 
-# OpenAI (7 domains)
+# OpenAI (6 domains)
 HOST-SUFFIX,chat.openai.com,AI
 HOST-SUFFIX,chatgpt.com,AI
-HOST-SUFFIX,developers.openai.com,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,status.openai.com,AI
 
-# Anthropic (13 domains)
+# Anthropic (17 domains)
+HOST-SUFFIX,alignment.anthropic.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
+HOST-SUFFIX,assets.anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,conway.claudeusercontent.com,AI
 HOST-SUFFIX,docs.anthropic.com,AI
+HOST-SUFFIX,privacy.anthropic.com,AI
 HOST-SUFFIX,red.anthropic.com,AI
+HOST-SUFFIX,s-cdn.anthropic.com,AI
 HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,support.anthropic.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
@@ -26,11 +29,13 @@ HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
 HOST-SUFFIX,www.claudeusercontent.com,AI
 
-# Google Gemini (31 domains)
+# Google Gemini (35 domains)
+HOST-SUFFIX,account.google.com,AI
 HOST-SUFFIX,accounts.google.com,AI
 HOST-SUFFIX,admin.google.com,AI
 HOST-SUFFIX,ai.google.dev,AI
 HOST-SUFFIX,aistudio.google.com,AI
+HOST-SUFFIX,apis.google.com,AI
 HOST-SUFFIX,cloud.google.com,AI
 HOST-SUFFIX,colab.sandbox.google.com,AI
 HOST-SUFFIX,deepmind.com,AI
@@ -40,21 +45,23 @@ HOST-SUFFIX,discuss.ai.google.dev,AI
 HOST-SUFFIX,docs.google.com,AI
 HOST-SUFFIX,drive.google.com,AI
 HOST-SUFFIX,firebase.google.com,AI
-HOST-SUFFIX,g3doc.corp.google.com,AI
 HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,geminiweb-pa.clients6.google.com,AI
 HOST-SUFFIX,health.corp.google.com,AI
 HOST-SUFFIX,labs.google.com,AI
-HOST-SUFFIX,login.corp.google.com,AI
 HOST-SUFFIX,myaccount.google.com,AI
+HOST-SUFFIX,myactivity.google.com,AI
 HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,ogads-pa.clients6.google.com,AI
 HOST-SUFFIX,ogs.google.com,AI
 HOST-SUFFIX,one.google.com,AI
+HOST-SUFFIX,pay.google.com,AI
+HOST-SUFFIX,payments.google.com,AI
+HOST-SUFFIX,play.google.com,AI
 HOST-SUFFIX,policies.google.com,AI
 HOST-SUFFIX,services.google.com,AI
-HOST-SUFFIX,static.corp.google.com,AI
 HOST-SUFFIX,support.google.com,AI
+HOST-SUFFIX,takeout.google.com,AI
 HOST-SUFFIX,waa-pa.clients6.google.com,AI
 HOST-SUFFIX,workspace.google.com,AI
 HOST-SUFFIX,www.google.com,AI
@@ -73,7 +80,7 @@ HOST-SUFFIX,x.ai,AI
 HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,meta.ai,AI
 
-# Mistral (8 domains)
+# Mistral (7 domains)
 HOST-SUFFIX,chat.mistral.ai,AI
 HOST-SUFFIX,cms.mistral.ai,AI
 HOST-SUFFIX,console.mistral.ai,AI
@@ -81,7 +88,6 @@ HOST-SUFFIX,docs.mistral.ai,AI
 HOST-SUFFIX,help.mistral.ai,AI
 HOST-SUFFIX,legal.mistral.ai,AI
 HOST-SUFFIX,mistral.ai,AI
-HOST-SUFFIX,trust.mistral.ai,AI
 
 # Perplexity (7 domains)
 HOST-SUFFIX,api.perplexity.ai,AI
@@ -113,9 +119,10 @@ HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,c.ai,AI
 HOST-SUFFIX,character.ai,AI
 
-# GitHub Copilot (28 domains)
+# GitHub Copilot (30 domains)
 HOST-SUFFIX,about.ads.microsoft.com,AI
 HOST-SUFFIX,account.microsoft.com,AI
+HOST-SUFFIX,api.githubcopilot.com,AI
 HOST-SUFFIX,apps.microsoft.com,AI
 HOST-SUFFIX,azure.microsoft.com,AI
 HOST-SUFFIX,blogs.microsoft.com,AI
@@ -124,8 +131,8 @@ HOST-SUFFIX,careers.microsoft.com,AI
 HOST-SUFFIX,choice.microsoft.com,AI
 HOST-SUFFIX,copilot.microsoft.com,AI
 HOST-SUFFIX,devblogs.microsoft.com,AI
-HOST-SUFFIX,developer.microsoft.com,AI
 HOST-SUFFIX,docs.microsoft.com,AI
+HOST-SUFFIX,education.microsoft.com,AI
 HOST-SUFFIX,educationblog.microsoft.com,AI
 HOST-SUFFIX,eu-mobile.events.data.microsoft.com,AI
 HOST-SUFFIX,githubcopilot.com,AI
@@ -134,6 +141,7 @@ HOST-SUFFIX,learn.microsoft.com,AI
 HOST-SUFFIX,marketplace.microsoft.com,AI
 HOST-SUFFIX,microsoft.com,AI
 HOST-SUFFIX,news.microsoft.com,AI
+HOST-SUFFIX,partner.microsoft.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
 HOST-SUFFIX,support.serviceshub.microsoft.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
