@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-04-09T09:41:45+00:00
+#!updated=2026-04-09T11:18:00+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -79954,6 +79954,7 @@ HOST-SUFFIX,qcers.com,DIRECT
 HOST-SUFFIX,qcers.net,DIRECT
 HOST-SUFFIX,qcgm.net,DIRECT
 HOST-SUFFIX,qcgq168.com,DIRECT
+HOST-SUFFIX,qchannel03.cn,DIRECT
 HOST-SUFFIX,qchcm.com,DIRECT
 HOST-SUFFIX,qches.com,DIRECT
 HOST-SUFFIX,qchouses.com,DIRECT
