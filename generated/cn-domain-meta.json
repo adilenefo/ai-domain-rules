@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-09T17:33:09+00:00",
-  "domain_count": 120680,
+  "updated_at": "2026-04-09T19:39:07+00:00",
+  "domain_count": 120681,
   "sources": [
     {
       "source": "blackmatrix7_chinamax",
-      "count": 118527
+      "count": 118529
     },
     {
       "source": "blackmatrix7_china",
-      "count": 3692
+      "count": 3691
     },
     {
       "source": "loyalsoldier_direct",

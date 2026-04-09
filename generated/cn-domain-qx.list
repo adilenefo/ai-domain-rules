@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-04-09T17:33:09+00:00
+#!updated=2026-04-09T19:39:07+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -27785,7 +27785,6 @@ HOST-SUFFIX,crane-china.cc,DIRECT
 HOST-SUFFIX,crane-net.com,DIRECT
 HOST-SUFFIX,cranewh.com,DIRECT
 HOST-SUFFIX,crash.work,DIRECT
-HOST-SUFFIX,crashlytics.com,DIRECT
 HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,DIRECT
 HOST-SUFFIX,cravatar.com,DIRECT
 HOST-SUFFIX,crazepony.com,DIRECT
@@ -37394,6 +37393,7 @@ HOST-SUFFIX,firadio.net,DIRECT
 HOST-SUFFIX,fire233.com,DIRECT
 HOST-SUFFIX,fire2333.com,DIRECT
 HOST-SUFFIX,fire24h.com,DIRECT
+HOST-SUFFIX,firebase-settings.crashlytics.com,DIRECT
 HOST-SUFFIX,firebirdprint.com,DIRECT
 HOST-SUFFIX,firebit.com,DIRECT
 HOST-SUFFIX,firedata119.com,DIRECT
@@ -99376,6 +99376,7 @@ HOST-SUFFIX,upchina.com,DIRECT
 HOST-SUFFIX,upchinapro.com,DIRECT
 HOST-SUFFIX,upchinaproduct.com,DIRECT
 HOST-SUFFIX,upd.kaspersky.com,DIRECT
+HOST-SUFFIX,update.crashlytics.com,DIRECT
 HOST-SUFFIX,update.googleapis.com,DIRECT
 HOST-SUFFIX,update.microsoft.com,DIRECT
 HOST-SUFFIX,update1.cyou,DIRECT
