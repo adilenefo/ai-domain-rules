@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-10T12:02:22+00:00",
+  "updated_at": "2026-04-10T13:52:03+00:00",
   "vendor_count": 12,
-  "domain_count": 95,
+  "domain_count": 89,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,19 +18,18 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=96&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
-        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -46,30 +45,24 @@
     {
       "name": "Google Gemini",
       "domains": [
-        "accounts.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "apis.google.com",
         "cloud.google.com",
-        "colab.research.google.com",
         "colab.sandbox.google.com",
         "deepmind.com",
         "deepmind.google",
         "deepmind.google.com",
+        "developers.google.com",
         "discuss.ai.google.dev",
         "firebase.google.com",
         "gemini.google.com",
         "labs.google.com",
-        "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "policies.google.com",
-        "services.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://gemini.google.com/: HTTPError: HTTP Error 502: Bad Gateway",
-        "https://ai.google.dev/View Gemini API docs: InvalidURL: URL can't contain control characters. '/View Gemini API docs' (found at least ' ')"
+        "https://gemini.google.com/: HTTPError: HTTP Error 502: Bad Gateway"
       ]
     },
     {
@@ -87,7 +80,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden"
+        "https://imagine-public.x.ai/imagine-public/share-videos/7b097052-8cfe-4b0f-8a33-c2a71e1aed25.mp4: HTTPError: HTTP Error 403: Forbidden",
+        "https://data.x.ai/grok-4-fast-side-by-side.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -115,7 +109,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F0ff12545-4d8e-40f2-a13d-9f09063720a5&amp;w=256&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F5d09066e-9c71-4875-912d-d1ba4b651903&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fa76ee02b-0791-4c49-bd10-9e950b4f4e50&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -132,8 +127,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/v1/agent: HTTPError: HTTP Error 401: Unauthorized"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -177,7 +171,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -188,10 +183,11 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
+        "education.microsoft.com",
+        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
