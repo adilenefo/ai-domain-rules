@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-10T23:52:57+00:00",
+  "updated_at": "2026-04-11T03:21:20+00:00",
   "vendor_count": 12,
-  "domain_count": 105,
+  "domain_count": 112,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,16 +18,13 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
-        "a-cdn.anthropic.com",
         "anthropic.com",
-        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
@@ -42,7 +39,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -65,6 +63,7 @@
         "geminiweb-pa.clients6.google.com",
         "health.corp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
@@ -78,7 +77,9 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
@@ -94,7 +95,9 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://imagine-public.x.ai/imagine-public/share-videos/7b097052-8cfe-4b0f-8a33-c2a71e1aed25.mp4: HTTPError: HTTP Error 403: Forbidden",
+        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -121,7 +124,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fcba93ac1-e7d5-4329-8f19-74b7e856956b&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -146,7 +150,9 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com"
+        "docs.cohere.com",
+        "events.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -178,7 +184,9 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai"
+        "labs.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -189,32 +197,34 @@
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
-        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
+        "devblogs.microsoft.com",
         "developer.microsoft.com",
+        "developercommunity.microsoft.com",
+        "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
+        "partner.microsoft.com",
         "support.microsoft.com",
-        "techcommunity.microsoft.com",
+        "support.serviceshub.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
