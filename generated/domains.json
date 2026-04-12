@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-12T11:49:08+00:00",
+  "updated_at": "2026-04-12T13:36:02+00:00",
   "vendor_count": 12,
-  "domain_count": 115,
+  "domain_count": 91,
   "vendors": [
     {
       "name": "OpenAI",
@@ -28,10 +28,8 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
@@ -41,14 +39,13 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Google Gemini",
       "domains": [
-        "accounts.google.com",
-        "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
         "cloud.google.com",
@@ -57,29 +54,16 @@
         "deepmind.google",
         "deepmind.google.com",
         "discuss.ai.google.dev",
-        "docs.google.com",
-        "drive.google.com",
         "firebase.google.com",
         "gemini.google.com",
-        "geminiweb-pa.clients6.google.com",
-        "health.corp.google.com",
         "labs.google.com",
-        "myaccount.google.com",
-        "notebooklm.google.com",
-        "ogads-pa.clients6.google.com",
-        "ogs.google.com",
-        "one.google.com",
         "policies.google.com",
         "services.google.com",
-        "support.google.com",
-        "waa-pa.clients6.google.com",
-        "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
+        "https://gemini.google.com/: HTTPError: HTTP Error 502: Bad Gateway"
       ]
     },
     {
@@ -96,7 +80,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -124,8 +109,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmistral-frontier-26.15-1ez5hhac6r.webp&amp;w=3840&amp;q=90&amp;dpl=b2bf46033d11dac4648370d82fb665d2efc659add62345e1f8b3b65f308b5b8d363963653166393939313362356230303038666534666435: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F0ff12545-4d8e-40f2-a13d-9f09063720a5&amp;w=256&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fcf8fa1a8-15b0-4fbe-bc2f-7aa081231567&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Feecedf8c-face-4231-9181-344e25179edb&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -137,7 +122,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -151,7 +137,6 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -183,10 +168,7 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -196,12 +178,10 @@
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "account.microsoft.com",
         "api.githubcopilot.com",
-        "apps.microsoft.com",
         "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
@@ -213,13 +193,10 @@
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
-        "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
-        "unlocked.microsoft.com",
+        "uhf.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
