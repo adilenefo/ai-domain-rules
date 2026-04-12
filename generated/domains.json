@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-12T14:58:57+00:00",
+  "updated_at": "2026-04-12T15:54:02+00:00",
   "vendor_count": 12,
-  "domain_count": 103,
+  "domain_count": 90,
   "vendors": [
     {
       "name": "OpenAI",
@@ -28,8 +28,8 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "privacy.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
@@ -46,31 +46,25 @@
     {
       "name": "Google Gemini",
       "domains": [
-        "accounts.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "alkalimakersuite-pa.clients6.google.com",
-        "apis.google.com",
         "cloud.google.com",
-        "cloudconsole-pa.clients6.google.com",
         "colab.sandbox.google.com",
         "deepmind.com",
         "deepmind.google",
         "deepmind.google.com",
         "discuss.ai.google.dev",
-        "docs.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "labs.google.com",
-        "people-pa.clients6.google.com",
         "policies.google.com",
-        "webchannel-alkalimakersuite-pa.clients6.google.com",
+        "services.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://gemini.google.com/: HTTPError: HTTP Error 502: Bad Gateway",
-        "https://ai.google.dev/Build Responsible AI: InvalidURL: URL can't contain control characters. '/Build Responsible AI' (found at least ' ')"
+        "https://ai.google.dev/Android Studio: InvalidURL: URL can't contain control characters. '/Android Studio' (found at least ' ')"
       ]
     },
     {
@@ -87,7 +81,9 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden",
+        "https://cdn.grok.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -104,21 +100,20 @@
     {
       "name": "Mistral",
       "domains": [
+        "admin.mistral.ai",
         "chat.mistral.ai",
         "cms.mistral.ai",
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Feecedf8c-face-4231-9181-344e25179edb&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F9c3aec2e-9825-4691-8458-cf4bd48ceff5&amp;w=96&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F7330d45b-4c8d-4beb-8e68-324439ff1936&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F8aa22c3c-7950-4d36-8a57-f782bdc3d360&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fc0b7de4b-934f-4627-adba-356799bbfe5d&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -130,7 +125,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "www.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -145,7 +141,6 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "go.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -154,6 +149,7 @@
     {
       "name": "Stability AI",
       "domains": [
+        "hpc.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -181,43 +177,32 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
-        "api.githubcopilot.com",
-        "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "education.microsoft.com",
-        "educationblog.microsoft.com",
+        "developercommunity.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
-        "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
-        "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
+        "partner.microsoft.com",
         "techcommunity.microsoft.com",
-        "uhf.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
