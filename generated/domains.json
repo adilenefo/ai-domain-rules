@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-14T14:14:29+00:00",
+  "updated_at": "2026-04-14T15:42:26+00:00",
   "vendor_count": 12,
-  "domain_count": 86,
+  "domain_count": 104,
   "vendors": [
     {
       "name": "OpenAI",
@@ -32,6 +32,7 @@
         "docs.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -39,8 +40,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -49,22 +49,38 @@
         "accounts.google.com",
         "ai.google.dev",
         "aistudio.google.com",
+        "assistant.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "contacts.google.com",
         "deepmind.com",
         "deepmind.google",
         "deepmind.google.com",
         "discuss.ai.google.dev",
+        "families.google.com",
+        "fi.google.com",
+        "fiber.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "labs.google.com",
+        "myaccount.google.com",
+        "myactivity.google.com",
+        "myadcenter.google.com",
+        "ogs.google.com",
+        "payments.google.com",
         "policies.google.com",
+        "privacy.google.com",
+        "safebrowsing.google.com",
+        "services.google.com",
+        "support.google.com",
+        "takeout.google.com",
+        "transparencyreport.google.com",
+        "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://gemini.google.com/: HTTPError: HTTP Error 502: Bad Gateway",
-        "https://ai.google.dev/JetBrains IDEs: InvalidURL: URL can't contain control characters. '/JetBrains IDEs' (found at least ' ')"
+        "https://gemini.google.com/: HTTPError: HTTP Error 502: Bad Gateway"
       ]
     },
     {
@@ -82,7 +98,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://data.x.ai/grok-4-fast-side-by-side.mp4: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -99,6 +115,7 @@
     {
       "name": "Mistral",
       "domains": [
+        "auth.mistral.ai",
         "chat.mistral.ai",
         "cms.mistral.ai",
         "console.mistral.ai",
@@ -110,8 +127,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fe8d8d013-ac34-4a04-924f-16e52254db5c&amp;w=3840&amp;q=90: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F7330d45b-4c8d-4beb-8e68-324439ff1936&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F06a82fa5-050c-46a7-98aa-3a4d2170ab75&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F14959a39-3b10-40c3-9543-bb3712c17576&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -136,7 +153,8 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com"
+        "docs.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -167,30 +185,28 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "azure.microsoft.com",
-        "browser.events.data.microsoft.com",
-        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developercommunity.microsoft.com",
-        "education.microsoft.com",
+        "dynamics.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "news.microsoft.com",
         "partner.microsoft.com",
         "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
