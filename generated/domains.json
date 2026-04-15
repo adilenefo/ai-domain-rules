@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-15T14:06:09+00:00",
+  "updated_at": "2026-04-15T15:40:03+00:00",
   "vendor_count": 12,
-  "domain_count": 114,
+  "domain_count": 106,
   "vendors": [
     {
       "name": "OpenAI",
@@ -28,6 +28,7 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
         "s-cdn.anthropic.com",
@@ -39,7 +40,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -77,7 +79,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://ogs.google.com/widget/callout?eom=1: HTTPError: HTTP Error 400: Bad Request",
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -117,13 +119,12 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fcba93ac1-e7d5-4329-8f19-74b7e856956b&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F65f7935e-1a8c-4280-88f2-9140fa59bce5&amp;w=3840&amp;q=90: HTTPError: HTTP Error 400: Bad Request",
         "https://mistral.ai/_next/image?url=%2Fimg%2Fandroidstore.svg&amp;w=256&amp;q=75&amp;dpl=19b51d3230166ee30885063ee770f256f612bd82b7fcb51d93544737c9e7d0d1363964663861353863613534616230306264346565646263: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
@@ -149,9 +150,7 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com",
-        "events.cohere.com",
-        "trustcenter.cohere.com"
+        "docs.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -182,33 +181,28 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "policies.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
-        "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
         "developercommunity.microsoft.com",
-        "dynamics.microsoft.com",
         "education.microsoft.com",
+        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -217,7 +211,6 @@
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",

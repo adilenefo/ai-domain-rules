@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,api.anthropic.com
   - DOMAIN-SUFFIX,api.perplexity.ai
-  - DOMAIN-SUFFIX,apps.microsoft.com
   - DOMAIN-SUFFIX,assets.grok.com
   - DOMAIN-SUFFIX,azure.microsoft.com
   - DOMAIN-SUFFIX,blog.character.ai
@@ -22,7 +21,6 @@ payload:
   - DOMAIN-SUFFIX,chat.mistral.ai
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,choice.microsoft.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,cloud.google.com
@@ -30,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,cohere.com
   - DOMAIN-SUFFIX,colab.sandbox.google.com
   - DOMAIN-SUFFIX,community.perplexity.ai
+  - DOMAIN-SUFFIX,console.anthropic.com
   - DOMAIN-SUFFIX,console.mistral.ai
   - DOMAIN-SUFFIX,console.perplexity.ai
   - DOMAIN-SUFFIX,console.x.ai
@@ -50,9 +49,8 @@ payload:
   - DOMAIN-SUFFIX,docs.mistral.ai
   - DOMAIN-SUFFIX,docs.perplexity.ai
   - DOMAIN-SUFFIX,drive.google.com
-  - DOMAIN-SUFFIX,dynamics.microsoft.com
   - DOMAIN-SUFFIX,education.microsoft.com
-  - DOMAIN-SUFFIX,events.cohere.com
+  - DOMAIN-SUFFIX,educationblog.microsoft.com
   - DOMAIN-SUFFIX,firebase.google.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com
@@ -63,7 +61,6 @@ payload:
   - DOMAIN-SUFFIX,help.mistral.ai
   - DOMAIN-SUFFIX,imagine-public.x.ai
   - DOMAIN-SUFFIX,kb.stability.ai
-  - DOMAIN-SUFFIX,labs.character.ai
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,learn.microsoft.com
   - DOMAIN-SUFFIX,legal.mistral.ai
@@ -84,7 +81,6 @@ payload:
   - DOMAIN-SUFFIX,partner.microsoft.com
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,platform.stability.ai
-  - DOMAIN-SUFFIX,policies.character.ai
   - DOMAIN-SUFFIX,policies.google.com
   - DOMAIN-SUFFIX,pplx.ai
   - DOMAIN-SUFFIX,research.perplexity.ai
@@ -93,15 +89,11 @@ payload:
   - DOMAIN-SUFFIX,stability.ai
   - DOMAIN-SUFFIX,status.anthropic.com
   - DOMAIN-SUFFIX,status.openai.com
-  - DOMAIN-SUFFIX,support.character.ai
   - DOMAIN-SUFFIX,support.google.com
   - DOMAIN-SUFFIX,support.microsoft.com
-  - DOMAIN-SUFFIX,support.serviceshub.microsoft.com
   - DOMAIN-SUFFIX,techcommunity.microsoft.com
   - DOMAIN-SUFFIX,trust.anthropic.com
-  - DOMAIN-SUFFIX,trust.mistral.ai
   - DOMAIN-SUFFIX,trust.stability.ai
-  - DOMAIN-SUFFIX,trustcenter.cohere.com
   - DOMAIN-SUFFIX,unlocked.microsoft.com
   - DOMAIN-SUFFIX,visualstudio.microsoft.com
   - DOMAIN-SUFFIX,waa-pa.clients6.google.com
