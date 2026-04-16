@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-04-16T09:50:56+00:00
+#!updated=2026-04-16T11:21:17+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
