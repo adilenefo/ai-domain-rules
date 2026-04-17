@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-04-17T21:04:53+00:00",
+  "updated_at": "2026-04-17T22:02:38+00:00",
   "vendor_count": 12,
-  "domain_count": 114,
+  "domain_count": 112,
   "vendors": [
     {
       "name": "OpenAI",
       "domains": [
         "chat.openai.com",
         "chatgpt.com",
+        "developers.openai.com",
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",
@@ -18,8 +19,7 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -28,9 +28,9 @@
         "anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
+        "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "s-cdn.anthropic.com",
+        "privacy.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
@@ -46,7 +46,6 @@
     {
       "name": "Google Gemini",
       "domains": [
-        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
@@ -65,29 +64,25 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
-        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
-        "pay.google.com",
-        "payments.google.com",
-        "play.google.com",
         "policies.google.com",
         "services.google.com",
         "support.google.com",
         "supporttagging-autopush.sandbox.google.com",
         "tagassistant.google.com",
-        "takeout.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized",
-        "https://drive.google.com/viewer/main: HTTPError: HTTP Error 404: Not Found"
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -121,7 +116,6 @@
     {
       "name": "Mistral",
       "domains": [
-        "auth.mistral.ai",
         "chat.mistral.ai",
         "cms.mistral.ai",
         "console.mistral.ai",
@@ -159,7 +153,6 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -191,7 +184,10 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -203,19 +199,20 @@
       "domains": [
         "account.microsoft.com",
         "api.githubcopilot.com",
+        "apps.microsoft.com",
         "azure.microsoft.com",
+        "blogs.microsoft.com",
+        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
-        "devblogs.microsoft.com",
-        "developercommunity.microsoft.com",
-        "dynamics.microsoft.com",
         "education.microsoft.com",
+        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
+        "microsoft.com",
         "news.microsoft.com",
-        "partner.microsoft.com",
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
