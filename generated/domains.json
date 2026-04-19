@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-19T06:09:48+00:00",
+  "updated_at": "2026-04-19T07:47:17+00:00",
   "vendor_count": 12,
-  "domain_count": 127,
+  "domain_count": 117,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,7 +18,8 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=96&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -34,7 +35,8 @@
         "status.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
-        "www.anthropic.com"
+        "www.anthropic.com",
+        "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -44,12 +46,10 @@
     {
       "name": "Google Gemini",
       "domains": [
-        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "apis.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
         "deepmind.com",
@@ -57,32 +57,29 @@
         "deepmind.google.com",
         "discuss.ai.google.dev",
         "docs.google.com",
+        "domains.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
         "myaccount.google.com",
-        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
-        "pay.google.com",
-        "payments.google.com",
-        "play.google.com",
         "policies.google.com",
         "services.google.com",
         "support.google.com",
-        "takeout.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+        "https://drive.google.com/viewer/main: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -122,14 +119,12 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fb9e2f9fa-9c9c-4fc7-b8f5-29fc8648d6ce&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F7df5b340-9873-4858-b120-bb7df99716d9&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fb6837a3d-5fb3-42e5-909b-d43bbc7f0b53&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -139,11 +134,9 @@
         "community.perplexity.ai",
         "console.perplexity.ai",
         "docs.perplexity.ai",
-        "labs.pplx.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "www.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -157,6 +150,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
+        "events.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -165,6 +159,8 @@
     {
       "name": "Stability AI",
       "domains": [
+        "dreamstudio.stability.ai",
+        "info.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -202,32 +198,26 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "about.ads.microsoft.com",
         "account.microsoft.com",
+        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "developercommunity.microsoft.com",
-        "docs.microsoft.com",
         "dynamics.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
@@ -236,7 +226,9 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }
