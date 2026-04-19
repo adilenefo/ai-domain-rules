@@ -1,7 +1,7 @@
 #!name=AI Domain Rules
 #!desc=Auto-updated AI vendor domain rules
 #!author=Minis
-#!updated=2026-04-19T22:57:15+00:00
+#!updated=2026-04-19T23:54:00+00:00
 
 HOST-SUFFIX,about.ads.microsoft.com,AI
 HOST-SUFFIX,account.microsoft.com,AI
@@ -12,7 +12,8 @@ HOST-SUFFIX,ai.google.dev,AI
 HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,aistudio.google.com,AI
 HOST-SUFFIX,anthropic.com,AI
-HOST-SUFFIX,api.anthropic.com,AI
+HOST-SUFFIX,api.githubcopilot.com,AI
+HOST-SUFFIX,api.mistral.ai,AI
 HOST-SUFFIX,api.perplexity.ai,AI
 HOST-SUFFIX,apps.microsoft.com,AI
 HOST-SUFFIX,assets.grok.com,AI
@@ -45,7 +46,8 @@ HOST-SUFFIX,data.x.ai,AI
 HOST-SUFFIX,deepmind.com,AI
 HOST-SUFFIX,deepmind.google,AI
 HOST-SUFFIX,deepmind.google.com,AI
-HOST-SUFFIX,developer.microsoft.com,AI
+HOST-SUFFIX,devblogs.microsoft.com,AI
+HOST-SUFFIX,developercommunity.microsoft.com,AI
 HOST-SUFFIX,discuss.ai.google.dev,AI
 HOST-SUFFIX,docs.anthropic.com,AI
 HOST-SUFFIX,docs.cohere.com,AI
@@ -85,28 +87,28 @@ HOST-SUFFIX,ogads-pa.clients6.google.com,AI
 HOST-SUFFIX,ogs.google.com,AI
 HOST-SUFFIX,one.google.com,AI
 HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,partner.microsoft.com,AI
 HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,platform.stability.ai,AI
 HOST-SUFFIX,policies.character.ai,AI
 HOST-SUFFIX,policies.google.com,AI
 HOST-SUFFIX,pplx.ai,AI
-HOST-SUFFIX,privacy.anthropic.com,AI
 HOST-SUFFIX,research.perplexity.ai,AI
 HOST-SUFFIX,s-cdn.anthropic.com,AI
 HOST-SUFFIX,services.google.com,AI
 HOST-SUFFIX,stability.ai,AI
 HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,status.openai.com,AI
-HOST-SUFFIX,support.anthropic.com,AI
 HOST-SUFFIX,support.character.ai,AI
 HOST-SUFFIX,support.google.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
-HOST-SUFFIX,support.serviceshub.microsoft.com,AI
+HOST-SUFFIX,support.stability.ai,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,trust.stability.ai,AI
 HOST-SUFFIX,trustcenter.cohere.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
+HOST-SUFFIX,unlocked.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
 HOST-SUFFIX,waa-pa.clients6.google.com,AI
 HOST-SUFFIX,wcpstatic.microsoft.com,AI
