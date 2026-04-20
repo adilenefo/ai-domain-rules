@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-04-20T14:14:43+00:00
+#!updated=2026-04-20T15:49:34+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -10892,6 +10892,7 @@ HOST-SUFFIX,ace113.com,DIRECT
 HOST-SUFFIX,acejoy.com,DIRECT
 HOST-SUFFIX,acelamicro.com,DIRECT
 HOST-SUFFIX,aceoo.com,DIRECT
+HOST-SUFFIX,acepanel.net,DIRECT
 HOST-SUFFIX,acesheep.com,DIRECT
 HOST-SUFFIX,acetace.com,DIRECT
 HOST-SUFFIX,acetaffy.club,DIRECT
@@ -15878,6 +15879,7 @@ HOST-SUFFIX,basischina.com,DIRECT
 HOST-SUFFIX,bastcn.com,DIRECT
 HOST-SUFFIX,basunlighting.com,DIRECT
 HOST-SUFFIX,bat-sz.com,DIRECT
+HOST-SUFFIX,batchat.com,DIRECT
 HOST-SUFFIX,batengtiyu1.com,DIRECT
 HOST-SUFFIX,batian.net,DIRECT
 HOST-SUFFIX,batman.plus,DIRECT
@@ -26727,6 +26729,7 @@ HOST-SUFFIX,concox.net,DIRECT
 HOST-SUFFIX,concretehr.com,DIRECT
 HOST-SUFFIX,conda-group.com,DIRECT
 HOST-SUFFIX,condorchina.com,DIRECT
+HOST-SUFFIX,cone-x.com,DIRECT
 HOST-SUFFIX,conele.com,DIRECT
 HOST-SUFFIX,conergas.net,DIRECT
 HOST-SUFFIX,conew.com,DIRECT
@@ -31477,6 +31480,7 @@ HOST-SUFFIX,divcss5.com,DIRECT
 HOST-SUFFIX,divepai.com,DIRECT
 HOST-SUFFIX,diving-fish.com,DIRECT
 HOST-SUFFIX,divizg.com,DIRECT
+HOST-SUFFIX,divoiotcloud.com,DIRECT
 HOST-SUFFIX,diwork.com,DIRECT
 HOST-SUFFIX,diwuyuan.com,DIRECT
 HOST-SUFFIX,dixinkj.com,DIRECT
@@ -35798,6 +35802,7 @@ HOST-SUFFIX,exhera.com,DIRECT
 HOST-SUFFIX,exhobby.com,DIRECT
 HOST-SUFFIX,exia.xyz,DIRECT
 HOST-SUFFIX,exiaoba.com,DIRECT
+HOST-SUFFIX,exiliumgf.com,DIRECT
 HOST-SUFFIX,exinee.com,DIRECT
 HOST-SUFFIX,exingbao.com,DIRECT
 HOST-SUFFIX,exiqu.com,DIRECT
@@ -57648,6 +57653,7 @@ HOST-SUFFIX,jiangmike.com,DIRECT
 HOST-SUFFIX,jiangmin.com,DIRECT
 HOST-SUFFIX,jiangnan-group.com,DIRECT
 HOST-SUFFIX,jiangnanmarket.org,DIRECT
+HOST-SUFFIX,jiangningwater.com,DIRECT
 HOST-SUFFIX,jiangongdata.com,DIRECT
 HOST-SUFFIX,jiangongw.com,DIRECT
 HOST-SUFFIX,jiangpaipinpai.com,DIRECT
@@ -60181,6 +60187,7 @@ HOST-SUFFIX,jsinfo.net,DIRECT
 HOST-SUFFIX,jsinnopharm.com,DIRECT
 HOST-SUFFIX,jsiport.com,DIRECT
 HOST-SUFFIX,jsirfe.com,DIRECT
+HOST-SUFFIX,jsj.top,DIRECT
 HOST-SUFFIX,jsjajt.com,DIRECT
 HOST-SUFFIX,jsjcjx.com,DIRECT
 HOST-SUFFIX,jsjclykz.com,DIRECT
@@ -61701,6 +61708,7 @@ HOST-SUFFIX,kaimenhong.org,DIRECT
 HOST-SUFFIX,kaimg.com,DIRECT
 HOST-SUFFIX,kaimitech.com,DIRECT
 HOST-SUFFIX,kaipai.com,DIRECT
+HOST-SUFFIX,kaipanhong.com,DIRECT
 HOST-SUFFIX,kaipanla.com,DIRECT
 HOST-SUFFIX,kaipuyun.cn,DIRECT
 HOST-SUFFIX,kaipuyun.com,DIRECT
@@ -66017,6 +66025,7 @@ HOST-SUFFIX,lightingchina.com,DIRECT
 HOST-SUFFIX,lightinit.com,DIRECT
 HOST-SUFFIX,lightky.com,DIRECT
 HOST-SUFFIX,lightlygame.com,DIRECT
+HOST-SUFFIX,lightmake.site,DIRECT
 HOST-SUFFIX,lightonus.com,DIRECT
 HOST-SUFFIX,lightpassport.com,DIRECT
 HOST-SUFFIX,lightsaber.com,DIRECT
@@ -70292,6 +70301,7 @@ HOST-SUFFIX,mellowgroups.com,DIRECT
 HOST-SUFFIX,melon-eptc.com,DIRECT
 HOST-SUFFIX,melon.cdnetworks.com,DIRECT
 HOST-SUFFIX,melon.icu,DIRECT
+HOST-SUFFIX,meloong.com,DIRECT
 HOST-SUFFIX,melotgroup.com,DIRECT
 HOST-SUFFIX,memblaze.com,DIRECT
 HOST-SUFFIX,memewan.com,DIRECT
@@ -78451,6 +78461,7 @@ HOST-SUFFIX,pidoutv.com,DIRECT
 HOST-SUFFIX,pidru.com,DIRECT
 HOST-SUFFIX,piececool.com,DIRECT
 HOST-SUFFIX,pieceofbake.net,DIRECT
+HOST-SUFFIX,piedaochuan.top,DIRECT
 HOST-SUFFIX,pieeco.com,DIRECT
 HOST-SUFFIX,piekee.com,DIRECT
 HOST-SUFFIX,piekee.net,DIRECT
@@ -87071,6 +87082,7 @@ HOST-SUFFIX,shanghaiyouxi.com,DIRECT
 HOST-SUFFIX,shanghaizhaxinhospital.com,DIRECT
 HOST-SUFFIX,shanghaizhenji.com,DIRECT
 HOST-SUFFIX,shanghcat.com,DIRECT
+HOST-SUFFIX,shanghongbei.com,DIRECT
 HOST-SUFFIX,shanghuiai.com,DIRECT
 HOST-SUFFIX,shanghuiwww.com,DIRECT
 HOST-SUFFIX,shanghuiyi.com,DIRECT
@@ -94126,6 +94138,7 @@ HOST-SUFFIX,taizhouwater.com,DIRECT
 HOST-SUFFIX,taizibao.com,DIRECT
 HOST-SUFFIX,tajd.net,DIRECT
 HOST-SUFFIX,taji-ai.com,DIRECT
+HOST-SUFFIX,tajiduo.com,DIRECT
 HOST-SUFFIX,takebackthegrid.org,DIRECT
 HOST-SUFFIX,takesend.com,DIRECT
 HOST-SUFFIX,takfat.com,DIRECT
@@ -95870,6 +95883,7 @@ HOST-SUFFIX,tianlaiedu.com,DIRECT
 HOST-SUFFIX,tianlaijiaoyu.com,DIRECT
 HOST-SUFFIX,tianlaikge.com,DIRECT
 HOST-SUFFIX,tianlailive.com,DIRECT
+HOST-SUFFIX,tianlala.com,DIRECT
 HOST-SUFFIX,tianli-blog.club,DIRECT
 HOST-SUFFIX,tianlian.com,DIRECT
 HOST-SUFFIX,tianlijianshe.com,DIRECT
@@ -96893,6 +96907,7 @@ HOST-SUFFIX,tongjiai.com,DIRECT
 HOST-SUFFIX,tongjijs.com,DIRECT
 HOST-SUFFIX,tongjiniao.com,DIRECT
 HOST-SUFFIX,tongjipf.com,DIRECT
+HOST-SUFFIX,tongkask.com,DIRECT
 HOST-SUFFIX,tongleer.com,DIRECT
 HOST-SUFFIX,tonglei.com,DIRECT
 HOST-SUFFIX,tonglian.com,DIRECT
