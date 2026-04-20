@@ -1,9 +1,9 @@
 #!name=AI Domain Rules
 #!desc=Auto-updated AI vendor domain rules
 #!author=Minis
-#!updated=2026-04-20T21:03:16+00:00
+#!updated=2026-04-20T22:04:58+00:00
 
-HOST-SUFFIX,account.microsoft.com,AI
+HOST-SUFFIX,account.google.com,AI
 HOST-SUFFIX,accounts.google.com,AI
 HOST-SUFFIX,accounts.x.ai,AI
 HOST-SUFFIX,admin.google.com,AI
@@ -16,9 +16,11 @@ HOST-SUFFIX,api.githubcopilot.com,AI
 HOST-SUFFIX,api.perplexity.ai,AI
 HOST-SUFFIX,apps.microsoft.com,AI
 HOST-SUFFIX,assets.grok.com,AI
+HOST-SUFFIX,auth.mistral.ai,AI
 HOST-SUFFIX,azure.microsoft.com,AI
 HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,blogs.microsoft.com,AI
+HOST-SUFFIX,browser.events.data.microsoft.com,AI
 HOST-SUFFIX,c.ai,AI
 HOST-SUFFIX,careers.microsoft.com,AI
 HOST-SUFFIX,cdn.grok.com,AI
@@ -26,6 +28,7 @@ HOST-SUFFIX,character.ai,AI
 HOST-SUFFIX,chat.mistral.ai,AI
 HOST-SUFFIX,chat.openai.com,AI
 HOST-SUFFIX,chatgpt.com,AI
+HOST-SUFFIX,choice.microsoft.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,cloud.google.com,AI
@@ -43,6 +46,7 @@ HOST-SUFFIX,data.x.ai,AI
 HOST-SUFFIX,deepmind.com,AI
 HOST-SUFFIX,deepmind.google,AI
 HOST-SUFFIX,deepmind.google.com,AI
+HOST-SUFFIX,devblogs.microsoft.com,AI
 HOST-SUFFIX,developer.microsoft.com,AI
 HOST-SUFFIX,discuss.ai.google.dev,AI
 HOST-SUFFIX,docs.anthropic.com,AI
@@ -66,16 +70,17 @@ HOST-SUFFIX,help.mistral.ai,AI
 HOST-SUFFIX,imagine-public.x.ai,AI
 HOST-SUFFIX,info.stability.ai,AI
 HOST-SUFFIX,kb.stability.ai,AI
-HOST-SUFFIX,labs.character.ai,AI
 HOST-SUFFIX,labs.google.com,AI
 HOST-SUFFIX,learn.microsoft.com,AI
 HOST-SUFFIX,legal.mistral.ai,AI
+HOST-SUFFIX,mail.google.com,AI
 HOST-SUFFIX,marketplace.microsoft.com,AI
 HOST-SUFFIX,meta.ai,AI
 HOST-SUFFIX,microsoft.com,AI
 HOST-SUFFIX,midjourney.com,AI
 HOST-SUFFIX,mistral.ai,AI
 HOST-SUFFIX,myaccount.google.com,AI
+HOST-SUFFIX,myactivity.google.com,AI
 HOST-SUFFIX,news.microsoft.com,AI
 HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,oaistatic.com,AI
@@ -84,8 +89,12 @@ HOST-SUFFIX,ogads-pa.clients6.google.com,AI
 HOST-SUFFIX,ogs.google.com,AI
 HOST-SUFFIX,one.google.com,AI
 HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,partner.microsoft.com,AI
+HOST-SUFFIX,pay.google.com,AI
+HOST-SUFFIX,payments.google.com,AI
 HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,platform.stability.ai,AI
+HOST-SUFFIX,play.google.com,AI
 HOST-SUFFIX,policies.google.com,AI
 HOST-SUFFIX,pplx.ai,AI
 HOST-SUFFIX,research.perplexity.ai,AI
@@ -96,6 +105,8 @@ HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,status.openai.com,AI
 HOST-SUFFIX,support.google.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
+HOST-SUFFIX,support.serviceshub.microsoft.com,AI
+HOST-SUFFIX,takeout.google.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,trust.stability.ai,AI
