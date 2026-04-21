@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-21T00:00:46+00:00",
+  "updated_at": "2026-04-21T03:47:04+00:00",
   "vendor_count": 12,
-  "domain_count": 108,
+  "domain_count": 121,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,20 +18,21 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
+        "alignment.anthropic.com",
         "anthropic.com",
-        "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "s-cdn.anthropic.com",
+        "privacy.anthropic.com",
+        "red.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
@@ -42,7 +43,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -56,9 +57,9 @@
         "colab.sandbox.google.com",
         "deepmind.com",
         "deepmind.google",
+        "deepmind.google.com",
         "discuss.ai.google.dev",
         "docs.google.com",
-        "domains.google.com",
         "drive.google.com",
         "firebase.google.com",
         "gemini.google.com",
@@ -73,14 +74,14 @@
         "policies.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://drive.google.com/viewer/main: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -96,7 +97,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -113,6 +115,7 @@
     {
       "name": "Mistral",
       "domains": [
+        "auth.mistral.ai",
         "chat.mistral.ai",
         "cms.mistral.ai",
         "console.mistral.ai",
@@ -124,7 +127,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmistral-frontier-26.15-1ez5hhac6r.webp&amp;w=3840&amp;q=90&amp;dpl=09e41f339fe2194834906614ce37905784756e69bed6442155e6b5ed7df9bf5f363965306165316363326661626530303038326664386437: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F7330d45b-4c8d-4beb-8e68-324439ff1936&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -134,6 +137,7 @@
         "community.perplexity.ai",
         "console.perplexity.ai",
         "docs.perplexity.ai",
+        "labs.pplx.ai",
         "perplexity.ai",
         "pplx.ai",
         "research.perplexity.ai",
@@ -142,7 +146,9 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://console.perplexity.ai: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -163,6 +169,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "support.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -183,11 +190,15 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -196,6 +207,8 @@
         "about.ads.microsoft.com",
         "account.microsoft.com",
         "api.githubcopilot.com",
+        "apps.microsoft.com",
+        "azure.microsoft.com",
         "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
         "careers.microsoft.com",
@@ -203,8 +216,8 @@
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
+        "developercommunity.microsoft.com",
         "dynamics.microsoft.com",
-        "education.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -213,6 +226,7 @@
         "partner.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
+        "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
