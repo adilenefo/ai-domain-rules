@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-21T23:00:40+00:00",
+  "updated_at": "2026-04-21T23:52:57+00:00",
   "vendor_count": 12,
-  "domain_count": 103,
+  "domain_count": 111,
   "vendors": [
     {
       "name": "OpenAI",
@@ -29,8 +29,9 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
+        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
@@ -39,7 +40,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -53,6 +55,7 @@
         "colab.sandbox.google.com",
         "deepmind.com",
         "deepmind.google",
+        "deepmind.google.com",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
@@ -74,9 +77,7 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -120,8 +121,9 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F31d54fd8-d0b6-4be3-a6a0-2da38b0c6163&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F5afa738c-4dae-451a-aac0-104e037c64a5&amp;w=256&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F7df5b340-9873-4858-b120-bb7df99716d9&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F6c9e6447-a422-4ea3-b9a6-e7ae9a516e74&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fb9e2f9fa-9c9c-4fc7-b8f5-29fc8648d6ce&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -138,7 +140,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/v1/agent: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -183,31 +186,36 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "about.ads.microsoft.com",
+        "account.microsoft.com",
         "api.githubcopilot.com",
+        "apps.microsoft.com",
         "azure.microsoft.com",
+        "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
         "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "dynamics.microsoft.com",
+        "developercommunity.microsoft.com",
         "education.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
+        "support.microsoft.com",
         "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
+        "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
