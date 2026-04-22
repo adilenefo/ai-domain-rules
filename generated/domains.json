@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-22T14:11:24+00:00",
+  "updated_at": "2026-04-22T15:41:55+00:00",
   "vendor_count": 12,
-  "domain_count": 88,
+  "domain_count": 109,
   "vendors": [
     {
       "name": "OpenAI",
@@ -30,16 +30,18 @@
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
-        "www.anthropic.com"
+        "www-cdn.anthropic.com",
+        "www.anthropic.com",
+        "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -70,14 +72,14 @@
         "policies.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -93,7 +95,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://console.x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -121,8 +124,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fcd0def9e-9249-4e70-b27a-5f8681e1da96&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://console.mistral.ai/codestral/cli: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fe8d8d013-ac34-4a04-924f-16e52254db5c&amp;w=3840&amp;q=90: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F0ff12545-4d8e-40f2-a13d-9f09063720a5&amp;w=256&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -160,7 +163,6 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
-        "support.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -182,25 +184,41 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "policies.character.ai",
+        "labs.character.ai",
+        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "api.githubcopilot.com",
+        "account.microsoft.com",
+        "azure.microsoft.com",
+        "browser.events.data.microsoft.com",
+        "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "githubcopilot.com"
+        "devblogs.microsoft.com",
+        "education.microsoft.com",
+        "githubcopilot.com",
+        "go.microsoft.com",
+        "learn.microsoft.com",
+        "marketplace.microsoft.com",
+        "partner.microsoft.com",
+        "support.serviceshub.microsoft.com",
+        "techcommunity.microsoft.com",
+        "uhf.microsoft.com",
+        "visualstudio.microsoft.com",
+        "wcpstatic.microsoft.com",
+        "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
