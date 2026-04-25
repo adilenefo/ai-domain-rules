@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,a-cdn.anthropic.com
+  - DOMAIN-SUFFIX,about.ads.microsoft.com
   - DOMAIN-SUFFIX,account.microsoft.com
   - DOMAIN-SUFFIX,accounts.google.com
   - DOMAIN-SUFFIX,accounts.x.ai
@@ -35,7 +35,6 @@ payload:
   - DOMAIN-SUFFIX,console.mistral.ai
   - DOMAIN-SUFFIX,console.perplexity.ai
   - DOMAIN-SUFFIX,console.x.ai
-  - DOMAIN-SUFFIX,conway.claudeusercontent.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,dashboard.cohere.com
   - DOMAIN-SUFFIX,data.x.ai
@@ -43,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,deepmind.google.com
   - DOMAIN-SUFFIX,devblogs.microsoft.com
+  - DOMAIN-SUFFIX,developer.microsoft.com
   - DOMAIN-SUFFIX,developercommunity.microsoft.com
   - DOMAIN-SUFFIX,discuss.ai.google.dev
   - DOMAIN-SUFFIX,docs.anthropic.com
@@ -51,8 +51,10 @@ payload:
   - DOMAIN-SUFFIX,docs.mistral.ai
   - DOMAIN-SUFFIX,docs.perplexity.ai
   - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,dynamics.microsoft.com
   - DOMAIN-SUFFIX,education.microsoft.com
   - DOMAIN-SUFFIX,educationblog.microsoft.com
+  - DOMAIN-SUFFIX,events.cohere.com
   - DOMAIN-SUFFIX,firebase.google.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com
@@ -63,11 +65,12 @@ payload:
   - DOMAIN-SUFFIX,help.mistral.ai
   - DOMAIN-SUFFIX,imagine-public.x.ai
   - DOMAIN-SUFFIX,kb.stability.ai
+  - DOMAIN-SUFFIX,labs.character.ai
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,learn.microsoft.com
   - DOMAIN-SUFFIX,legal.mistral.ai
+  - DOMAIN-SUFFIX,marketplace.microsoft.com
   - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,myaccount.google.com
@@ -82,14 +85,16 @@ payload:
   - DOMAIN-SUFFIX,partner.microsoft.com
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,platform.stability.ai
-  - DOMAIN-SUFFIX,policies.character.ai
   - DOMAIN-SUFFIX,policies.google.com
   - DOMAIN-SUFFIX,pplx.ai
   - DOMAIN-SUFFIX,research.perplexity.ai
   - DOMAIN-SUFFIX,s-cdn.anthropic.com
+  - DOMAIN-SUFFIX,services.google.com
+  - DOMAIN-SUFFIX,share.character.ai
   - DOMAIN-SUFFIX,stability.ai
   - DOMAIN-SUFFIX,status.anthropic.com
   - DOMAIN-SUFFIX,status.openai.com
+  - DOMAIN-SUFFIX,support.anthropic.com
   - DOMAIN-SUFFIX,support.character.ai
   - DOMAIN-SUFFIX,support.google.com
   - DOMAIN-SUFFIX,support.microsoft.com
