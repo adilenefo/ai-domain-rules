@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-25T20:58:15+00:00",
+  "updated_at": "2026-04-25T21:54:05+00:00",
   "vendor_count": 12,
-  "domain_count": 91,
+  "domain_count": 108,
   "vendors": [
     {
       "name": "OpenAI",
@@ -34,7 +34,8 @@
         "status.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
-        "www.anthropic.com"
+        "www.anthropic.com",
+        "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -75,7 +76,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -109,20 +111,19 @@
     {
       "name": "Mistral",
       "domains": [
+        "api.mistral.ai",
         "chat.mistral.ai",
         "cms.mistral.ai",
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F06a82fa5-050c-46a7-98aa-3a4d2170ab75&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F31d54fd8-d0b6-4be3-a6a0-2da38b0c6163&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fb4d6c9c2-98d4-4510-8b78-7ea7b2ac9fec&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -134,8 +135,7 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "www.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -148,7 +148,8 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com"
+        "docs.cohere.com",
+        "events.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -179,28 +180,48 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
+        "api.githubcopilot.com",
+        "apps.microsoft.com",
+        "azure.microsoft.com",
+        "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
+        "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
+        "developer.microsoft.com",
+        "dynamics.microsoft.com",
+        "education.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
-        "support.microsoft.com",
+        "marketplace.microsoft.com",
+        "news.microsoft.com",
+        "partner.microsoft.com",
         "techcommunity.microsoft.com",
+        "uhf.microsoft.com",
+        "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }
