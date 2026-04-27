@@ -1,6 +1,6 @@
 # Title: AI Domain Rules
-# Updated: 2026-04-27T06:42:44+00:00
-# Total domains: 107
+# Updated: 2026-04-27T09:30:44+00:00
+# Total domains: 113
 
 # OpenAI (6 domains)
 HOST-SUFFIX,chat.openai.com,AI
@@ -10,16 +10,17 @@ HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,status.openai.com,AI
 
-# Anthropic (13 domains)
-HOST-SUFFIX,a-cdn.anthropic.com,AI
+# Anthropic (14 domains)
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
-HOST-SUFFIX,assets.anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
+HOST-SUFFIX,console.anthropic.com,AI
 HOST-SUFFIX,conway.claudeusercontent.com,AI
 HOST-SUFFIX,docs.anthropic.com,AI
+HOST-SUFFIX,s-cdn.anthropic.com,AI
 HOST-SUFFIX,status.anthropic.com,AI
+HOST-SUFFIX,support.anthropic.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
@@ -69,7 +70,8 @@ HOST-SUFFIX,x.ai,AI
 HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,meta.ai,AI
 
-# Mistral (7 domains)
+# Mistral (8 domains)
+HOST-SUFFIX,api.mistral.ai,AI
 HOST-SUFFIX,chat.mistral.ai,AI
 HOST-SUFFIX,cms.mistral.ai,AI
 HOST-SUFFIX,console.mistral.ai,AI
@@ -110,23 +112,27 @@ HOST-SUFFIX,character.ai,AI
 HOST-SUFFIX,policies.character.ai,AI
 HOST-SUFFIX,support.character.ai,AI
 
-# GitHub Copilot (21 domains)
+# GitHub Copilot (25 domains)
+HOST-SUFFIX,about.ads.microsoft.com,AI
 HOST-SUFFIX,account.microsoft.com,AI
-HOST-SUFFIX,api.githubcopilot.com,AI
+HOST-SUFFIX,apps.microsoft.com,AI
 HOST-SUFFIX,azure.microsoft.com,AI
 HOST-SUFFIX,blogs.microsoft.com,AI
 HOST-SUFFIX,browser.events.data.microsoft.com,AI
+HOST-SUFFIX,choice.microsoft.com,AI
 HOST-SUFFIX,copilot.microsoft.com,AI
 HOST-SUFFIX,devblogs.microsoft.com,AI
-HOST-SUFFIX,developer.microsoft.com,AI
 HOST-SUFFIX,developercommunity.microsoft.com,AI
 HOST-SUFFIX,education.microsoft.com,AI
+HOST-SUFFIX,educationblog.microsoft.com,AI
 HOST-SUFFIX,githubcopilot.com,AI
 HOST-SUFFIX,go.microsoft.com,AI
 HOST-SUFFIX,learn.microsoft.com,AI
 HOST-SUFFIX,marketplace.microsoft.com,AI
+HOST-SUFFIX,microsoft.com,AI
 HOST-SUFFIX,news.microsoft.com,AI
-HOST-SUFFIX,support.serviceshub.microsoft.com,AI
+HOST-SUFFIX,partner.microsoft.com,AI
+HOST-SUFFIX,support.microsoft.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
