@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-28T17:04:01+00:00",
+  "updated_at": "2026-04-28T18:53:17+00:00",
   "vendor_count": 12,
-  "domain_count": 110,
+  "domain_count": 115,
   "vendors": [
     {
       "name": "OpenAI",
@@ -28,7 +28,9 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -38,9 +40,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -54,6 +54,7 @@
         "colab.sandbox.google.com",
         "deepmind.com",
         "deepmind.google",
+        "deepmind.google.com",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
@@ -62,20 +63,23 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
         "policies.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
+        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
@@ -91,7 +95,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://data.x.ai/grok-4-fast-side-by-side.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -119,7 +124,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fee43773a-3a40-442a-a01a-9f5639e1fba5&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fcf8fa1a8-15b0-4fbe-bc2f-7aa081231567&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -144,9 +149,7 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com",
-        "events.cohere.com",
-        "trustcenter.cohere.com"
+        "docs.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -154,10 +157,10 @@
     {
       "name": "Stability AI",
       "domains": [
-        "hpc.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "support.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -178,12 +181,15 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -194,15 +200,16 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
-        "developer.microsoft.com",
-        "developercommunity.microsoft.com",
+        "docs.microsoft.com",
         "dynamics.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
