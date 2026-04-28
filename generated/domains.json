@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-04-28T04:07:50+00:00",
+  "updated_at": "2026-04-28T06:45:48+00:00",
   "vendor_count": 12,
-  "domain_count": 117,
+  "domain_count": 103,
   "vendors": [
     {
       "name": "OpenAI",
       "domains": [
         "chat.openai.com",
         "chatgpt.com",
+        "developers.openai.com",
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",
@@ -18,8 +19,7 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=32&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -29,13 +29,9 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -57,7 +53,6 @@
         "colab.sandbox.google.com",
         "deepmind.com",
         "deepmind.google",
-        "deepmind.google.com",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
@@ -96,8 +91,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -125,8 +119,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fc0b7de4b-934f-4627-adba-356799bbfe5d&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F0f8631ea-bfbc-4075-8f2e-c8f681076d7b&amp;w=96&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fee43773a-3a40-442a-a01a-9f5639e1fba5&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -152,7 +145,6 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -161,10 +153,10 @@
     {
       "name": "Stability AI",
       "domains": [
+        "hpc.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
-        "support.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -190,39 +182,31 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "about.ads.microsoft.com",
-        "account.microsoft.com",
         "api.githubcopilot.com",
-        "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
-        "developercommunity.microsoft.com",
-        "education.microsoft.com",
-        "educationblog.microsoft.com",
+        "developer.microsoft.com",
+        "dynamics.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
-        "news.microsoft.com",
         "partner.microsoft.com",
-        "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
-        "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
-        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
