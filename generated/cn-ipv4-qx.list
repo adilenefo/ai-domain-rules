@@ -1,6 +1,6 @@
 #!name=China IPv4 Rules
 #!desc=China mainland IPv4 CIDR rules from APNIC
-#!updated=2026-04-29T14:31:52+00:00
+#!updated=2026-04-29T16:54:55+00:00
 
 IP-CIDR,1.0.1.0/24,DIRECT,no-resolve
 IP-CIDR,1.0.2.0/23,DIRECT,no-resolve
@@ -4572,6 +4572,7 @@ IP-CIDR,161.248.84.0/23,DIRECT,no-resolve
 IP-CIDR,161.248.92.0/23,DIRECT,no-resolve
 IP-CIDR,162.105.0.0/16,DIRECT,no-resolve
 IP-CIDR,162.14.0.0/16,DIRECT,no-resolve
+IP-CIDR,162.4.54.0/23,DIRECT,no-resolve
 IP-CIDR,163.0.0.0/16,DIRECT,no-resolve
 IP-CIDR,163.125.0.0/16,DIRECT,no-resolve
 IP-CIDR,163.128.152.0/23,DIRECT,no-resolve
