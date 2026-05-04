@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-04T07:26:19+00:00
+#!updated=2026-05-04T10:26:18+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -81005,6 +81005,7 @@ HOST-SUFFIX,redbeeai.com,DIRECT
 HOST-SUFFIX,redcome.com,DIRECT
 HOST-SUFFIX,redcross-hx.com,DIRECT
 HOST-SUFFIX,redcross-sha.org,DIRECT
+HOST-SUFFIX,redcross.org.cn,DIRECT
 HOST-SUFFIX,reddogchina.com,DIRECT
 HOST-SUFFIX,redearth.com,DIRECT
 HOST-SUFFIX,redefine.ltd,DIRECT
