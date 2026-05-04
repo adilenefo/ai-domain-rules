@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-03T23:04:42+00:00",
+  "updated_at": "2026-05-04T00:04:57+00:00",
   "vendor_count": 12,
-  "domain_count": 119,
+  "domain_count": 125,
   "vendors": [
     {
       "name": "OpenAI",
@@ -33,6 +33,7 @@
         "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -46,6 +47,7 @@
     {
       "name": "Google Gemini",
       "domains": [
+        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
@@ -63,24 +65,26 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
+        "pay.google.com",
+        "payments.google.com",
+        "play.google.com",
         "policies.google.com",
         "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
+        "takeout.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -96,8 +100,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -114,6 +117,7 @@
     {
       "name": "Mistral",
       "domains": [
+        "api.mistral.ai",
         "chat.mistral.ai",
         "cms.mistral.ai",
         "console.mistral.ai",
@@ -125,8 +129,9 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F06a82fa5-050c-46a7-98aa-3a4d2170ab75&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F4c9eafe3-745f-4ba4-95f7-5c2576671676&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F9c3aec2e-9825-4691-8458-cf4bd48ceff5&amp;w=96&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F8c44f882-ea77-439d-83f3-21bb2ea06149&amp;w=3840&amp;q=90: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=%2Fimg%2Fandroidstore.svg&amp;w=256&amp;q=75&amp;dpl=72b3eea2b30ea064585e7490fd8ada94198a91dc3ee51edd7f785885f0d33d27363966323765326664616136386334656564356631306362: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -143,8 +148,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -187,7 +191,6 @@
         "character.ai",
         "labs.character.ai",
         "policies.character.ai",
-        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
@@ -198,9 +201,7 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "about.ads.microsoft.com",
         "account.microsoft.com",
-        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
@@ -211,8 +212,10 @@
         "devblogs.microsoft.com",
         "developer.microsoft.com",
         "developercommunity.microsoft.com",
+        "docs.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -230,9 +233,7 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
