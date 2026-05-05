@@ -1,8 +1,9 @@
 #!name=AI Domain Rules
 #!desc=Auto-updated AI vendor domain rules
 #!author=Minis
-#!updated=2026-05-05T00:09:26+00:00
+#!updated=2026-05-05T03:51:37+00:00
 
+HOST-SUFFIX,account.microsoft.com,AI
 HOST-SUFFIX,accounts.google.com,AI
 HOST-SUFFIX,accounts.x.ai,AI
 HOST-SUFFIX,admin.google.com,AI
@@ -11,7 +12,6 @@ HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,aistudio.google.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
-HOST-SUFFIX,api.githubcopilot.com,AI
 HOST-SUFFIX,api.perplexity.ai,AI
 HOST-SUFFIX,apps.microsoft.com,AI
 HOST-SUFFIX,assets.grok.com,AI
@@ -25,6 +25,7 @@ HOST-SUFFIX,character.ai,AI
 HOST-SUFFIX,chat.mistral.ai,AI
 HOST-SUFFIX,chat.openai.com,AI
 HOST-SUFFIX,chatgpt.com,AI
+HOST-SUFFIX,choice.microsoft.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,cloud.google.com,AI
@@ -32,6 +33,7 @@ HOST-SUFFIX,cms.mistral.ai,AI
 HOST-SUFFIX,cohere.com,AI
 HOST-SUFFIX,colab.sandbox.google.com,AI
 HOST-SUFFIX,community.perplexity.ai,AI
+HOST-SUFFIX,console.anthropic.com,AI
 HOST-SUFFIX,console.mistral.ai,AI
 HOST-SUFFIX,console.perplexity.ai,AI
 HOST-SUFFIX,console.x.ai,AI
@@ -63,7 +65,6 @@ HOST-SUFFIX,healthapp.google.com,AI
 HOST-SUFFIX,help.mistral.ai,AI
 HOST-SUFFIX,imagine-public.x.ai,AI
 HOST-SUFFIX,kb.stability.ai,AI
-HOST-SUFFIX,labs.character.ai,AI
 HOST-SUFFIX,labs.google.com,AI
 HOST-SUFFIX,learn.microsoft.com,AI
 HOST-SUFFIX,legal.mistral.ai,AI
@@ -94,10 +95,12 @@ HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,status.openai.com,AI
 HOST-SUFFIX,support.google.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
+HOST-SUFFIX,support.stability.ai,AI
+HOST-SUFFIX,supporttagging-autopush.sandbox.google.com,AI
+HOST-SUFFIX,tagassistant.google.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,trust.stability.ai,AI
-HOST-SUFFIX,trustcenter.cohere.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
 HOST-SUFFIX,unlocked.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
