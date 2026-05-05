@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-05T11:40:02+00:00",
+  "updated_at": "2026-05-05T14:26:29+00:00",
   "vendor_count": 12,
-  "domain_count": 113,
+  "domain_count": 108,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,8 +18,7 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -34,6 +33,7 @@
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -76,8 +76,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogs.google.com/widget/callout?eom=1: HTTPError: HTTP Error 400: Bad Request",
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized",
+        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -94,7 +94,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://imagine-public.x.ai/imagine-public/share-videos/7b097052-8cfe-4b0f-8a33-c2a71e1aed25.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -117,13 +118,13 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F31d54fd8-d0b6-4be3-a6a0-2da38b0c6163&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F692477d1-59d4-4483-a5e2-c935cd21ef25&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fee43773a-3a40-442a-a01a-9f5639e1fba5&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -140,7 +141,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://console.perplexity.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -148,8 +150,7 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com",
-        "events.cohere.com"
+        "docs.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -157,6 +158,8 @@
     {
       "name": "Stability AI",
       "domains": [
+        "dreamstudio.stability.ai",
+        "info.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -180,21 +183,17 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "about.ads.microsoft.com",
-        "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
@@ -204,7 +203,6 @@
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "developercommunity.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
@@ -213,8 +211,8 @@
         "marketplace.microsoft.com",
         "microsoft.com",
         "news.microsoft.com",
+        "partner.microsoft.com",
         "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
