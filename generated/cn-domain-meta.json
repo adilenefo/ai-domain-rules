@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T09:37:19+00:00",
+  "updated_at": "2026-05-06T12:10:35+00:00",
   "domain_count": 117203,
   "sources": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "source": "v2fly_geolocation_cn",
-      "count": 1292
+      "count": 1290
     },
     {
       "source": "v2fly_tld_cn",

@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-06T09:37:19+00:00
+#!updated=2026-05-06T12:10:35+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -51130,6 +51130,7 @@ HOST-SUFFIX,huoshen.com,DIRECT
 HOST-SUFFIX,huoshen99.com,DIRECT
 HOST-SUFFIX,huoshi.shop,DIRECT
 HOST-SUFFIX,huosu.com,DIRECT
+HOST-SUFFIX,huotan.net,DIRECT
 HOST-SUFFIX,huowan.com,DIRECT
 HOST-SUFFIX,huowanes.com,DIRECT
 HOST-SUFFIX,huoxiaoyi.com,DIRECT
@@ -116037,7 +116038,6 @@ HOST-SUFFIX,zoomeye.org,DIRECT
 HOST-SUFFIX,zoomla.net,DIRECT
 HOST-SUFFIX,zoomlion.com,DIRECT
 HOST-SUFFIX,zoomwo.com,DIRECT
-HOST-SUFFIX,zoomyou.cn,DIRECT
 HOST-SUFFIX,zoopda.com,DIRECT
 HOST-SUFFIX,zoosnet.net,DIRECT
 HOST-SUFFIX,zoossoft.com,DIRECT
