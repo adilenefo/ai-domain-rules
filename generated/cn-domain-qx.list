@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-07T22:18:59+00:00
+#!updated=2026-05-08T00:08:51+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -8509,6 +8509,7 @@ HOST-SUFFIX,800mei.net,DIRECT
 HOST-SUFFIX,800pharm.com,DIRECT
 HOST-SUFFIX,800tuan.com,DIRECT
 HOST-SUFFIX,800tzw.com,DIRECT
+HOST-SUFFIX,800vdc.com,DIRECT
 HOST-SUFFIX,800vod.com,DIRECT
 HOST-SUFFIX,800wen.com,DIRECT
 HOST-SUFFIX,800xiaoshuo.com,DIRECT
@@ -69245,6 +69246,7 @@ HOST-SUFFIX,mmbang.info,DIRECT
 HOST-SUFFIX,mmbang.net,DIRECT
 HOST-SUFFIX,mmbao.com,DIRECT
 HOST-SUFFIX,mmbest.com,DIRECT
+HOST-SUFFIX,mmbizgo.com,DIRECT
 HOST-SUFFIX,mmbjq.com,DIRECT
 HOST-SUFFIX,mmbread.com,DIRECT
 HOST-SUFFIX,mmc-data.com,DIRECT
