@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-08T14:20:44+00:00",
+  "updated_at": "2026-05-08T16:46:10+00:00",
   "vendor_count": 12,
-  "domain_count": 121,
+  "domain_count": 124,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,21 +18,19 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=16&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
+        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -88,8 +86,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -106,8 +103,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://data.x.ai/grok-4-fast-side-by-side.mp4: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -134,8 +130,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=%2Fimg%2Fmistral-ai-logo.svg&amp;w=256&amp;q=75&amp;dpl=b1947093aa207e8509f35dbe04249fc0bb8e1bb5ee0dda61a1734245e11337ef363966383730623436616132613730303039333462656361: HTTPError: HTTP Error 400: Bad Request"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -160,7 +155,9 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com"
+        "docs.cohere.com",
+        "events.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -192,7 +189,8 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "policies.character.ai",
+        "labs.character.ai",
+        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
@@ -203,30 +201,31 @@
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
+        "developercommunity.microsoft.com",
+        "dynamics.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
         "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
+        "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
