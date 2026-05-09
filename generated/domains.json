@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-09T19:34:51+00:00",
+  "updated_at": "2026-05-09T21:04:51+00:00",
   "vendor_count": 12,
-  "domain_count": 121,
+  "domain_count": 122,
   "vendors": [
     {
       "name": "OpenAI",
@@ -39,7 +39,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -70,21 +71,26 @@
         "lh3.google.com",
         "mail.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
+        "pay.google.com",
+        "payments.google.com",
         "people-pa.clients6.google.com",
+        "play.google.com",
         "policies.google.com",
         "services.google.com",
         "support.google.com",
+        "takeout.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://ogs.google.com/widget/callout?eom=1: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -101,8 +107,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://cdn.grok.com: HTTPError: HTTP Error 404: Not Found"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -130,7 +135,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F29961267-acea-45de-a00d-8539e3359c1f&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F5d09066e-9c71-4875-912d-d1ba4b651903&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
+        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F6aec4419-ebfd-4f19-8432-17fec33e0929&amp;w=384&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -155,9 +161,7 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com",
-        "events.cohere.com",
-        "trustcenter.cohere.com"
+        "docs.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -168,12 +172,11 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Midjourney",
@@ -201,18 +204,16 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "about.ads.microsoft.com",
         "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
-        "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "developercommunity.microsoft.com",
         "dynamics.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
@@ -224,7 +225,6 @@
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
