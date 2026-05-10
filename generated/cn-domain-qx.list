@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-09T23:06:49+00:00
+#!updated=2026-05-10T00:05:52+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -15960,7 +15960,6 @@ HOST-SUFFIX,beiyijt.com,DIRECT
 HOST-SUFFIX,beiyinqi.com,DIRECT
 HOST-SUFFIX,beiyiskjc.com,DIRECT
 HOST-SUFFIX,beiyongzhan.com,DIRECT
-HOST-SUFFIX,beiyu.xin,DIRECT
 HOST-SUFFIX,beiyuwangxiao.com,DIRECT
 HOST-SUFFIX,beizhua.com,DIRECT
 HOST-SUFFIX,beizi.biz,DIRECT
@@ -31106,6 +31105,7 @@ HOST-SUFFIX,dolphinpaper.com,DIRECT
 HOST-SUFFIX,dolphinphp.com,DIRECT
 HOST-SUFFIX,dom-3d.net,DIRECT
 HOST-SUFFIX,domabio.com,DIRECT
+HOST-SUFFIX,domain.email,DIRECT
 HOST-SUFFIX,domaingz.com,DIRECT
 HOST-SUFFIX,domesticmedia.cc,DIRECT
 HOST-SUFFIX,domesticmedia.co,DIRECT
@@ -41313,7 +41313,6 @@ HOST-SUFFIX,gsmuban.com,DIRECT
 HOST-SUFFIX,gsnhcg.com,DIRECT
 HOST-SUFFIX,gsnytz.com,DIRECT
 HOST-SUFFIX,gsp10-ssl-cn.ls.apple.com,DIRECT
-HOST-SUFFIX,gsp11-cn.ls.apple.com,DIRECT
 HOST-SUFFIX,gsp12-cn.ls.apple.com,DIRECT
 HOST-SUFFIX,gsp13-cn.ls.apple.com,DIRECT
 HOST-SUFFIX,gsp4-cn.ls.apple.com,DIRECT
@@ -58119,6 +58118,7 @@ HOST-SUFFIX,jsguohua.com,DIRECT
 HOST-SUFFIX,jsguolv.com,DIRECT
 HOST-SUFFIX,jsgwyw.org,DIRECT
 HOST-SUFFIX,jsgx.net,DIRECT
+HOST-SUFFIX,jsgxca.com,DIRECT
 HOST-SUFFIX,jsgxgf.com,DIRECT
 HOST-SUFFIX,jsgyrcb.com,DIRECT
 HOST-SUFFIX,jsgzgz.com,DIRECT
@@ -59734,6 +59734,7 @@ HOST-SUFFIX,kaiyun.net,DIRECT
 HOST-SUFFIX,kaiyun360.com,DIRECT
 HOST-SUFFIX,kaiyuncare.com,DIRECT
 HOST-SUFFIX,kaiyunwu.net,DIRECT
+HOST-SUFFIX,kaizencpa.com,DIRECT
 HOST-SUFFIX,kaizhan.com,DIRECT
 HOST-SUFFIX,kajicam.com,DIRECT
 HOST-SUFFIX,kaka.com,DIRECT
@@ -63165,6 +63166,7 @@ HOST-SUFFIX,lepaicm.com,DIRECT
 HOST-SUFFIX,lepiaoyun.com,DIRECT
 HOST-SUFFIX,lepidard.com,DIRECT
 HOST-SUFFIX,leptv.com,DIRECT
+HOST-SUFFIX,lepudding.com,DIRECT
 HOST-SUFFIX,lepumedical.com,DIRECT
 HOST-SUFFIX,leqi.us,DIRECT
 HOST-SUFFIX,leqian.com,DIRECT
@@ -78606,6 +78608,7 @@ HOST-SUFFIX,qm41.com,DIRECT
 HOST-SUFFIX,qm69.com,DIRECT
 HOST-SUFFIX,qm989.com,DIRECT
 HOST-SUFFIX,qmacro.com,DIRECT
+HOST-SUFFIX,qmai.com,DIRECT
 HOST-SUFFIX,qmail.com,DIRECT
 HOST-SUFFIX,qmango.com,DIRECT
 HOST-SUFFIX,qmceo.com,DIRECT
@@ -108700,7 +108703,6 @@ HOST-SUFFIX,ylturl.com,DIRECT
 HOST-SUFFIX,yltvb.com,DIRECT
 HOST-SUFFIX,yltxxx.com,DIRECT
 HOST-SUFFIX,ylun8.com,DIRECT
-HOST-SUFFIX,ylunion.com,DIRECT
 HOST-SUFFIX,yluu.com,DIRECT
 HOST-SUFFIX,ylwdec.com,DIRECT
 HOST-SUFFIX,ylwl.cc,DIRECT
@@ -112130,6 +112132,7 @@ HOST-SUFFIX,zggcks.com,DIRECT
 HOST-SUFFIX,zggd.city,DIRECT
 HOST-SUFFIX,zgggws.com,DIRECT
 HOST-SUFFIX,zggjgy.com,DIRECT
+HOST-SUFFIX,zggjj.com,DIRECT
 HOST-SUFFIX,zggjsmc.com,DIRECT
 HOST-SUFFIX,zggldgj.com,DIRECT
 HOST-SUFFIX,zgglkx.com,DIRECT
@@ -115875,6 +115878,7 @@ HOST-SUFFIX,zwmrxd.com,DIRECT
 HOST-SUFFIX,zwoasi.com,DIRECT
 HOST-SUFFIX,zwoptical.com,DIRECT
 HOST-SUFFIX,zwoptics.com,DIRECT
+HOST-SUFFIX,zwpyyds.com,DIRECT
 HOST-SUFFIX,zwslshy.com,DIRECT
 HOST-SUFFIX,zwsmds.com,DIRECT
 HOST-SUFFIX,zwtianshangm.com,DIRECT
