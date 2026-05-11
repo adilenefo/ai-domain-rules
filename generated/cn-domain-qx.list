@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-10T23:10:27+00:00
+#!updated=2026-05-11T00:09:55+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -66762,6 +66762,7 @@ HOST-SUFFIX,maiya91.com,DIRECT
 HOST-SUFFIX,maiyadi.com,DIRECT
 HOST-SUFFIX,maiyanju.com,DIRECT
 HOST-SUFFIX,maiyaole.com,DIRECT
+HOST-SUFFIX,maiyatian.com,DIRECT
 HOST-SUFFIX,maiyayk.com,DIRECT
 HOST-SUFFIX,maiyuesoft.com,DIRECT
 HOST-SUFFIX,maiyuren.com,DIRECT
@@ -81800,7 +81801,6 @@ HOST-SUFFIX,safetystatic.com,DIRECT
 HOST-SUFFIX,safetyvod.com,DIRECT
 HOST-SUFFIX,safround.com,DIRECT
 HOST-SUFFIX,sagepub.com,DIRECT
-HOST-SUFFIX,sagetrc.com,DIRECT
 HOST-SUFFIX,sagewc-exp.com,DIRECT
 HOST-SUFFIX,sagigame.net,DIRECT
 HOST-SUFFIX,sagsaas.com,DIRECT
@@ -84472,7 +84472,6 @@ HOST-SUFFIX,shenda-group.com,DIRECT
 HOST-SUFFIX,shendatong.com,DIRECT
 HOST-SUFFIX,shendiaoqzj.com,DIRECT
 HOST-SUFFIX,shendoow.com,DIRECT
-HOST-SUFFIX,shendu.cc,DIRECT
 HOST-SUFFIX,shendu.com,DIRECT
 HOST-SUFFIX,shendu123.com,DIRECT
 HOST-SUFFIX,shendugho.com,DIRECT
@@ -94853,7 +94852,6 @@ HOST-SUFFIX,tv2-zuqiu.com,DIRECT
 HOST-SUFFIX,tv20806.com,DIRECT
 HOST-SUFFIX,tv373.com,DIRECT
 HOST-SUFFIX,tvandnet.com,DIRECT
-HOST-SUFFIX,tvants.com,DIRECT
 HOST-SUFFIX,tvapk.com,DIRECT
 HOST-SUFFIX,tvapk.net,DIRECT
 HOST-SUFFIX,tvbbj.com,DIRECT
@@ -100245,7 +100243,6 @@ HOST-SUFFIX,wjzpgz.com,DIRECT
 HOST-SUFFIX,wk2.com,DIRECT
 HOST-SUFFIX,wk515.com,DIRECT
 HOST-SUFFIX,wk78.com,DIRECT
-HOST-SUFFIX,wka8.com,DIRECT
 HOST-SUFFIX,wkai.cc,DIRECT
 HOST-SUFFIX,wkandian.com,DIRECT
 HOST-SUFFIX,wkanx.com,DIRECT
@@ -108107,7 +108104,6 @@ HOST-SUFFIX,yinsfinance.com,DIRECT
 HOST-SUFFIX,yinsha.com,DIRECT
 HOST-SUFFIX,yinshenxia.com,DIRECT
 HOST-SUFFIX,yinshua.cc,DIRECT
-HOST-SUFFIX,yinshuahangyewang.mobi,DIRECT
 HOST-SUFFIX,yinshuiyu.com,DIRECT
 HOST-SUFFIX,yinsuwl.com,DIRECT
 HOST-SUFFIX,yintai.com,DIRECT
