@@ -1,7 +1,7 @@
 #!name=AI Domain Rules
 #!desc=Auto-updated AI vendor domain rules
 #!author=Minis
-#!updated=2026-05-12T10:01:43+00:00
+#!updated=2026-05-12T12:18:43+00:00
 
 HOST-SUFFIX,a-cdn.anthropic.com,AI
 HOST-SUFFIX,about.ads.microsoft.com,AI
@@ -15,6 +15,8 @@ HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,aistudio.google.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
+HOST-SUFFIX,api.githubcopilot.com,AI
+HOST-SUFFIX,api.mistral.ai,AI
 HOST-SUFFIX,api.perplexity.ai,AI
 HOST-SUFFIX,apps.microsoft.com,AI
 HOST-SUFFIX,assets.grok.com,AI
@@ -37,6 +39,7 @@ HOST-SUFFIX,cms.mistral.ai,AI
 HOST-SUFFIX,cohere.com,AI
 HOST-SUFFIX,colab.sandbox.google.com,AI
 HOST-SUFFIX,community.perplexity.ai,AI
+HOST-SUFFIX,console.anthropic.com,AI
 HOST-SUFFIX,console.mistral.ai,AI
 HOST-SUFFIX,console.perplexity.ai,AI
 HOST-SUFFIX,console.x.ai,AI
@@ -56,15 +59,15 @@ HOST-SUFFIX,docs.cohere.com,AI
 HOST-SUFFIX,docs.google.com,AI
 HOST-SUFFIX,docs.mistral.ai,AI
 HOST-SUFFIX,docs.perplexity.ai,AI
-HOST-SUFFIX,domains.google.com,AI
 HOST-SUFFIX,drive.google.com,AI
 HOST-SUFFIX,dynamics.microsoft.com,AI
+HOST-SUFFIX,edu.google.com,AI
+HOST-SUFFIX,education.microsoft.com,AI
 HOST-SUFFIX,educationblog.microsoft.com,AI
 HOST-SUFFIX,firebase.google.com,AI
 HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,geminiweb-pa.clients6.google.com,AI
 HOST-SUFFIX,githubcopilot.com,AI
-HOST-SUFFIX,go.cohere.com,AI
 HOST-SUFFIX,go.microsoft.com,AI
 HOST-SUFFIX,grok.com,AI
 HOST-SUFFIX,healthapp.google.com,AI
@@ -85,7 +88,6 @@ HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,ogads-pa.clients6.google.com,AI
-HOST-SUFFIX,ogs.google.com,AI
 HOST-SUFFIX,one.google.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,partner.microsoft.com,AI
@@ -101,16 +103,17 @@ HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,status.openai.com,AI
 HOST-SUFFIX,support.google.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
+HOST-SUFFIX,support.serviceshub.microsoft.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,trust.stability.ai,AI
-HOST-SUFFIX,trustcenter.cohere.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
 HOST-SUFFIX,unlocked.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
 HOST-SUFFIX,waa-pa.clients6.google.com,AI
 HOST-SUFFIX,wcpstatic.microsoft.com,AI
 HOST-SUFFIX,workspace.google.com,AI
+HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
 HOST-SUFFIX,www.claudeusercontent.com,AI
 HOST-SUFFIX,www.google.com,AI
