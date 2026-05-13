@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-12T22:36:38+00:00
+#!updated=2026-05-13T00:14:22+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -2315,7 +2315,6 @@ HOST-SUFFIX,178800.cc,DIRECT
 HOST-SUFFIX,178871.xyz,DIRECT
 HOST-SUFFIX,17888.com,DIRECT
 HOST-SUFFIX,178du.com,DIRECT
-HOST-SUFFIX,178gg.com,DIRECT
 HOST-SUFFIX,178hui.com,DIRECT
 HOST-SUFFIX,178linux.com,DIRECT
 HOST-SUFFIX,178rw.com,DIRECT
@@ -36573,6 +36572,7 @@ HOST-SUFFIX,fmwei.com,DIRECT
 HOST-SUFFIX,fmwhahaha.com,DIRECT
 HOST-SUFFIX,fmy90.com,DIRECT
 HOST-SUFFIX,fmyunlv.com,DIRECT
+HOST-SUFFIX,fn-link.com,DIRECT
 HOST-SUFFIX,fn-mart.com,DIRECT
 HOST-SUFFIX,fn-tech.com,DIRECT
 HOST-SUFFIX,fn010.com,DIRECT
@@ -36875,6 +36875,7 @@ HOST-SUFFIX,fqnovelop.com,DIRECT
 HOST-SUFFIX,fqnovelpic.com,DIRECT
 HOST-SUFFIX,fqnovelstatic.com,DIRECT
 HOST-SUFFIX,fqnovelvod.com,DIRECT
+HOST-SUFFIX,fqopenplatform.com,DIRECT
 HOST-SUFFIX,fqpai.com,DIRECT
 HOST-SUFFIX,fqrsw.com,DIRECT
 HOST-SUFFIX,fquwcs3089.vip,DIRECT
@@ -47910,7 +47911,6 @@ HOST-SUFFIX,hmszkj.com,DIRECT
 HOST-SUFFIX,hmtgo.com,DIRECT
 HOST-SUFFIX,hmting.com,DIRECT
 HOST-SUFFIX,hmtnew.com,DIRECT
-HOST-SUFFIX,hmtoday.com,DIRECT
 HOST-SUFFIX,hmtrhf.com,DIRECT
 HOST-SUFFIX,hmus.net,DIRECT
 HOST-SUFFIX,hmwdj.com,DIRECT
@@ -68868,6 +68868,7 @@ HOST-SUFFIX,moa06221ju.com,DIRECT
 HOST-SUFFIX,moa06240ju.com,DIRECT
 HOST-SUFFIX,moa06250ju.com,DIRECT
 HOST-SUFFIX,moage.com,DIRECT
+HOST-SUFFIX,moark.com,DIRECT
 HOST-SUFFIX,mob.com,DIRECT
 HOST-SUFFIX,mob55.com,DIRECT
 HOST-SUFFIX,mobaders.com,DIRECT
@@ -79934,7 +79935,6 @@ HOST-SUFFIX,reardatchina.com,DIRECT
 HOST-SUFFIX,reasonclub.com,DIRECT
 HOST-SUFFIX,rebang.today,DIRECT
 HOST-SUFFIX,rebatesme.com,DIRECT
-HOST-SUFFIX,rebdy.com,DIRECT
 HOST-SUFFIX,rebo-group.com,DIRECT
 HOST-SUFFIX,recaptcha-cn.net,DIRECT
 HOST-SUFFIX,recaptcha.net,DIRECT
@@ -91899,6 +91899,7 @@ HOST-SUFFIX,theoreticalw.com,DIRECT
 HOST-SUFFIX,theorychina.org,DIRECT
 HOST-SUFFIX,thepeak.com.my,DIRECT
 HOST-SUFFIX,thepoemforyou.com,DIRECT
+HOST-SUFFIX,thepoizon.ru,DIRECT
 HOST-SUFFIX,thepredictivemodel.com,DIRECT
 HOST-SUFFIX,thepresidentialhotel.com,DIRECT
 HOST-SUFFIX,thepuli.com,DIRECT
