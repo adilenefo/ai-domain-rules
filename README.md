@@ -1,8 +1,8 @@
 # AI Domain Rules
 
-- Last updated: `2026-05-14T20:03:35+00:00`
+- Last updated: `2026-05-14T21:37:44+00:00`
 - Vendors: `12`
-- Domains: `88`
+- Domains: `106`
 
 ## Files
 
@@ -21,10 +21,10 @@
 - **Mistral**: 7
 - **Perplexity**: 7
 - **Cohere**: 5
-- **Stability AI**: 6
+- **Stability AI**: 4
 - **Midjourney**: 1
-- **Character.AI**: 4
-- **GitHub Copilot**: 3
+- **Character.AI**: 6
+- **GitHub Copilot**: 21
 
 ## Notes
 
