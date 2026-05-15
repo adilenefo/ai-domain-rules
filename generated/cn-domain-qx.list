@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-14T23:13:16+00:00
+#!updated=2026-05-15T00:11:49+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -12805,6 +12805,7 @@ HOST-SUFFIX,anrenxmed.com,DIRECT
 HOST-SUFFIX,anrlm.com,DIRECT
 HOST-SUFFIX,anruan.com,DIRECT
 HOST-SUFFIX,anruichina.com,DIRECT
+HOST-SUFFIX,anruidm.com,DIRECT
 HOST-SUFFIX,ansendun.com,DIRECT
 HOST-SUFFIX,anshahouse.com,DIRECT
 HOST-SUFFIX,anshibuff.com,DIRECT
@@ -14907,6 +14908,7 @@ HOST-SUFFIX,bajiexinxi.net,DIRECT
 HOST-SUFFIX,bajintech.com,DIRECT
 HOST-SUFFIX,baka.im,DIRECT
 HOST-SUFFIX,baka.plus,DIRECT
+HOST-SUFFIX,bakapiano.com,DIRECT
 HOST-SUFFIX,bakaxl.com,DIRECT
 HOST-SUFFIX,bakbitionb.com,DIRECT
 HOST-SUFFIX,bakclass.com,DIRECT
@@ -41128,6 +41130,7 @@ HOST-SUFFIX,gsgltz.com,DIRECT
 HOST-SUFFIX,gsgs10086.com,DIRECT
 HOST-SUFFIX,gsgundam.com,DIRECT
 HOST-SUFFIX,gshangju.com,DIRECT
+HOST-SUFFIX,gshdw.cyou,DIRECT
 HOST-SUFFIX,gshis.net,DIRECT
 HOST-SUFFIX,gshmhotels.com,DIRECT
 HOST-SUFFIX,gshopper.com,DIRECT
@@ -65903,6 +65906,7 @@ HOST-SUFFIX,lz-risun.com,DIRECT
 HOST-SUFFIX,lz-veoliawater.com,DIRECT
 HOST-SUFFIX,lz12328.com,DIRECT
 HOST-SUFFIX,lz310.com,DIRECT
+HOST-SUFFIX,lz5.com,DIRECT
 HOST-SUFFIX,lz520.net,DIRECT
 HOST-SUFFIX,lzabcd.com,DIRECT
 HOST-SUFFIX,lzahzn.com,DIRECT
@@ -66445,6 +66449,7 @@ HOST-SUFFIX,maizhuanbao.com,DIRECT
 HOST-SUFFIX,maizuo.com,DIRECT
 HOST-SUFFIX,majia99.com,DIRECT
 HOST-SUFFIX,majiamen.com,DIRECT
+HOST-SUFFIX,majianbo.com,DIRECT
 HOST-SUFFIX,majiang520.com,DIRECT
 HOST-SUFFIX,majilive.com,DIRECT
 HOST-SUFFIX,majorbio.com,DIRECT
@@ -111239,6 +111244,7 @@ HOST-SUFFIX,zdhaitao.com,DIRECT
 HOST-SUFFIX,zdhaitao.net,DIRECT
 HOST-SUFFIX,zdhuoyunbao.com,DIRECT
 HOST-SUFFIX,zdhyibiao.com,DIRECT
+HOST-SUFFIX,zdhyyy.com,DIRECT
 HOST-SUFFIX,zdiao.com,DIRECT
 HOST-SUFFIX,zdic.net,DIRECT
 HOST-SUFFIX,zdjt.com,DIRECT
