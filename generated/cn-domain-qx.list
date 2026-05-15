@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-15T11:31:01+00:00
+#!updated=2026-05-15T14:36:45+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -40579,6 +40579,7 @@ HOST-SUFFIX,gongsibao.com,DIRECT
 HOST-SUFFIX,gongsizhang.com,DIRECT
 HOST-SUFFIX,gongsizhijia.com,DIRECT
 HOST-SUFFIX,gongxiangcj.com,DIRECT
+HOST-SUFFIX,gongxiangjizhang.com,DIRECT
 HOST-SUFFIX,gongxiao8.com,DIRECT
 HOST-SUFFIX,gongxiaodaji.com,DIRECT
 HOST-SUFFIX,gongxifc.com,DIRECT
@@ -40678,6 +40679,7 @@ HOST-SUFFIX,goodwillresource.com,DIRECT
 HOST-SUFFIX,goodwyee.com,DIRECT
 HOST-SUFFIX,goodyoungtea.com,DIRECT
 HOST-SUFFIX,goofish.com,DIRECT
+HOST-SUFFIX,goofish.pro,DIRECT
 HOST-SUFFIX,googe.ink,DIRECT
 HOST-SUFFIX,google-analytics-cn.com,DIRECT
 HOST-SUFFIX,google-analytics.com,DIRECT
@@ -50669,6 +50671,7 @@ HOST-SUFFIX,hwsupplychain.com,DIRECT
 HOST-SUFFIX,hwtelcloud.com,DIRECT
 HOST-SUFFIX,hwtrip.com,DIRECT
 HOST-SUFFIX,hwtzdl.com,DIRECT
+HOST-SUFFIX,hwwlyz.com,DIRECT
 HOST-SUFFIX,hwwt2.com,DIRECT
 HOST-SUFFIX,hwwt8.com,DIRECT
 HOST-SUFFIX,hwxc.com,DIRECT
@@ -53183,6 +53186,7 @@ HOST-SUFFIX,infertilitybridge.com,DIRECT
 HOST-SUFFIX,infimotion.com,DIRECT
 HOST-SUFFIX,infineon-autoeco.com,DIRECT
 HOST-SUFFIX,infini-ai.com,DIRECT
+HOST-SUFFIX,infini-fantasy.com,DIRECT
 HOST-SUFFIX,infinisign.com,DIRECT
 HOST-SUFFIX,infiniteborders3kingdoms.com,DIRECT
 HOST-SUFFIX,infinitescript.com,DIRECT
@@ -67986,6 +67990,7 @@ HOST-SUFFIX,miaoshuwu.com,DIRECT
 HOST-SUFFIX,miaoshuzhai.net,DIRECT
 HOST-SUFFIX,miaoso.com,DIRECT
 HOST-SUFFIX,miaostreet.com,DIRECT
+HOST-SUFFIX,miaotixing.com,DIRECT
 HOST-SUFFIX,miaov.com,DIRECT
 HOST-SUFFIX,miaovps.com,DIRECT
 HOST-SUFFIX,miaoweijianfei.com,DIRECT
@@ -88700,6 +88705,8 @@ HOST-SUFFIX,suting123.com,DIRECT
 HOST-SUFFIX,sutpc.com,DIRECT
 HOST-SUFFIX,sutune.me,DIRECT
 HOST-SUFFIX,sutuobang.com,DIRECT
+HOST-SUFFIX,suu-fun.com,DIRECT
+HOST-SUFFIX,suufun.com,DIRECT
 HOST-SUFFIX,suujee.com,DIRECT
 HOST-SUFFIX,suuny0826.com,DIRECT
 HOST-SUFFIX,suv-trip.com,DIRECT
@@ -93979,6 +93986,7 @@ HOST-SUFFIX,ttriqi.com,DIRECT
 HOST-SUFFIX,tts8.com,DIRECT
 HOST-SUFFIX,ttshengbei.com,DIRECT
 HOST-SUFFIX,ttship.com,DIRECT
+HOST-SUFFIX,ttshitu.com,DIRECT
 HOST-SUFFIX,ttshuba.cc,DIRECT
 HOST-SUFFIX,ttshuba.net,DIRECT
 HOST-SUFFIX,ttsim.com,DIRECT
@@ -106214,6 +106222,7 @@ HOST-SUFFIX,yayaad.com,DIRECT
 HOST-SUFFIX,yayagushi.com,DIRECT
 HOST-SUFFIX,yayawan.com,DIRECT
 HOST-SUFFIX,yayeschool.com,DIRECT
+HOST-SUFFIX,yayi360.com,DIRECT
 HOST-SUFFIX,yayihouse.com,DIRECT
 HOST-SUFFIX,yayitianyun.com,DIRECT
 HOST-SUFFIX,yayiyun.net,DIRECT
