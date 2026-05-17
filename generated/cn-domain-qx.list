@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-16T23:10:24+00:00
+#!updated=2026-05-17T00:10:01+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -27365,6 +27365,7 @@ HOST-SUFFIX,ctfund.com,DIRECT
 HOST-SUFFIX,ctgapp.com,DIRECT
 HOST-SUFFIX,ctgcdn.biz,DIRECT
 HOST-SUFFIX,ctgcdn.com,DIRECT
+HOST-SUFFIX,ctgcdn.info,DIRECT
 HOST-SUFFIX,ctghealthy.com,DIRECT
 HOST-SUFFIX,ctghr.com,DIRECT
 HOST-SUFFIX,ctghro.com,DIRECT
@@ -47277,7 +47278,6 @@ HOST-SUFFIX,hiczp.com,DIRECT
 HOST-SUFFIX,hid98ys.com,DIRECT
 HOST-SUFFIX,hidery.com,DIRECT
 HOST-SUFFIX,hidesigncloud.com,DIRECT
-HOST-SUFFIX,hidist.com,DIRECT
 HOST-SUFFIX,hiditie.com,DIRECT
 HOST-SUFFIX,hidna.net,DIRECT
 HOST-SUFFIX,hidreamai.com,DIRECT
