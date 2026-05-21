@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-20T22:45:37+00:00
+#!updated=2026-05-21T00:19:01+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -2745,7 +2745,6 @@ HOST-SUFFIX,1d21653941c21219.com,DIRECT
 HOST-SUFFIX,1d9z.com,DIRECT
 HOST-SUFFIX,1dao99.com,DIRECT
 HOST-SUFFIX,1date1cake.com,DIRECT
-HOST-SUFFIX,1dcbzuv.com,DIRECT
 HOST-SUFFIX,1dcdp4.com,DIRECT
 HOST-SUFFIX,1de6de84b1017.beer,DIRECT
 HOST-SUFFIX,1der-ad.com,DIRECT
@@ -48813,6 +48812,7 @@ HOST-SUFFIX,hpc.cloud,DIRECT
 HOST-SUFFIX,hpcang.com,DIRECT
 HOST-SUFFIX,hpccake.com,DIRECT
 HOST-SUFFIX,hpccube.com,DIRECT
+HOST-SUFFIX,hpconnected.com,DIRECT
 HOST-SUFFIX,hpculturegroup.com,DIRECT
 HOST-SUFFIX,hpearx.com,DIRECT
 HOST-SUFFIX,hpepea.com,DIRECT
@@ -52521,6 +52521,7 @@ HOST-SUFFIX,ihtcboy.com,DIRECT
 HOST-SUFFIX,ihtmlcss.com,DIRECT
 HOST-SUFFIX,ihuaben.com,DIRECT
 HOST-SUFFIX,ihuan.me,DIRECT
+HOST-SUFFIX,ihuandu.com,DIRECT
 HOST-SUFFIX,ihuang.org,DIRECT
 HOST-SUFFIX,ihuanling.com,DIRECT
 HOST-SUFFIX,ihuanque.com,DIRECT
@@ -89395,6 +89396,7 @@ HOST-SUFFIX,szcw.com,DIRECT
 HOST-SUFFIX,szcwdz.com,DIRECT
 HOST-SUFFIX,szcy-fintech.com,DIRECT
 HOST-SUFFIX,szcy99.com,DIRECT
+HOST-SUFFIX,szcyqg.com,DIRECT
 HOST-SUFFIX,szczjy.com,DIRECT
 HOST-SUFFIX,szczkjgs.com,DIRECT
 HOST-SUFFIX,szdaily.com,DIRECT
