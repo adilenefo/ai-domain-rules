@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-23T22:09:38+00:00",
+  "updated_at": "2026-05-23T23:12:38+00:00",
   "vendor_count": 12,
-  "domain_count": 116,
+  "domain_count": 118,
   "vendors": [
     {
       "name": "OpenAI",
@@ -24,18 +24,16 @@
     {
       "name": "Anthropic",
       "domains": [
+        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
-        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -47,6 +45,7 @@
     {
       "name": "Google Gemini",
       "domains": [
+        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
@@ -63,24 +62,28 @@
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
+        "home.google.com",
         "labs.google.com",
         "mail.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
+        "pay.google.com",
+        "play.google.com",
         "policies.google.com",
         "services.google.com",
         "support.google.com",
+        "takeout.google.com",
         "waa-pa.clients6.google.com",
+        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -97,7 +100,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -114,20 +118,18 @@
     {
       "name": "Mistral",
       "domains": [
+        "auth.mistral.ai",
         "chat.mistral.ai",
         "cms.mistral.ai",
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2F65f7935e-1a8c-4280-88f2-9140fa59bce5&amp;w=3840&amp;q=90: HTTPError: HTTP Error 400: Bad Request",
-        "https://mistral.ai/_next/image?url=https%3A%2F%2Fcms.mistral.ai%2Fassets%2Fee43773a-3a40-442a-a01a-9f5639e1fba5&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -139,7 +141,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -153,7 +156,6 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -166,10 +168,13 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Midjourney",
@@ -186,12 +191,14 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "policies.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -199,23 +206,16 @@
       "domains": [
         "about.ads.microsoft.com",
         "account.microsoft.com",
-        "api.githubcopilot.com",
-        "apps.microsoft.com",
         "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
-        "developercommunity.microsoft.com",
+        "dynamics.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
-        "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
         "support.serviceshub.microsoft.com",
@@ -226,9 +226,7 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
