@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-05-27T08:49:20+00:00
+#!updated=2026-05-27T12:32:47+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -59822,6 +59822,7 @@ HOST-SUFFIX,kenzochina.com,DIRECT
 HOST-SUFFIX,keoaeic.org,DIRECT
 HOST-SUFFIX,keouaxbw.com,DIRECT
 HOST-SUFFIX,keovo.net,DIRECT
+HOST-SUFFIX,kepuchina.cn,DIRECT
 HOST-SUFFIX,kepusky.com,DIRECT
 HOST-SUFFIX,keputech.com,DIRECT
 HOST-SUFFIX,kequcps.com,DIRECT
@@ -81824,6 +81825,7 @@ HOST-SUFFIX,scjyzbxh.com,DIRECT
 HOST-SUFFIX,scjz-led.com,DIRECT
 HOST-SUFFIX,scjzjyjc.com,DIRECT
 HOST-SUFFIX,scjzy.net,DIRECT
+HOST-SUFFIX,sckg.com,DIRECT
 HOST-SUFFIX,sckje.com,DIRECT
 HOST-SUFFIX,sckrskj.com,DIRECT
 HOST-SUFFIX,sckxjd.com,DIRECT
@@ -108286,6 +108288,7 @@ HOST-SUFFIX,youkua.net,DIRECT
 HOST-SUFFIX,youkud.com,DIRECT
 HOST-SUFFIX,youkupic.com,DIRECT
 HOST-SUFFIX,youkuyouku.pro,DIRECT
+HOST-SUFFIX,youlai.cn,DIRECT
 HOST-SUFFIX,youlai.tech,DIRECT
 HOST-SUFFIX,youlanw.com,DIRECT
 HOST-SUFFIX,youle55.com,DIRECT
