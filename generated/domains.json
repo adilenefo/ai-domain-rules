@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-28T22:11:34+00:00",
+  "updated_at": "2026-05-28T23:43:39+00:00",
   "vendor_count": 12,
-  "domain_count": 106,
+  "domain_count": 111,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,14 +18,12 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
-        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "claude.ai",
@@ -64,21 +62,28 @@
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
+        "home.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
+        "pay.google.com",
+        "play.google.com",
         "policies.google.com",
         "services.google.com",
         "support.google.com",
+        "takeout.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -118,8 +123,7 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -140,7 +144,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/v1/agent: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -148,7 +153,10 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com"
+        "docs.cohere.com",
+        "events.cohere.com",
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -162,9 +170,7 @@
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Midjourney",
@@ -181,13 +187,12 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -195,21 +200,19 @@
       "domains": [
         "about.ads.microsoft.com",
         "api.githubcopilot.com",
-        "azure.microsoft.com",
+        "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
-        "developer.microsoft.com",
-        "developercommunity.microsoft.com",
-        "docs.microsoft.com",
-        "dynamics.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
+        "education.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
+        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "visualstudio.microsoft.com",
