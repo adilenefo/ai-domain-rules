@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,api.githubcopilot.com,AI
 DOMAIN-SUFFIX,api.perplexity.ai,AI
 DOMAIN-SUFFIX,assets.grok.com,AI
 DOMAIN-SUFFIX,blog.character.ai,AI
+DOMAIN-SUFFIX,browser.events.data.microsoft.com,AI
 DOMAIN-SUFFIX,c.ai,AI
 DOMAIN-SUFFIX,cdn.grok.com,AI
 DOMAIN-SUFFIX,character.ai,AI
@@ -26,7 +27,6 @@ DOMAIN-SUFFIX,console.cloud.google.com,AI
 DOMAIN-SUFFIX,console.mistral.ai,AI
 DOMAIN-SUFFIX,console.perplexity.ai,AI
 DOMAIN-SUFFIX,console.x.ai,AI
-DOMAIN-SUFFIX,conway.claudeusercontent.com,AI
 DOMAIN-SUFFIX,copilot.microsoft.com,AI
 DOMAIN-SUFFIX,dashboard.cohere.com,AI
 DOMAIN-SUFFIX,data.x.ai,AI
@@ -36,11 +36,12 @@ DOMAIN-SUFFIX,discuss.ai.google.dev,AI
 DOMAIN-SUFFIX,docs.anthropic.com,AI
 DOMAIN-SUFFIX,docs.cohere.com,AI
 DOMAIN-SUFFIX,docs.google.com,AI
+DOMAIN-SUFFIX,docs.microsoft.com,AI
 DOMAIN-SUFFIX,docs.mistral.ai,AI
 DOMAIN-SUFFIX,docs.perplexity.ai,AI
 DOMAIN-SUFFIX,docs.x.ai,AI
 DOMAIN-SUFFIX,drive.google.com,AI
-DOMAIN-SUFFIX,events.cohere.com,AI
+DOMAIN-SUFFIX,eu-mobile.events.data.microsoft.com,AI
 DOMAIN-SUFFIX,firebase.google.com,AI
 DOMAIN-SUFFIX,gemini.google.com,AI
 DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com,AI
@@ -78,6 +79,7 @@ DOMAIN-SUFFIX,shop.cohere.com,AI
 DOMAIN-SUFFIX,stability.ai,AI
 DOMAIN-SUFFIX,status.anthropic.com,AI
 DOMAIN-SUFFIX,status.openai.com,AI
+DOMAIN-SUFFIX,support.anthropic.com,AI
 DOMAIN-SUFFIX,support.character.ai,AI
 DOMAIN-SUFFIX,support.google.com,AI
 DOMAIN-SUFFIX,techcommunity.microsoft.com,AI
