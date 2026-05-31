@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-31T12:48:12+00:00",
+  "updated_at": "2026-05-31T14:56:46+00:00",
   "vendor_count": 12,
-  "domain_count": 108,
+  "domain_count": 114,
   "vendors": [
     {
       "name": "OpenAI",
@@ -30,7 +30,6 @@
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -40,7 +39,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -69,6 +69,7 @@
         "one.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -76,7 +77,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
+        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -94,7 +96,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://assets.grok.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -116,13 +119,11 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://console.mistral.ai: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -139,8 +140,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/v1/agent: HTTPError: HTTP Error 401: Unauthorized"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -151,7 +151,8 @@
         "docs.cohere.com",
         "events.cohere.com",
         "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "trustcenter.cohere.com",
+        "www.dashboard.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -159,8 +160,10 @@
     {
       "name": "Stability AI",
       "domains": [
+        "kb.stability.ai",
         "platform.stability.ai",
-        "stability.ai"
+        "stability.ai",
+        "trust.stability.ai"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -180,27 +183,33 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "account.microsoft.com",
+        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
+        "developer.microsoft.com",
+        "developercommunity.microsoft.com",
         "dynamics.microsoft.com",
+        "education.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -209,7 +218,6 @@
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
-        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
@@ -218,7 +226,9 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }

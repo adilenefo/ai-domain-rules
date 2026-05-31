@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,about.ads.microsoft.com,AI
 DOMAIN-SUFFIX,account.microsoft.com,AI
 DOMAIN-SUFFIX,accounts.google.com,AI
 DOMAIN-SUFFIX,accounts.x.ai,AI
@@ -7,12 +8,14 @@ DOMAIN-SUFFIX,ai.meta.com,AI
 DOMAIN-SUFFIX,aistudio.google.com,AI
 DOMAIN-SUFFIX,anthropic.com,AI
 DOMAIN-SUFFIX,api.anthropic.com,AI
+DOMAIN-SUFFIX,api.githubcopilot.com,AI
 DOMAIN-SUFFIX,api.perplexity.ai,AI
 DOMAIN-SUFFIX,apps.microsoft.com,AI
 DOMAIN-SUFFIX,assets.grok.com,AI
 DOMAIN-SUFFIX,azure.microsoft.com,AI
 DOMAIN-SUFFIX,blog.character.ai,AI
 DOMAIN-SUFFIX,blogs.microsoft.com,AI
+DOMAIN-SUFFIX,browser.events.data.microsoft.com,AI
 DOMAIN-SUFFIX,c.ai,AI
 DOMAIN-SUFFIX,careers.microsoft.com,AI
 DOMAIN-SUFFIX,cdn.grok.com,AI
@@ -38,6 +41,8 @@ DOMAIN-SUFFIX,data.x.ai,AI
 DOMAIN-SUFFIX,deepmind.com,AI
 DOMAIN-SUFFIX,deepmind.google,AI
 DOMAIN-SUFFIX,devblogs.microsoft.com,AI
+DOMAIN-SUFFIX,developer.microsoft.com,AI
+DOMAIN-SUFFIX,developercommunity.microsoft.com,AI
 DOMAIN-SUFFIX,discuss.ai.google.dev,AI
 DOMAIN-SUFFIX,docs.anthropic.com,AI
 DOMAIN-SUFFIX,docs.cohere.com,AI
@@ -47,6 +52,7 @@ DOMAIN-SUFFIX,docs.perplexity.ai,AI
 DOMAIN-SUFFIX,docs.x.ai,AI
 DOMAIN-SUFFIX,drive.google.com,AI
 DOMAIN-SUFFIX,dynamics.microsoft.com,AI
+DOMAIN-SUFFIX,education.microsoft.com,AI
 DOMAIN-SUFFIX,events.cohere.com,AI
 DOMAIN-SUFFIX,firebase.google.com,AI
 DOMAIN-SUFFIX,gemini.google.com,AI
@@ -57,7 +63,7 @@ DOMAIN-SUFFIX,grok.com,AI
 DOMAIN-SUFFIX,healthapp.google.com,AI
 DOMAIN-SUFFIX,help.mistral.ai,AI
 DOMAIN-SUFFIX,imagine-public.x.ai,AI
-DOMAIN-SUFFIX,labs.character.ai,AI
+DOMAIN-SUFFIX,kb.stability.ai,AI
 DOMAIN-SUFFIX,labs.google.com,AI
 DOMAIN-SUFFIX,learn.microsoft.com,AI
 DOMAIN-SUFFIX,legal.mistral.ai,AI
@@ -80,19 +86,18 @@ DOMAIN-SUFFIX,platform.stability.ai,AI
 DOMAIN-SUFFIX,policies.google.com,AI
 DOMAIN-SUFFIX,pplx.ai,AI
 DOMAIN-SUFFIX,push.clients6.google.com,AI
-DOMAIN-SUFFIX,red.anthropic.com,AI
 DOMAIN-SUFFIX,research.perplexity.ai,AI
 DOMAIN-SUFFIX,s-cdn.anthropic.com,AI
+DOMAIN-SUFFIX,services.google.com,AI
 DOMAIN-SUFFIX,shop.cohere.com,AI
 DOMAIN-SUFFIX,stability.ai,AI
 DOMAIN-SUFFIX,status.anthropic.com,AI
 DOMAIN-SUFFIX,status.openai.com,AI
 DOMAIN-SUFFIX,support.google.com,AI
 DOMAIN-SUFFIX,support.microsoft.com,AI
-DOMAIN-SUFFIX,support.serviceshub.microsoft.com,AI
 DOMAIN-SUFFIX,techcommunity.microsoft.com,AI
 DOMAIN-SUFFIX,trust.anthropic.com,AI
-DOMAIN-SUFFIX,trust.mistral.ai,AI
+DOMAIN-SUFFIX,trust.stability.ai,AI
 DOMAIN-SUFFIX,trustcenter.cohere.com,AI
 DOMAIN-SUFFIX,uhf.microsoft.com,AI
 DOMAIN-SUFFIX,unlocked.microsoft.com,AI
@@ -103,6 +108,7 @@ DOMAIN-SUFFIX,workspace.google.com,AI
 DOMAIN-SUFFIX,www-cdn.anthropic.com,AI
 DOMAIN-SUFFIX,www.anthropic.com,AI
 DOMAIN-SUFFIX,www.claudeusercontent.com,AI
+DOMAIN-SUFFIX,www.dashboard.cohere.com,AI
 DOMAIN-SUFFIX,www.google.com,AI
 DOMAIN-SUFFIX,www.microsoft.com,AI
 DOMAIN-SUFFIX,x.ai,AI
