@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-01T21:05:47+00:00",
+  "updated_at": "2026-06-01T23:11:12+00:00",
   "vendor_count": 12,
-  "domain_count": 109,
+  "domain_count": 115,
   "vendors": [
     {
       "name": "OpenAI",
@@ -33,15 +33,14 @@
         "docs.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -67,20 +66,20 @@
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -147,8 +146,8 @@
       "name": "Cohere",
       "domains": [
         "cohere.com",
-        "dashboard.cohere.com",
         "docs.cohere.com",
+        "events.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -158,6 +157,7 @@
     {
       "name": "Stability AI",
       "domains": [
+        "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
         "trust.stability.ai"
@@ -180,21 +180,18 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
@@ -203,7 +200,10 @@
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
+        "devblogs.microsoft.com",
         "developer.microsoft.com",
+        "developercommunity.microsoft.com",
+        "dynamics.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
@@ -212,6 +212,7 @@
         "marketplace.microsoft.com",
         "microsoft.com",
         "news.microsoft.com",
+        "partner.microsoft.com",
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
