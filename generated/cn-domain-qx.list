@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-01T05:17:14+00:00
+#!updated=2026-06-01T10:34:27+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -91841,6 +91841,7 @@ HOST-SUFFIX,tianxing.com,DIRECT
 HOST-SUFFIX,tianxingjianyiliao.com,DIRECT
 HOST-SUFFIX,tianxinkeji.com,DIRECT
 HOST-SUFFIX,tianya.com,DIRECT
+HOST-SUFFIX,tianya.net,DIRECT
 HOST-SUFFIX,tianya.tv,DIRECT
 HOST-SUFFIX,tianya66.com,DIRECT
 HOST-SUFFIX,tianyablog.com,DIRECT
@@ -111174,6 +111175,7 @@ HOST-SUFFIX,zgjsqw.com,DIRECT
 HOST-SUFFIX,zgjsyw.com,DIRECT
 HOST-SUFFIX,zgjt518.com,DIRECT
 HOST-SUFFIX,zgjtb.com,DIRECT
+HOST-SUFFIX,zgjx.cn,DIRECT
 HOST-SUFFIX,zgjxcad.com,DIRECT
 HOST-SUFFIX,zgjxjjw.com,DIRECT
 HOST-SUFFIX,zgjymg.com,DIRECT
