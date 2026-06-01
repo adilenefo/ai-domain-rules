@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-31T23:32:06+00:00",
+  "updated_at": "2026-06-01T05:17:09+00:00",
   "vendor_count": 12,
-  "domain_count": 120,
+  "domain_count": 115,
   "vendors": [
     {
       "name": "OpenAI",
@@ -26,7 +26,6 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
-        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
@@ -50,40 +49,36 @@
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "appsitemsuggest-pa.clients6.google.com",
-        "clients6.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "connect.corp.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "driveactivity.clients6.google.com",
-        "drivefrontend-pa.clients6.google.com",
-        "drivemetadata.clients6.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "lh3.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "one.google.com",
-        "people-pa.clients6.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
@@ -152,7 +147,6 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -185,18 +179,22 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "policies.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
@@ -209,12 +207,11 @@
         "devblogs.microsoft.com",
         "developer.microsoft.com",
         "developercommunity.microsoft.com",
-        "education.microsoft.com",
+        "dynamics.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
