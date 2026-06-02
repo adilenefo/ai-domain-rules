@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-01T23:11:17+00:00
+#!updated=2026-06-02T01:37:42+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -25137,6 +25137,7 @@ HOST-SUFFIX,cnside.com,DIRECT
 HOST-SUFFIX,cnsihai.com,DIRECT
 HOST-SUFFIX,cnsikao.com,DIRECT
 HOST-SUFFIX,cnsimeng.com,DIRECT
+HOST-SUFFIX,cnsimg.net,DIRECT
 HOST-SUFFIX,cnsimin.com,DIRECT
 HOST-SUFFIX,cnsiwu.com,DIRECT
 HOST-SUFFIX,cnskg.com,DIRECT
@@ -102938,6 +102939,7 @@ HOST-SUFFIX,xinmeihu.com,DIRECT
 HOST-SUFFIX,xinmeijiutian.com,DIRECT
 HOST-SUFFIX,xinmeinuo.com,DIRECT
 HOST-SUFFIX,xinmem.com,DIRECT
+HOST-SUFFIX,xinmeng.info,DIRECT
 HOST-SUFFIX,xinmenglife.com,DIRECT
 HOST-SUFFIX,xinmeow.com,DIRECT
 HOST-SUFFIX,xinmeti.com,DIRECT
