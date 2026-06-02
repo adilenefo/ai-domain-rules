@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-02T11:43:46+00:00
+#!updated=2026-06-02T16:56:07+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -18373,6 +18373,7 @@ HOST-SUFFIX,btechina.com,DIRECT
 HOST-SUFFIX,btei6pis99.com,DIRECT
 HOST-SUFFIX,btgame.com,DIRECT
 HOST-SUFFIX,btgcjs.com,DIRECT
+HOST-SUFFIX,btghotels.com,DIRECT
 HOST-SUFFIX,btgljt.com,DIRECT
 HOST-SUFFIX,btgtravel.com,DIRECT
 HOST-SUFFIX,bth.vip,DIRECT
@@ -56037,7 +56038,9 @@ HOST-SUFFIX,jinjiang-group.com,DIRECT
 HOST-SUFFIX,jinjiang.com,DIRECT
 HOST-SUFFIX,jinjiang.tv,DIRECT
 HOST-SUFFIX,jinjianghotels.com,DIRECT
+HOST-SUFFIX,jinjianghotels.com.cn,DIRECT
 HOST-SUFFIX,jinjianginns.com,DIRECT
+HOST-SUFFIX,jinjiangonline.net,DIRECT
 HOST-SUFFIX,jinjiangwater.com,DIRECT
 HOST-SUFFIX,jinjiaomh.com,DIRECT
 HOST-SUFFIX,jinjie.tech,DIRECT
@@ -93169,6 +93172,7 @@ HOST-SUFFIX,travellaureate.com,DIRECT
 HOST-SUFFIX,travellingwithhotel.com,DIRECT
 HOST-SUFFIX,travellinkdaily.com,DIRECT
 HOST-SUFFIX,travelsky.com,DIRECT
+HOST-SUFFIX,travelsky.com.cn,DIRECT
 HOST-SUFFIX,travelsky.net,DIRECT
 HOST-SUFFIX,travelskymobile.cn,DIRECT
 HOST-SUFFIX,travelwuhan.com,DIRECT
