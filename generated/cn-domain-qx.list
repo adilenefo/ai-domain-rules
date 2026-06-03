@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-02T23:09:49+00:00
+#!updated=2026-06-03T01:48:31+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -32907,6 +32907,7 @@ HOST-SUFFIX,edgeonev5.net,DIRECT
 HOST-SUFFIX,edgeonevod1.com,DIRECT
 HOST-SUFFIX,edgeonevod1.net,DIRECT
 HOST-SUFFIX,edgep.net,DIRECT
+HOST-SUFFIX,edgescloud.cloud,DIRECT
 HOST-SUFFIX,edgesrv.com,DIRECT
 HOST-SUFFIX,edgetls.xyz,DIRECT
 HOST-SUFFIX,edhic.com,DIRECT
@@ -44393,6 +44394,7 @@ HOST-SUFFIX,habadog.com,DIRECT
 HOST-SUFFIX,habbygames.com,DIRECT
 HOST-SUFFIX,habctv.com,DIRECT
 HOST-SUFFIX,habwjc.com,DIRECT
+HOST-SUFFIX,hacg.site,DIRECT
 HOST-SUFFIX,hach-hanna.com,DIRECT
 HOST-SUFFIX,hachicnc.com,DIRECT
 HOST-SUFFIX,hacjkq.com,DIRECT
@@ -68022,6 +68024,7 @@ HOST-SUFFIX,mingpian.biz,DIRECT
 HOST-SUFFIX,mingpian.net,DIRECT
 HOST-SUFFIX,mingqi.co,DIRECT
 HOST-SUFFIX,mingqu.xyz,DIRECT
+HOST-SUFFIX,mingque.com,DIRECT
 HOST-SUFFIX,mingr.com,DIRECT
 HOST-SUFFIX,mingren888.com,DIRECT
 HOST-SUFFIX,mingrsoft.com,DIRECT
@@ -72960,6 +72963,7 @@ HOST-SUFFIX,oemresource.com,DIRECT
 HOST-SUFFIX,oemsoc.download.prss.microsoft.com,DIRECT
 HOST-SUFFIX,oemsocuat.download.prss.microsoft.com,DIRECT
 HOST-SUFFIX,oemssl.cn.cdn.cloudflare.net,DIRECT
+HOST-SUFFIX,oemxitong.com,DIRECT
 HOST-SUFFIX,oeob.net,DIRECT
 HOST-SUFFIX,oepamvxq.com,DIRECT
 HOST-SUFFIX,oepkgs.net,DIRECT
@@ -74639,6 +74643,7 @@ HOST-SUFFIX,pedli.com,DIRECT
 HOST-SUFFIX,peekpipai.com,DIRECT
 HOST-SUFFIX,peento.com,DIRECT
 HOST-SUFFIX,peepic.com,DIRECT
+HOST-SUFFIX,peer.as,DIRECT
 HOST-SUFFIX,peerkennel.com,DIRECT
 HOST-SUFFIX,pegbiocq.com,DIRECT
 HOST-SUFFIX,peidibrand.com,DIRECT
@@ -75270,7 +75275,6 @@ HOST-SUFFIX,pj57.com,DIRECT
 HOST-SUFFIX,pj62049.com,DIRECT
 HOST-SUFFIX,pj73.com,DIRECT
 HOST-SUFFIX,pjbest.com,DIRECT
-HOST-SUFFIX,pjcn.org,DIRECT
 HOST-SUFFIX,pjf.name,DIRECT
 HOST-SUFFIX,pjgear.com,DIRECT
 HOST-SUFFIX,pjgjg.com,DIRECT
@@ -79280,6 +79284,7 @@ HOST-SUFFIX,ratingtoken.net,DIRECT
 HOST-SUFFIX,rationalwh.com,DIRECT
 HOST-SUFFIX,ratogh.com,DIRECT
 HOST-SUFFIX,ratoo.net,DIRECT
+HOST-SUFFIX,rauqa.net,DIRECT
 HOST-SUFFIX,rauto.com,DIRECT
 HOST-SUFFIX,ravenna0943.xyz,DIRECT
 HOST-SUFFIX,raverstern.site,DIRECT
@@ -88757,7 +88762,6 @@ HOST-SUFFIX,syhuayang.com,DIRECT
 HOST-SUFFIX,syhzdj.net,DIRECT
 HOST-SUFFIX,syhzx.com,DIRECT
 HOST-SUFFIX,syhzzf.com,DIRECT
-HOST-SUFFIX,syiae.com,DIRECT
 HOST-SUFFIX,syiptv.com,DIRECT
 HOST-SUFFIX,syitgz.com,DIRECT
 HOST-SUFFIX,syjcly.com,DIRECT
@@ -88822,6 +88826,7 @@ HOST-SUFFIX,syranqi.com,DIRECT
 HOST-SUFFIX,syrc.org,DIRECT
 HOST-SUFFIX,syrcb.net,DIRECT
 HOST-SUFFIX,syrczpw.com,DIRECT
+HOST-SUFFIX,syrds.pro,DIRECT
 HOST-SUFFIX,syreads.com,DIRECT
 HOST-SUFFIX,syrecovery.com,DIRECT
 HOST-SUFFIX,syrhkj.com,DIRECT
@@ -95837,6 +95842,7 @@ HOST-SUFFIX,videotomp3.site,DIRECT
 HOST-SUFFIX,videougc.com,DIRECT
 HOST-SUFFIX,videoxiaoyouxi.com,DIRECT
 HOST-SUFFIX,videoyx.com,DIRECT
+HOST-SUFFIX,vidhash.net,DIRECT
 HOST-SUFFIX,vidmate.mobi,DIRECT
 HOST-SUFFIX,vidmate.net,DIRECT
 HOST-SUFFIX,vidmatefilm.org,DIRECT
@@ -103855,6 +103861,7 @@ HOST-SUFFIX,xn--fjq5py34j65v.com,DIRECT
 HOST-SUFFIX,xn--glr604k.com,DIRECT
 HOST-SUFFIX,xn--gmq238c5fy.com,DIRECT
 HOST-SUFFIX,xn--gmqr9gdtrhuf56g.com,DIRECT
+HOST-SUFFIX,xn--h5qy75o.vip,DIRECT
 HOST-SUFFIX,xn--husx9zj2eepau0se83d.com,DIRECT
 HOST-SUFFIX,xn--hutn94av9amzg.net,DIRECT
 HOST-SUFFIX,xn--i6q33br88fkud.com,DIRECT
@@ -104864,7 +104871,6 @@ HOST-SUFFIX,xxxedu.net,DIRECT
 HOST-SUFFIX,xxxfeng.com,DIRECT
 HOST-SUFFIX,xxxhhh.com,DIRECT
 HOST-SUFFIX,xxxmeng.com,DIRECT
-HOST-SUFFIX,xxxx68xxxx.com,DIRECT
 HOST-SUFFIX,xxxx88xxxx.com,DIRECT
 HOST-SUFFIX,xxxx92xxxx.com,DIRECT
 HOST-SUFFIX,xxxx96xxxx.com,DIRECT
