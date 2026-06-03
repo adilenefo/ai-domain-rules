@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-03T07:14:30+00:00
+#!updated=2026-06-03T12:13:31+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -3647,6 +3647,7 @@ HOST-SUFFIX,3-3.me,DIRECT
 HOST-SUFFIX,3-hospital-cqmu.com,DIRECT
 HOST-SUFFIX,3.biz,DIRECT
 HOST-SUFFIX,30.net,DIRECT
+HOST-SUFFIX,300.cn,DIRECT
 HOST-SUFFIX,3000.com,DIRECT
 HOST-SUFFIX,300033.info,DIRECT
 HOST-SUFFIX,30006124.xyz,DIRECT
@@ -53165,6 +53166,7 @@ HOST-SUFFIX,internetke.com,DIRECT
 HOST-SUFFIX,internettrademark.com,DIRECT
 HOST-SUFFIX,intertid.com,DIRECT
 HOST-SUFFIX,interval.im,DIRECT
+HOST-SUFFIX,intime.com.cn,DIRECT
 HOST-SUFFIX,intimerent.com,DIRECT
 HOST-SUFFIX,intlgame.com,DIRECT
 HOST-SUFFIX,intlqydd.info,DIRECT
@@ -80466,6 +80468,7 @@ HOST-SUFFIX,rszfg.com,DIRECT
 HOST-SUFFIX,rszkw.com,DIRECT
 HOST-SUFFIX,rt-blend.com,DIRECT
 HOST-SUFFIX,rt-ics.com,DIRECT
+HOST-SUFFIX,rt-mart.com.cn,DIRECT
 HOST-SUFFIX,rt-thread.com,DIRECT
 HOST-SUFFIX,rt-thread.io,DIRECT
 HOST-SUFFIX,rt-thread.org,DIRECT
