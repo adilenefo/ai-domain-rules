@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-04T00:02:50+00:00
+#!updated=2026-06-04T05:07:58+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -18177,6 +18177,7 @@ HOST-SUFFIX,bright21cn.com,DIRECT
 HOST-SUFFIX,brightdairy.com,DIRECT
 HOST-SUFFIX,brightdecolighting.com,DIRECT
 HOST-SUFFIX,brightfood.com,DIRECT
+HOST-SUFFIX,brighticecream.com,DIRECT
 HOST-SUFFIX,brightliao.com,DIRECT
 HOST-SUFFIX,brightmeat.com,DIRECT
 HOST-SUFFIX,brilliance-auto.com,DIRECT
@@ -22193,6 +22194,7 @@ HOST-SUFFIX,chinaconveyor.com,DIRECT
 HOST-SUFFIX,chinacordblood.org,DIRECT
 HOST-SUFFIX,chinacosco.com,DIRECT
 HOST-SUFFIX,chinacourt.org,DIRECT
+HOST-SUFFIX,chinacow.com,DIRECT
 HOST-SUFFIX,chinacpda.com,DIRECT
 HOST-SUFFIX,chinacpda.org,DIRECT
 HOST-SUFFIX,chinacqme.com,DIRECT
@@ -102827,6 +102829,7 @@ HOST-SUFFIX,xinlinghuayuan.com,DIRECT
 HOST-SUFFIX,xinlingletu.com,DIRECT
 HOST-SUFFIX,xinlip.com,DIRECT
 HOST-SUFFIX,xinlischool.com,DIRECT
+HOST-SUFFIX,xinlishumeng.com,DIRECT
 HOST-SUFFIX,xinliwanju.com,DIRECT
 HOST-SUFFIX,xinlixinli.net,DIRECT
 HOST-SUFFIX,xinlong-holding.com,DIRECT
