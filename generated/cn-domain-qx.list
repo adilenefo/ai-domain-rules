@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-04T23:38:36+00:00
+#!updated=2026-06-05T04:48:08+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -49778,6 +49778,7 @@ HOST-SUFFIX,huihezx.com,DIRECT
 HOST-SUFFIX,huihua365.com,DIRECT
 HOST-SUFFIX,huihua8.com,DIRECT
 HOST-SUFFIX,huihuaren.com,DIRECT
+HOST-SUFFIX,huihui.moe,DIRECT
 HOST-SUFFIX,huii.cc,DIRECT
 HOST-SUFFIX,huiidea.com,DIRECT
 HOST-SUFFIX,huiji.wiki,DIRECT
@@ -51845,6 +51846,7 @@ HOST-SUFFIX,idcay.com,DIRECT
 HOST-SUFFIX,idcbdy.com,DIRECT
 HOST-SUFFIX,idcbest.com,DIRECT
 HOST-SUFFIX,idcbest.hk,DIRECT
+HOST-SUFFIX,idccdns.com,DIRECT
 HOST-SUFFIX,idccenter.net,DIRECT
 HOST-SUFFIX,idccom.net,DIRECT
 HOST-SUFFIX,idccun.com,DIRECT
@@ -61098,6 +61100,7 @@ HOST-SUFFIX,kurogame.xyz,DIRECT
 HOST-SUFFIX,kurogames-ads.com,DIRECT
 HOST-SUFFIX,kurogames-global.com,DIRECT
 HOST-SUFFIX,kurogames.com,DIRECT
+HOST-SUFFIX,kurogames.net,DIRECT
 HOST-SUFFIX,kurokingdom.com,DIRECT
 HOST-SUFFIX,kuroko.info,DIRECT
 HOST-SUFFIX,kurz-sh.com,DIRECT
@@ -66623,6 +66626,7 @@ HOST-SUFFIX,mbg06270pg.com,DIRECT
 HOST-SUFFIX,mbg06290pg.com,DIRECT
 HOST-SUFFIX,mbg06301pg.com,DIRECT
 HOST-SUFFIX,mbgo.com,DIRECT
+HOST-SUFFIX,mbhcibe.com,DIRECT
 HOST-SUFFIX,mbhfit.com,DIRECT
 HOST-SUFFIX,mbian.com,DIRECT
 HOST-SUFFIX,mbiaohui.com,DIRECT
@@ -67108,6 +67112,7 @@ HOST-SUFFIX,meitu-mobile.com,DIRECT
 HOST-SUFFIX,meitu.com,DIRECT
 HOST-SUFFIX,meitu.net,DIRECT
 HOST-SUFFIX,meituaccount.com,DIRECT
+HOST-SUFFIX,meituan-ad.com,DIRECT
 HOST-SUFFIX,meituan.com,DIRECT
 HOST-SUFFIX,meituan.net,DIRECT
 HOST-SUFFIX,meitubase.com,DIRECT
@@ -82285,6 +82290,7 @@ HOST-SUFFIX,sdxwyy.net,DIRECT
 HOST-SUFFIX,sdxxjmgg.com,DIRECT
 HOST-SUFFIX,sdxyxhj.com,DIRECT
 HOST-SUFFIX,sdxzt.com,DIRECT
+HOST-SUFFIX,sdyanbao.com,DIRECT
 HOST-SUFFIX,sdyftr.com,DIRECT
 HOST-SUFFIX,sdyhne.com,DIRECT
 HOST-SUFFIX,sdyhqp.com,DIRECT
@@ -90673,6 +90679,7 @@ HOST-SUFFIX,tecmz.com,DIRECT
 HOST-SUFFIX,tecochina.net,DIRECT
 HOST-SUFFIX,tecolighting.com,DIRECT
 HOST-SUFFIX,tecompharma.com,DIRECT
+HOST-SUFFIX,tecorigin.com,DIRECT
 HOST-SUFFIX,tecreal.com,DIRECT
 HOST-SUFFIX,tecunonline.com,DIRECT
 HOST-SUFFIX,tecyle.com,DIRECT
@@ -95599,6 +95606,7 @@ HOST-SUFFIX,versetech.space,DIRECT
 HOST-SUFFIX,versolsolar.com,DIRECT
 HOST-SUFFIX,versoventure.com,DIRECT
 HOST-SUFFIX,vertciot.com,DIRECT
+HOST-SUFFIX,vertexdoc.com,DIRECT
 HOST-SUFFIX,vertical-china.com,DIRECT
 HOST-SUFFIX,vertu.com,DIRECT
 HOST-SUFFIX,very361.com,DIRECT
@@ -108843,6 +108851,7 @@ HOST-SUFFIX,yuanzun.fun,DIRECT
 HOST-SUFFIX,yuaoq.com,DIRECT
 HOST-SUFFIX,yuapt.com,DIRECT
 HOST-SUFFIX,yubaike.com,DIRECT
+HOST-SUFFIX,yuban.cloud,DIRECT
 HOST-SUFFIX,yubangweb.com,DIRECT
 HOST-SUFFIX,yuboinfo.com,DIRECT
 HOST-SUFFIX,yuboqj.com,DIRECT
