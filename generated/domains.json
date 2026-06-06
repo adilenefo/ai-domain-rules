@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-06T04:29:59+00:00",
+  "updated_at": "2026-06-06T08:02:58+00:00",
   "vendor_count": 12,
-  "domain_count": 105,
+  "domain_count": 115,
   "vendors": [
     {
       "name": "OpenAI",
@@ -40,6 +40,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
+        "https://status.anthropic.com/: HTTPError: HTTP Error 405: Not Allowed",
         "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
@@ -50,35 +51,45 @@
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
+        "appsitemsuggest-pa.clients6.google.com",
+        "clients6.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "connect.corp.google.com",
         "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "driveactivity.clients6.google.com",
+        "drivefrontend-pa.clients6.google.com",
+        "drivemetadata.clients6.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "lh3.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
+        "people-pa.clients6.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
@@ -121,8 +132,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://console.mistral.ai: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -148,6 +158,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
+        "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -159,6 +170,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -179,33 +191,32 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "api.githubcopilot.com",
-        "apps.microsoft.com",
         "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "careers.microsoft.com",
+        "browser.events.data.microsoft.com",
         "copilot.microsoft.com",
+        "devblogs.microsoft.com",
         "developer.microsoft.com",
+        "dynamics.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "news.microsoft.com",
-        "support.microsoft.com",
+        "partner.microsoft.com",
+        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "visualstudio.microsoft.com",

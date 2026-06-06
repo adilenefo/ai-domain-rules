@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-06T04:30:05+00:00
+#!updated=2026-06-06T08:03:04+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -25193,6 +25193,7 @@ HOST-SUFFIX,cnwutong.com,DIRECT
 HOST-SUFFIX,cnww1985.com,DIRECT
 HOST-SUFFIX,cnww9.com,DIRECT
 HOST-SUFFIX,cnwxw.com,DIRECT
+HOST-SUFFIX,cnwza.cn,DIRECT
 HOST-SUFFIX,cnwzd.com,DIRECT
 HOST-SUFFIX,cnwzhd.com,DIRECT
 HOST-SUFFIX,cnxad.com,DIRECT
@@ -40546,6 +40547,7 @@ HOST-SUFFIX,govmade.com,DIRECT
 HOST-SUFFIX,govqcloud.com,DIRECT
 HOST-SUFFIX,govuln.com,DIRECT
 HOST-SUFFIX,govwq.com,DIRECT
+HOST-SUFFIX,govwza.cn,DIRECT
 HOST-SUFFIX,gowan8.com,DIRECT
 HOST-SUFFIX,goweb1.cc,DIRECT
 HOST-SUFFIX,goweb2.net,DIRECT
@@ -66081,6 +66083,7 @@ HOST-SUFFIX,malmam.com,DIRECT
 HOST-SUFFIX,malong.com,DIRECT
 HOST-SUFFIX,malsmiles.com,DIRECT
 HOST-SUFFIX,maltm.com,DIRECT
+HOST-SUFFIX,mama.cn,DIRECT
 HOST-SUFFIX,mama100.com,DIRECT
 HOST-SUFFIX,mamacn.com,DIRECT
 HOST-SUFFIX,mamayz.com,DIRECT
@@ -81007,6 +81010,7 @@ HOST-SUFFIX,sangbang.com,DIRECT
 HOST-SUFFIX,sangem.com,DIRECT
 HOST-SUFFIX,sangerbio.com,DIRECT
 HOST-SUFFIX,sangfor.com,DIRECT
+HOST-SUFFIX,sangfor.com.cn,DIRECT
 HOST-SUFFIX,sangfor.net,DIRECT
 HOST-SUFFIX,sangfor.org,DIRECT
 HOST-SUFFIX,sangforcloud.com,DIRECT
