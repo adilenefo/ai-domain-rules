@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-06T18:39:56+00:00",
+  "updated_at": "2026-06-06T20:36:18+00:00",
   "vendor_count": 12,
-  "domain_count": 112,
+  "domain_count": 108,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,8 +18,7 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -40,50 +39,46 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://status.anthropic.com/: HTTPError: HTTP Error 405: Not Allowed",
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Google Gemini",
       "domains": [
-        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
+        "domains.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
         "myaccount.google.com",
-        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
-        "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
-        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
+        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -101,8 +96,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -124,7 +118,8 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai"
+        "mistral.ai",
+        "trust.mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -154,7 +149,6 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -167,6 +161,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -191,32 +186,29 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "about.ads.microsoft.com",
-        "account.microsoft.com",
         "api.githubcopilot.com",
-        "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
-        "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
-        "dynamics.microsoft.com",
+        "developer.microsoft.com",
+        "docs.microsoft.com",
         "education.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "news.microsoft.com",
         "partner.microsoft.com",
-        "support.microsoft.com",
+        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "visualstudio.microsoft.com",
