@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-06T22:18:34+00:00
+#!updated=2026-06-07T00:18:38+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -13110,7 +13110,6 @@ HOST-SUFFIX,app2pixel.com,DIRECT
 HOST-SUFFIX,app86.com,DIRECT
 HOST-SUFFIX,app887.com,DIRECT
 HOST-SUFFIX,appadhoc.com,DIRECT
-HOST-SUFFIX,appadhoc.net,DIRECT
 HOST-SUFFIX,apparest.com,DIRECT
 HOST-SUFFIX,appbi.com,DIRECT
 HOST-SUFFIX,appbk.com,DIRECT
@@ -30062,6 +30061,7 @@ HOST-SUFFIX,dingtalk.com,DIRECT
 HOST-SUFFIX,dingtalk.net,DIRECT
 HOST-SUFFIX,dingtalkapps.com,DIRECT
 HOST-SUFFIX,dingtalkcloud.com,DIRECT
+HOST-SUFFIX,dingtalkcs.com,DIRECT
 HOST-SUFFIX,dingteam.com,DIRECT
 HOST-SUFFIX,dingtoo.com,DIRECT
 HOST-SUFFIX,dingwei.link,DIRECT
@@ -67364,6 +67364,7 @@ HOST-SUFFIX,mfqyw.com,DIRECT
 HOST-SUFFIX,mfsj1908.com,DIRECT
 HOST-SUFFIX,mftianshanam.com,DIRECT
 HOST-SUFFIX,mftvideo.com,DIRECT
+HOST-SUFFIX,mfuns.net,DIRECT
 HOST-SUFFIX,mfunz.com,DIRECT
 HOST-SUFFIX,mfwxpay.com,DIRECT
 HOST-SUFFIX,mfxlawyer.com,DIRECT
@@ -71044,6 +71045,7 @@ HOST-SUFFIX,ninthpalace520.com,DIRECT
 HOST-SUFFIX,nio.com,DIRECT
 HOST-SUFFIX,nio08310lt.com,DIRECT
 HOST-SUFFIX,nioapis.com,DIRECT
+HOST-SUFFIX,niohome.com,DIRECT
 HOST-SUFFIX,niozhr.com,DIRECT
 HOST-SUFFIX,niparts.com,DIRECT
 HOST-SUFFIX,nipei.com,DIRECT
@@ -105398,6 +105400,7 @@ HOST-SUFFIX,yaochentech.com,DIRECT
 HOST-SUFFIX,yaochixie.com,DIRECT
 HOST-SUFFIX,yaochufa.com,DIRECT
 HOST-SUFFIX,yaocsoft.com,DIRECT
+HOST-SUFFIX,yaodinongye.com,DIRECT
 HOST-SUFFIX,yaodou.net,DIRECT
 HOST-SUFFIX,yaodu365.com,DIRECT
 HOST-SUFFIX,yaoex.com,DIRECT
@@ -108123,6 +108126,7 @@ HOST-SUFFIX,youxi527.com,DIRECT
 HOST-SUFFIX,youxi528.com,DIRECT
 HOST-SUFFIX,youxi567.com,DIRECT
 HOST-SUFFIX,youxi8282.com,DIRECT
+HOST-SUFFIX,youxi9527.com,DIRECT
 HOST-SUFFIX,youxia.com,DIRECT
 HOST-SUFFIX,youxiacg.com,DIRECT
 HOST-SUFFIX,youxiagushi.com,DIRECT
@@ -110584,6 +110588,7 @@ HOST-SUFFIX,zeda1.com,DIRECT
 HOST-SUFFIX,zedyer.com,DIRECT
 HOST-SUFFIX,zeedao.com,DIRECT
 HOST-SUFFIX,zeehoev.com,DIRECT
+HOST-SUFFIX,zeekrgroup.com,DIRECT
 HOST-SUFFIX,zeekrlife.com,DIRECT
 HOST-SUFFIX,zeekrline.com,DIRECT
 HOST-SUFFIX,zeelis.com,DIRECT
