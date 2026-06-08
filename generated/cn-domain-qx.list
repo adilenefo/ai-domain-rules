@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-07T22:18:52+00:00
+#!updated=2026-06-08T01:34:49+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -40844,6 +40844,7 @@ HOST-SUFFIX,gsmuban.com,DIRECT
 HOST-SUFFIX,gsnhcg.com,DIRECT
 HOST-SUFFIX,gsnytz.com,DIRECT
 HOST-SUFFIX,gsp10-ssl-cn.ls.apple.com,DIRECT
+HOST-SUFFIX,gsp11-cn.ls.apple.com,DIRECT
 HOST-SUFFIX,gsp12-cn.ls.apple.com,DIRECT
 HOST-SUFFIX,gsp13-cn.ls.apple.com,DIRECT
 HOST-SUFFIX,gsp4-cn.ls.apple.com,DIRECT
@@ -51606,7 +51607,6 @@ HOST-SUFFIX,iclickstatic.com,DIRECT
 HOST-SUFFIX,icliexpo.com,DIRECT
 HOST-SUFFIX,icljt.com,DIRECT
 HOST-SUFFIX,icloud-power.com,DIRECT
-HOST-SUFFIX,icloud.cdn-apple.com,DIRECT
 HOST-SUFFIX,icloudcity.com,DIRECT
 HOST-SUFFIX,icloudgslb.com,DIRECT
 HOST-SUFFIX,icloudnative.io,DIRECT
@@ -79589,7 +79589,6 @@ HOST-SUFFIX,rergdfh.com,DIRECT
 HOST-SUFFIX,reseetech.com,DIRECT
 HOST-SUFFIX,resemblancey.com,DIRECT
 HOST-SUFFIX,resemi.com,DIRECT
-HOST-SUFFIX,reserve-prime.apple.com,DIRECT
 HOST-SUFFIX,reservehemu.com,DIRECT
 HOST-SUFFIX,resheji.com,DIRECT
 HOST-SUFFIX,resistor.today,DIRECT

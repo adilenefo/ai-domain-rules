@@ -40840,6 +40840,7 @@ DOMAIN-SUFFIX,gsmuban.com,DIRECT
 DOMAIN-SUFFIX,gsnhcg.com,DIRECT
 DOMAIN-SUFFIX,gsnytz.com,DIRECT
 DOMAIN-SUFFIX,gsp10-ssl-cn.ls.apple.com,DIRECT
+DOMAIN-SUFFIX,gsp11-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsp12-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsp13-cn.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com,DIRECT
@@ -51602,7 +51603,6 @@ DOMAIN-SUFFIX,iclickstatic.com,DIRECT
 DOMAIN-SUFFIX,icliexpo.com,DIRECT
 DOMAIN-SUFFIX,icljt.com,DIRECT
 DOMAIN-SUFFIX,icloud-power.com,DIRECT
-DOMAIN-SUFFIX,icloud.cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,icloudcity.com,DIRECT
 DOMAIN-SUFFIX,icloudgslb.com,DIRECT
 DOMAIN-SUFFIX,icloudnative.io,DIRECT
@@ -79585,7 +79585,6 @@ DOMAIN-SUFFIX,rergdfh.com,DIRECT
 DOMAIN-SUFFIX,reseetech.com,DIRECT
 DOMAIN-SUFFIX,resemblancey.com,DIRECT
 DOMAIN-SUFFIX,resemi.com,DIRECT
-DOMAIN-SUFFIX,reserve-prime.apple.com,DIRECT
 DOMAIN-SUFFIX,reservehemu.com,DIRECT
 DOMAIN-SUFFIX,resheji.com,DIRECT
 DOMAIN-SUFFIX,resistor.today,DIRECT
