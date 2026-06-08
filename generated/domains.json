@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-08T12:10:00+00:00",
+  "updated_at": "2026-06-08T16:29:00+00:00",
   "vendor_count": 12,
-  "domain_count": 109,
+  "domain_count": 119,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,7 +18,8 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=32&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -26,10 +27,12 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -86,6 +89,7 @@
       "name": "xAI",
       "domains": [
         "accounts.x.ai",
+        "api.x.ai",
         "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
@@ -93,11 +97,13 @@
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
+        "status.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://imagine-public.x.ai/imagine-public/share-videos/7b097052-8cfe-4b0f-8a33-c2a71e1aed25.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -140,16 +146,15 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
       "name": "Cohere",
       "domains": [
         "cohere.com",
-        "dashboard.cohere.com",
-        "docs.cohere.com",
-        "events.cohere.com"
+        "docs.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -182,6 +187,7 @@
         "c.ai",
         "character.ai",
         "labs.character.ai",
+        "policies.character.ai",
         "share.character.ai",
         "support.character.ai"
       ],
@@ -195,13 +201,18 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
+        "about.ads.microsoft.com",
+        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
+        "devblogs.microsoft.com",
         "developer.microsoft.com",
+        "developercommunity.microsoft.com",
+        "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
@@ -209,7 +220,9 @@
         "marketplace.microsoft.com",
         "microsoft.com",
         "news.microsoft.com",
+        "partner.microsoft.com",
         "support.microsoft.com",
+        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
@@ -218,7 +231,9 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }
