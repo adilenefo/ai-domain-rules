@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-09T04:37:05+00:00",
+  "updated_at": "2026-06-09T08:41:57+00:00",
   "vendor_count": 12,
-  "domain_count": 127,
+  "domain_count": 117,
   "vendors": [
     {
       "name": "OpenAI",
@@ -24,19 +24,14 @@
     {
       "name": "Anthropic",
       "domains": [
-        "alignment.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
-        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -54,41 +49,34 @@
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "appsitemsuggest-pa.clients6.google.com",
-        "clients6.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "connect.corp.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "driveactivity.clients6.google.com",
-        "drivefrontend-pa.clients6.google.com",
-        "drivemetadata.clients6.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "lh3.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
-        "people-pa.clients6.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
         "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
@@ -108,8 +96,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden",
-        "https://data.x.ai/grok-4-fast-side-by-side.mp4: HTTPError: HTTP Error 403: Forbidden"
+        "https://assets.grok.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -152,7 +139,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -162,7 +150,8 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com"
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -194,18 +183,19 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
+        "policies.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
@@ -217,7 +207,6 @@
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "developercommunity.microsoft.com",
         "dynamics.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
@@ -225,6 +214,7 @@
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
+        "microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
