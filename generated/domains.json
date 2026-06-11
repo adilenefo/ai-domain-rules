@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-11T11:49:34+00:00",
+  "updated_at": "2026-06-11T16:28:59+00:00",
   "vendor_count": 12,
-  "domain_count": 112,
+  "domain_count": 117,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,24 +18,22 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=96&amp;q=100: HTTPError: HTTP Error 400: Bad Request",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
+        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -79,7 +77,9 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
+      ]
     },
     {
       "name": "xAI",
@@ -139,7 +139,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -148,9 +149,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -161,6 +160,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -181,29 +181,35 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "policies.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "account.microsoft.com",
+        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
         "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
         "developercommunity.microsoft.com",
-        "education.microsoft.com",
-        "educationblog.microsoft.com",
+        "dynamics.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -212,6 +218,7 @@
         "news.microsoft.com",
         "partner.microsoft.com",
         "support.microsoft.com",
+        "support.serviceshub.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
@@ -220,7 +227,9 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }
