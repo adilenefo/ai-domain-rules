@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-10T22:58:02+00:00
+#!updated=2026-06-11T01:41:32+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -10930,6 +10930,7 @@ HOST-SUFFIX,ahcaw.com,DIRECT
 HOST-SUFFIX,ahceisc.com,DIRECT
 HOST-SUFFIX,ahcfrc.com,DIRECT
 HOST-SUFFIX,ahchanye.com,DIRECT
+HOST-SUFFIX,ahcjw.com,DIRECT
 HOST-SUFFIX,ahcnb.com,DIRECT
 HOST-SUFFIX,ahcoating.com,DIRECT
 HOST-SUFFIX,ahcsdz.com,DIRECT
@@ -43219,6 +43220,7 @@ HOST-SUFFIX,gxxlzxs.com,DIRECT
 HOST-SUFFIX,gxxlzyc.com,DIRECT
 HOST-SUFFIX,gxxmglzx.com,DIRECT
 HOST-SUFFIX,gxxmjjs.com,DIRECT
+HOST-SUFFIX,gxxmt.com,DIRECT
 HOST-SUFFIX,gxxmyjs.com,DIRECT
 HOST-SUFFIX,gxxqsm.com,DIRECT
 HOST-SUFFIX,gxxrf.com,DIRECT
@@ -61442,6 +61444,7 @@ HOST-SUFFIX,landchina.com,DIRECT
 HOST-SUFFIX,landed.cc,DIRECT
 HOST-SUFFIX,landhonor.com,DIRECT
 HOST-SUFFIX,landi.com,DIRECT
+HOST-SUFFIX,landian.news,DIRECT
 HOST-SUFFIX,landian.vip,DIRECT
 HOST-SUFFIX,landian.xyz,DIRECT
 HOST-SUFFIX,landiannews.com,DIRECT
@@ -70774,6 +70777,7 @@ HOST-SUFFIX,nfmedia.com,DIRECT
 HOST-SUFFIX,nfmrtfv.com,DIRECT
 HOST-SUFFIX,nfnews.com,DIRECT
 HOST-SUFFIX,nfoservers.com,DIRECT
+HOST-SUFFIX,nfpeople.com,DIRECT
 HOST-SUFFIX,nfqbyp.com,DIRECT
 HOST-SUFFIX,nfs-china.com,DIRECT
 HOST-SUFFIX,nfschina.com,DIRECT
@@ -72233,6 +72237,7 @@ HOST-SUFFIX,nprc.net,DIRECT
 HOST-SUFFIX,nprnat-i.akamaihd.net,DIRECT
 HOST-SUFFIX,npsdyyy.com,DIRECT
 HOST-SUFFIX,npsel.com,DIRECT
+HOST-SUFFIX,npsv6.com,DIRECT
 HOST-SUFFIX,nptpark.com,DIRECT
 HOST-SUFFIX,nptparking.com,DIRECT
 HOST-SUFFIX,nptwedding.com,DIRECT
