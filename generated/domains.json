@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-12T19:22:48+00:00",
+  "updated_at": "2026-06-12T22:01:34+00:00",
   "vendor_count": 12,
-  "domain_count": 121,
+  "domain_count": 124,
   "vendors": [
     {
       "name": "OpenAI",
@@ -30,9 +30,10 @@
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
+        "privacy.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -40,8 +41,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -75,6 +75,7 @@
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "people-pa.clients6.google.com",
         "policies.google.com",
@@ -87,8 +88,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized",
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -106,7 +106,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -128,8 +129,7 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -145,7 +145,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -160,6 +161,7 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
+        "go.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -172,6 +174,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -196,7 +199,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
@@ -206,14 +210,13 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "developercommunity.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
