@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-13T22:19:47+00:00
+#!updated=2026-06-14T01:37:41+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -7490,7 +7490,6 @@ HOST-SUFFIX,682.com,DIRECT
 HOST-SUFFIX,68211.com,DIRECT
 HOST-SUFFIX,6822.com,DIRECT
 HOST-SUFFIX,68287zubo85737.com,DIRECT
-HOST-SUFFIX,682891.com,DIRECT
 HOST-SUFFIX,682ff8a9c89d5d88.com,DIRECT
 HOST-SUFFIX,6832123.com,DIRECT
 HOST-SUFFIX,6840011.com,DIRECT
@@ -12288,6 +12287,7 @@ HOST-SUFFIX,alszxyy.com,DIRECT
 HOST-SUFFIX,altamob.com,DIRECT
 HOST-SUFFIX,altratek.com,DIRECT
 HOST-SUFFIX,altstory.com,DIRECT
+HOST-SUFFIX,altusad.com,DIRECT
 HOST-SUFFIX,altxw.com,DIRECT
 HOST-SUFFIX,alu-ledprofile.com,DIRECT
 HOST-SUFFIX,aluaa.com,DIRECT
@@ -18178,7 +18178,6 @@ HOST-SUFFIX,brtbeacon.net,DIRECT
 HOST-SUFFIX,brtn.org,DIRECT
 HOST-SUFFIX,brtpawn.com,DIRECT
 HOST-SUFFIX,brttc.com,DIRECT
-HOST-SUFFIX,brtv.xyz,DIRECT
 HOST-SUFFIX,brtvcloud.com,DIRECT
 HOST-SUFFIX,brxjzp.com,DIRECT
 HOST-SUFFIX,brxtal.com,DIRECT
@@ -19425,7 +19424,6 @@ HOST-SUFFIX,caomei.wiki,DIRECT
 HOST-SUFFIX,caomeipai.com,DIRECT
 HOST-SUFFIX,caomeixz7.xyz,DIRECT
 HOST-SUFFIX,caoniang.com,DIRECT
-HOST-SUFFIX,caonimazuzong.com,DIRECT
 HOST-SUFFIX,caonmp.com,DIRECT
 HOST-SUFFIX,caos-china.org,DIRECT
 HOST-SUFFIX,caoshiyabo.com,DIRECT
@@ -32564,7 +32562,6 @@ HOST-SUFFIX,ebseek.com,DIRECT
 HOST-SUFFIX,ebsfw.com,DIRECT
 HOST-SUFFIX,ebt.group,DIRECT
 HOST-SUFFIX,ebtang.com,DIRECT
-HOST-SUFFIX,ebtcbank.com,DIRECT
 HOST-SUFFIX,ebtrust.com,DIRECT
 HOST-SUFFIX,ebuckler.com,DIRECT
 HOST-SUFFIX,ebumbrella.com,DIRECT
@@ -41203,6 +41200,7 @@ HOST-SUFFIX,guanxf.com,DIRECT
 HOST-SUFFIX,guanxian.org,DIRECT
 HOST-SUFFIX,guanxingyule.com,DIRECT
 HOST-SUFFIX,guanxingyun.com,DIRECT
+HOST-SUFFIX,guanxinlab.com,DIRECT
 HOST-SUFFIX,guanxintec.com,DIRECT
 HOST-SUFFIX,guanxxg.com,DIRECT
 HOST-SUFFIX,guanyezipper.com,DIRECT
@@ -43731,6 +43729,7 @@ HOST-SUFFIX,gzhd.net,DIRECT
 HOST-SUFFIX,gzhd56.com,DIRECT
 HOST-SUFFIX,gzhdcs.com,DIRECT
 HOST-SUFFIX,gzhe.net,DIRECT
+HOST-SUFFIX,gzhemera.com,DIRECT
 HOST-SUFFIX,gzhengdian.com,DIRECT
 HOST-SUFFIX,gzhengdou.com,DIRECT
 HOST-SUFFIX,gzheyoukeji.com,DIRECT
@@ -52627,7 +52626,6 @@ HOST-SUFFIX,imperialspringsforum.org,DIRECT
 HOST-SUFFIX,impk.cc,DIRECT
 HOST-SUFFIX,impnails.com,DIRECT
 HOST-SUFFIX,importingtochina.com,DIRECT
-HOST-SUFFIX,improd.works,DIRECT
 HOST-SUFFIX,improve-ai.com,DIRECT
 HOST-SUFFIX,improve-medical.com,DIRECT
 HOST-SUFFIX,impta.com,DIRECT
@@ -52900,6 +52898,7 @@ HOST-SUFFIX,innopack97.com,DIRECT
 HOST-SUFFIX,innoplayfun.com,DIRECT
 HOST-SUFFIX,innopro.cc,DIRECT
 HOST-SUFFIX,innos.com,DIRECT
+HOST-SUFFIX,innoscience.com,DIRECT
 HOST-SUFFIX,innotechx.com,DIRECT
 HOST-SUFFIX,innotek-co.com,DIRECT
 HOST-SUFFIX,innotimegood.com,DIRECT
@@ -65512,6 +65511,7 @@ HOST-SUFFIX,lzmbhj.com,DIRECT
 HOST-SUFFIX,lzmckq.com,DIRECT
 HOST-SUFFIX,lzmei.com,DIRECT
 HOST-SUFFIX,lzmljdzx.com,DIRECT
+HOST-SUFFIX,lzmmob.com,DIRECT
 HOST-SUFFIX,lzmoyin.com,DIRECT
 HOST-SUFFIX,lzmun.com,DIRECT
 HOST-SUFFIX,lzmy123.com,DIRECT
@@ -72567,6 +72567,7 @@ HOST-SUFFIX,nzxww.com,DIRECT
 HOST-SUFFIX,nzygyt.com,DIRECT
 HOST-SUFFIX,o--o.win,DIRECT
 HOST-SUFFIX,o-hr.com,DIRECT
+HOST-SUFFIX,o-n-e-dns.com,DIRECT
 HOST-SUFFIX,o-netcom.com,DIRECT
 HOST-SUFFIX,o-star.cc,DIRECT
 HOST-SUFFIX,o.pki.goog,DIRECT
@@ -81024,7 +81025,6 @@ HOST-SUFFIX,sanxin-med.com,DIRECT
 HOST-SUFFIX,sanxinbook.com,DIRECT
 HOST-SUFFIX,sanxing.com,DIRECT
 HOST-SUFFIX,sanxinwin.com,DIRECT
-HOST-SUFFIX,sanya1.com,DIRECT
 HOST-SUFFIX,sanyaairport.com,DIRECT
 HOST-SUFFIX,sanyachloe.com,DIRECT
 HOST-SUFFIX,sanyajob.com,DIRECT
