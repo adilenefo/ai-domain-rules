@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T23:38:12+00:00",
+  "updated_at": "2026-06-15T05:29:32+00:00",
   "domain_count": 114852,
   "sources": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "source": "loyalsoldier_direct",
-      "count": 112689
+      "count": 112687
     },
     {
       "source": "v2fly_geolocation_cn",
