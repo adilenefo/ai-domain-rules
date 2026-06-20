@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-19T23:15:44+00:00
+#!updated=2026-06-20T01:33:12+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -14129,6 +14129,7 @@ HOST-SUFFIX,azt365.com,DIRECT
 HOST-SUFFIX,azuiblc.com,DIRECT
 HOST-SUFFIX,azure-wave.com,DIRECT
 HOST-SUFFIX,azure.cc,DIRECT
+HOST-SUFFIX,azureflame.cloud,DIRECT
 HOST-SUFFIX,azureflying.com,DIRECT
 HOST-SUFFIX,azuremigrate.download.prss.microsoft.com,DIRECT
 HOST-SUFFIX,azuremigratetest.download.prss.microsoft.com,DIRECT
@@ -16770,6 +16771,7 @@ HOST-SUFFIX,bjanjili.com,DIRECT
 HOST-SUFFIX,bjartmuseum.com,DIRECT
 HOST-SUFFIX,bjatv.com,DIRECT
 HOST-SUFFIX,bjbaidianfeng.com,DIRECT
+HOST-SUFFIX,bjbaifan.com,DIRECT
 HOST-SUFFIX,bjbalb.com,DIRECT
 HOST-SUFFIX,bjbaodao.net,DIRECT
 HOST-SUFFIX,bjbb.com,DIRECT
@@ -19243,6 +19245,7 @@ HOST-SUFFIX,cangdu.org,DIRECT
 HOST-SUFFIX,cangfengzhe.com,DIRECT
 HOST-SUFFIX,canghaiip.com,DIRECT
 HOST-SUFFIX,canghaimachine.com,DIRECT
+HOST-SUFFIX,cangjggame.com,DIRECT
 HOST-SUFFIX,canglanghospital.com,DIRECT
 HOST-SUFFIX,cangmang.xyz,DIRECT
 HOST-SUFFIX,cangoonline.com,DIRECT
@@ -20905,6 +20908,7 @@ HOST-SUFFIX,chacheku.com,DIRECT
 HOST-SUFFIX,chachengji.com,DIRECT
 HOST-SUFFIX,chacihai.com,DIRECT
 HOST-SUFFIX,chacuo.net,DIRECT
+HOST-SUFFIX,chadaodao.com,DIRECT
 HOST-SUFFIX,chadianhua.net,DIRECT
 HOST-SUFFIX,chadoc.com,DIRECT
 HOST-SUFFIX,chaej.com,DIRECT
@@ -35091,6 +35095,7 @@ HOST-SUFFIX,feierlaiedu.com,DIRECT
 HOST-SUFFIX,feiersmart.com,DIRECT
 HOST-SUFFIX,feifandesign.com,DIRECT
 HOST-SUFFIX,feifanindustry.com,DIRECT
+HOST-SUFFIX,feifanmi.com,DIRECT
 HOST-SUFFIX,feifantxt.com,DIRECT
 HOST-SUFFIX,feifantxt.net,DIRECT
 HOST-SUFFIX,feifdx.com,DIRECT
@@ -76915,6 +76920,7 @@ HOST-SUFFIX,qingmuxinli.com,DIRECT
 HOST-SUFFIX,qingnianlvxing.com,DIRECT
 HOST-SUFFIX,qingniantuzhai.com,DIRECT
 HOST-SUFFIX,qingnianwang.com,DIRECT
+HOST-SUFFIX,qingning88.com,DIRECT
 HOST-SUFFIX,qingpanduola.com,DIRECT
 HOST-SUFFIX,qingpin.vip,DIRECT
 HOST-SUFFIX,qingping.co,DIRECT
@@ -94281,6 +94287,7 @@ HOST-SUFFIX,uniostay.com,DIRECT
 HOST-SUFFIX,uniow.com,DIRECT
 HOST-SUFFIX,unipack-tech.com,DIRECT
 HOST-SUFFIX,uniproud.com,DIRECT
+HOST-SUFFIX,unisapps.com,DIRECT
 HOST-SUFFIX,uniscope.com,DIRECT
 HOST-SUFFIX,unisdigital.com,DIRECT
 HOST-SUFFIX,unisedu.com,DIRECT
