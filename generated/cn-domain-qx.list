@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-21T01:40:43+00:00
+#!updated=2026-06-21T07:10:52+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -83206,6 +83206,7 @@ HOST-SUFFIX,shengtiangroup.com,DIRECT
 HOST-SUFFIX,shengtongedu.com,DIRECT
 HOST-SUFFIX,shengtuanyouxuan.com,DIRECT
 HOST-SUFFIX,shenguang.com,DIRECT
+HOST-SUFFIX,shengwang.cn,DIRECT
 HOST-SUFFIX,shengwu.store,DIRECT
 HOST-SUFFIX,shengwu01.com,DIRECT
 HOST-SUFFIX,shengxiao.net,DIRECT
@@ -85934,6 +85935,7 @@ HOST-SUFFIX,snyu.com,DIRECT
 HOST-SUFFIX,snzfj.net,DIRECT
 HOST-SUFFIX,snzhny.com,DIRECT
 HOST-SUFFIX,snzsxh.com,DIRECT
+HOST-SUFFIX,so-quick.cn,DIRECT
 HOST-SUFFIX,so.car,DIRECT
 HOST-SUFFIX,so.com,DIRECT
 HOST-SUFFIX,so123.com,DIRECT
