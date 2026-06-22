@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-21T23:45:42+00:00
+#!updated=2026-06-22T05:32:14+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -31717,6 +31717,7 @@ HOST-SUFFIX,dxlfile.com,DIRECT
 HOST-SUFFIX,dxm-cdn.com,DIRECT
 HOST-SUFFIX,dxm-int.com,DIRECT
 HOST-SUFFIX,dxm-yibai.com,DIRECT
+HOST-SUFFIX,dxmbaoxian.com,DIRECT
 HOST-SUFFIX,dxmjinr.com,DIRECT
 HOST-SUFFIX,dxmjuhe.com,DIRECT
 HOST-SUFFIX,dxmlcf.com,DIRECT
@@ -66327,6 +66328,7 @@ HOST-SUFFIX,mcool.com,DIRECT
 HOST-SUFFIX,mcpemaster.com,DIRECT
 HOST-SUFFIX,mcpfks.com,DIRECT
 HOST-SUFFIX,mcpmaid.com,DIRECT
+HOST-SUFFIX,mcpworld.com,DIRECT
 HOST-SUFFIX,mcq93.app,DIRECT
 HOST-SUFFIX,mcqy.net,DIRECT
 HOST-SUFFIX,mcsafebox.com,DIRECT
@@ -66898,6 +66900,7 @@ HOST-SUFFIX,menpad.com,DIRECT
 HOST-SUFFIX,menpiao.com,DIRECT
 HOST-SUFFIX,menpiaotuangou.com,DIRECT
 HOST-SUFFIX,menshiny.com,DIRECT
+HOST-SUFFIX,mensura.cdn-apple.com,DIRECT
 HOST-SUFFIX,mentamob.com,DIRECT
 HOST-SUFFIX,mentorsc.com,DIRECT
 HOST-SUFFIX,mentrends.com,DIRECT
@@ -69368,6 +69371,7 @@ HOST-SUFFIX,myspain.org,DIRECT
 HOST-SUFFIX,mysqil.com,DIRECT
 HOST-SUFFIX,mysql360.com,DIRECT
 HOST-SUFFIX,mysqlab.net,DIRECT
+HOST-SUFFIX,myssl-uri.com,DIRECT
 HOST-SUFFIX,myssl.com,DIRECT
 HOST-SUFFIX,mystarch.com,DIRECT
 HOST-SUFFIX,mysteel.com,DIRECT
@@ -74246,6 +74250,7 @@ HOST-SUFFIX,perfcode.com,DIRECT
 HOST-SUFFIX,perfect-input.com,DIRECT
 HOST-SUFFIX,perfect99.com,DIRECT
 HOST-SUFFIX,perfectdiary.com,DIRECT
+HOST-SUFFIX,perfectlingo.com,DIRECT
 HOST-SUFFIX,perfecttradinghk.com,DIRECT
 HOST-SUFFIX,perfectwatchen.com,DIRECT
 HOST-SUFFIX,perfertw.com,DIRECT
@@ -75710,6 +75715,7 @@ HOST-SUFFIX,pw-partners.com,DIRECT
 HOST-SUFFIX,pw1999.com,DIRECT
 HOST-SUFFIX,pw88.com,DIRECT
 HOST-SUFFIX,pwand.com,DIRECT
+HOST-SUFFIX,pwcinema.com,DIRECT
 HOST-SUFFIX,pwdding.icu,DIRECT
 HOST-SUFFIX,pwithe.com,DIRECT
 HOST-SUFFIX,pwjptdg.xyz,DIRECT
@@ -92686,6 +92692,7 @@ HOST-SUFFIX,trust-one.com,DIRECT
 HOST-SUFFIX,trust400.com,DIRECT
 HOST-SUFFIX,trusta-lawyer.com,DIRECT
 HOST-SUFFIX,trustasia.com,DIRECT
+HOST-SUFFIX,trustasia.net,DIRECT
 HOST-SUFFIX,trustcn.com,DIRECT
 HOST-SUFFIX,trustdecision.com,DIRECT
 HOST-SUFFIX,trustedsign.com,DIRECT
