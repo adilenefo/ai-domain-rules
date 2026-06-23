@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-22T22:56:36+00:00
+#!updated=2026-06-23T01:24:16+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -10635,6 +10635,7 @@ HOST-SUFFIX,adxmax.com,DIRECT
 HOST-SUFFIX,adxmq.com,DIRECT
 HOST-SUFFIX,adxpand.com,DIRECT
 HOST-SUFFIX,adxqd.com,DIRECT
+HOST-SUFFIX,adxsenmeng.com,DIRECT
 HOST-SUFFIX,adxvip.com,DIRECT
 HOST-SUFFIX,adxwork.com,DIRECT
 HOST-SUFFIX,adxyun.com,DIRECT
@@ -11839,6 +11840,7 @@ HOST-SUFFIX,aliddmall.com,DIRECT
 HOST-SUFFIX,alidns.com,DIRECT
 HOST-SUFFIX,alidns.net,DIRECT
 HOST-SUFFIX,alidnsv4.com,DIRECT
+HOST-SUFFIX,alidnsv5.com,DIRECT
 HOST-SUFFIX,alidz.net,DIRECT
 HOST-SUFFIX,aliedge.com,DIRECT
 HOST-SUFFIX,aliensidea.com,DIRECT
@@ -82226,6 +82228,7 @@ HOST-SUFFIX,sf-laas.com,DIRECT
 HOST-SUFFIX,sf-pay.com,DIRECT
 HOST-SUFFIX,sf-saas.com,DIRECT
 HOST-SUFFIX,sf-zs.net,DIRECT
+HOST-SUFFIX,sf.global,DIRECT
 HOST-SUFFIX,sf007.com,DIRECT
 HOST-SUFFIX,sf024.com,DIRECT
 HOST-SUFFIX,sf2021.com,DIRECT
@@ -89925,6 +89928,7 @@ HOST-SUFFIX,tcnews.cc,DIRECT
 HOST-SUFFIX,tcnvmms.com,DIRECT
 HOST-SUFFIX,tcoejox.shop,DIRECT
 HOST-SUFFIX,tcomall.com,DIRECT
+HOST-SUFFIX,tcp-crm.com,DIRECT
 HOST-SUFFIX,tcp.hk,DIRECT
 HOST-SUFFIX,tcp.mk,DIRECT
 HOST-SUFFIX,tcp.pub,DIRECT
