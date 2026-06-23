@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-23T16:43:34+00:00",
-  "domain_count": 114461,
+  "updated_at": "2026-06-23T19:19:54+00:00",
+  "domain_count": 114398,
   "sources": [
     {
       "source": "blackmatrix7_chinamax",
-      "count": 112559
+      "count": 112506
     },
     {
       "source": "blackmatrix7_china",
