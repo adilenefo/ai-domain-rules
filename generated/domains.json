@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-25T15:16:48+00:00",
+  "updated_at": "2026-06-25T17:26:06+00:00",
   "vendor_count": 12,
-  "domain_count": 97,
+  "domain_count": 114,
   "vendors": [
     {
       "name": "OpenAI",
@@ -45,13 +45,13 @@
     {
       "name": "Google Gemini",
       "domains": [
+        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -61,31 +61,36 @@
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
+        "home.google.com",
         "labs.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
+        "pay.google.com",
+        "payments.google.com",
+        "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "takeout.google.com",
         "waa-pa.clients6.google.com",
+        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "xAI",
       "domains": [
         "accounts.x.ai",
-        "api.x.ai",
         "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
@@ -93,13 +98,11 @@
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
-        "status.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://imagine-public.x.ai/imagine-public/share-videos/7b097052-8cfe-4b0f-8a33-c2a71e1aed25.mp4: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -151,6 +154,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
+        "events.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -160,15 +164,14 @@
     {
       "name": "Stability AI",
       "domains": [
+        "hpc.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Midjourney",
@@ -186,9 +189,7 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -199,19 +200,29 @@
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
+        "account.microsoft.com",
         "api.githubcopilot.com",
+        "azure.microsoft.com",
+        "blogs.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
+        "devblogs.microsoft.com",
+        "developer.microsoft.com",
+        "education.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
-        "techcommunity.microsoft.com",
+        "marketplace.microsoft.com",
+        "partner.microsoft.com",
+        "support.microsoft.com",
+        "support.serviceshub.microsoft.com",
+        "uhf.microsoft.com",
         "visualstudio.microsoft.com",
-        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://visualstudio.microsoft.com/github-copilot: HTTPError: HTTP Error 404: Not Found",
         "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
       ]
     }
