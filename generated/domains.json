@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-25T22:47:05+00:00",
+  "updated_at": "2026-06-26T01:31:12+00:00",
   "vendor_count": 12,
-  "domain_count": 112,
+  "domain_count": 113,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,7 +18,8 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -26,14 +27,18 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -61,11 +66,9 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
         "policies.google.com",
         "push.clients6.google.com",
@@ -75,9 +78,7 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -95,6 +96,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://data.x.ai/grok-4-fast-side-by-side.mp4: HTTPError: HTTP Error 403: Forbidden",
         "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
@@ -117,8 +119,7 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -139,8 +140,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://console.perplexity.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -149,7 +149,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
+        "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -161,6 +161,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -188,27 +189,27 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "about.ads.microsoft.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
+        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "devblogs.microsoft.com",
         "developer.microsoft.com",
-        "dynamics.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
-        "marketplace.microsoft.com",
         "microsoft.com",
         "news.microsoft.com",
         "partner.microsoft.com",
