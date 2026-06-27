@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-27T09:05:58+00:00",
+  "updated_at": "2026-06-27T11:04:27+00:00",
   "vendor_count": 12,
-  "domain_count": 114,
+  "domain_count": 113,
   "vendors": [
     {
       "name": "OpenAI",
@@ -24,7 +24,6 @@
     {
       "name": "Anthropic",
       "domains": [
-        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "assets.anthropic.com",
@@ -60,6 +59,7 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
@@ -118,6 +118,7 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
+        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
@@ -162,7 +163,6 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
-        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -184,7 +184,7 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai"
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -199,7 +199,6 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
@@ -212,9 +211,9 @@
         "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
-        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
