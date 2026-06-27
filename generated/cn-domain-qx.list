@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-27T01:24:07+00:00
+#!updated=2026-06-27T06:02:54+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -8833,6 +8833,7 @@ HOST-SUFFIX,8lhx.com,DIRECT
 HOST-SUFFIX,8liuxing.com,DIRECT
 HOST-SUFFIX,8llp.com,DIRECT
 HOST-SUFFIX,8lun.com,DIRECT
+HOST-SUFFIX,8m2.net,DIRECT
 HOST-SUFFIX,8m8t.com,DIRECT
 HOST-SUFFIX,8mcn.com,DIRECT
 HOST-SUFFIX,8mhh.com,DIRECT
@@ -12452,6 +12453,7 @@ HOST-SUFFIX,aniu.com,DIRECT
 HOST-SUFFIX,aniu.so,DIRECT
 HOST-SUFFIX,aniu.tv,DIRECT
 HOST-SUFFIX,aniworld.tv,DIRECT
+HOST-SUFFIX,anixplayer.net,DIRECT
 HOST-SUFFIX,anjgas.com,DIRECT
 HOST-SUFFIX,anji-ceva.com,DIRECT
 HOST-SUFFIX,anji-logistics.com,DIRECT
@@ -12729,7 +12731,6 @@ HOST-SUFFIX,anzmy.com,DIRECT
 HOST-SUFFIX,anzogame.com,DIRECT
 HOST-SUFFIX,ao-di.com,DIRECT
 HOST-SUFFIX,ao-hua.com,DIRECT
-HOST-SUFFIX,ao-x.ac.cn,DIRECT
 HOST-SUFFIX,ao3yiqag7zc8za.com,DIRECT
 HOST-SUFFIX,aoao365.com,DIRECT
 HOST-SUFFIX,aoaob.com,DIRECT
@@ -23306,6 +23307,7 @@ HOST-SUFFIX,cikelink.com,DIRECT
 HOST-SUFFIX,cilgroup.org,DIRECT
 HOST-SUFFIX,cilin.org,DIRECT
 HOST-SUFFIX,cilishenqi.cc,DIRECT
+HOST-SUFFIX,cilisouou.com,DIRECT
 HOST-SUFFIX,cilogo.com,DIRECT
 HOST-SUFFIX,cim2025.net,DIRECT
 HOST-SUFFIX,cimamotor.com,DIRECT
@@ -41026,6 +41028,7 @@ HOST-SUFFIX,gugong.net,DIRECT
 HOST-SUFFIX,gugu.fun,DIRECT
 HOST-SUFFIX,gugud.com,DIRECT
 HOST-SUFFIX,gugudang.com,DIRECT
+HOST-SUFFIX,gugudata.com,DIRECT
 HOST-SUFFIX,guguread.com,DIRECT
 HOST-SUFFIX,gugushuzi.com,DIRECT
 HOST-SUFFIX,guguyu.com,DIRECT
@@ -54451,6 +54454,7 @@ HOST-SUFFIX,jfbuilding.com,DIRECT
 HOST-SUFFIX,jfchinese.com,DIRECT
 HOST-SUFFIX,jfcjt.com,DIRECT
 HOST-SUFFIX,jfcoo.com,DIRECT
+HOST-SUFFIX,jfcoop.com,DIRECT
 HOST-SUFFIX,jfdaily.com,DIRECT
 HOST-SUFFIX,jfedu.net,DIRECT
 HOST-SUFFIX,jfgjwl.com,DIRECT
@@ -75332,6 +75336,7 @@ HOST-SUFFIX,programmercarl.com,DIRECT
 HOST-SUFFIX,programschool.com,DIRECT
 HOST-SUFFIX,progress-cn.com,DIRECT
 HOST-SUFFIX,progressingeography.com,DIRECT
+HOST-SUFFIX,proj101.cn,DIRECT
 HOST-SUFFIX,project-oa.com,DIRECT
 HOST-SUFFIX,project-snow.com,DIRECT
 HOST-SUFFIX,project.ai,DIRECT
@@ -75503,7 +75508,6 @@ HOST-SUFFIX,pubyun.com,DIRECT
 HOST-SUFFIX,pubyun.net,DIRECT
 HOST-SUFFIX,pubyun.org,DIRECT
 HOST-SUFFIX,pucijiankang.com,DIRECT
-HOST-SUFFIX,puddingcat.top,DIRECT
 HOST-SUFFIX,pudetouzi.com,DIRECT
 HOST-SUFFIX,pudie.net,DIRECT
 HOST-SUFFIX,pudijt.com,DIRECT
@@ -99214,6 +99218,7 @@ HOST-SUFFIX,wsimen.com,DIRECT
 HOST-SUFFIX,wsipv6.com,DIRECT
 HOST-SUFFIX,wsisp.com,DIRECT
 HOST-SUFFIX,wsisp.net,DIRECT
+HOST-SUFFIX,wsjqnmmrmv.world,DIRECT
 HOST-SUFFIX,wsjtxia.com,DIRECT
 HOST-SUFFIX,wskam.com,DIRECT
 HOST-SUFFIX,wskj16818.xyz,DIRECT
