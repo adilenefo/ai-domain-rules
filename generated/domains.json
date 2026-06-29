@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-06-28T23:32:49+00:00",
+  "updated_at": "2026-06-29T05:00:39+00:00",
   "vendor_count": 12,
-  "domain_count": 106,
+  "domain_count": 109,
   "vendors": [
     {
       "name": "OpenAI",
@@ -24,6 +24,7 @@
     {
       "name": "Anthropic",
       "domains": [
+        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "claude.ai",
@@ -61,12 +62,15 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -74,8 +78,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized",
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -93,8 +96,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -132,7 +134,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -147,6 +150,7 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
+        "labscommunity.cohere.com",
         "shop.cohere.com"
       ],
       "pages_scanned": 8,
@@ -178,10 +182,7 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -191,7 +192,6 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
@@ -206,10 +206,11 @@
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
+        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
+        "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
