@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-06-29T23:17:07+00:00
+#!updated=2026-06-30T01:28:22+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -14667,7 +14667,6 @@ HOST-SUFFIX,balihe.com,DIRECT
 HOST-SUFFIX,balijieji.com,DIRECT
 HOST-SUFFIX,balimtoy.com,DIRECT
 HOST-SUFFIX,balingtxt.com,DIRECT
-HOST-SUFFIX,balldollars.com,DIRECT
 HOST-SUFFIX,ballgametime.com,DIRECT
 HOST-SUFFIX,ballpure.com,DIRECT
 HOST-SUFFIX,balltv.cc,DIRECT
@@ -35266,6 +35265,7 @@ HOST-SUFFIX,fengli.com,DIRECT
 HOST-SUFFIX,fengli.su,DIRECT
 HOST-SUFFIX,fengliankeji.com,DIRECT
 HOST-SUFFIX,fenglichem.com,DIRECT
+HOST-SUFFIX,fenglingkj.com,DIRECT
 HOST-SUFFIX,fenglingroup.com,DIRECT
 HOST-SUFFIX,fenglinjiu.com,DIRECT
 HOST-SUFFIX,fenglinlab.com,DIRECT
@@ -46636,6 +46636,7 @@ HOST-SUFFIX,hibace.net,DIRECT
 HOST-SUFFIX,hibbw.net,DIRECT
 HOST-SUFFIX,hibelarus.com,DIRECT
 HOST-SUFFIX,hibgm.com,DIRECT
+HOST-SUFFIX,hibianli.com,DIRECT
 HOST-SUFFIX,hibixin.com,DIRECT
 HOST-SUFFIX,hibogroup.com,DIRECT
 HOST-SUFFIX,hibor.net,DIRECT
@@ -56388,6 +56389,7 @@ HOST-SUFFIX,jlsegx.com,DIRECT
 HOST-SUFFIX,jlsemi.com,DIRECT
 HOST-SUFFIX,jlsfcyy.com,DIRECT
 HOST-SUFFIX,jlsgjt.com,DIRECT
+HOST-SUFFIX,jlshuiyuan.com,DIRECT
 HOST-SUFFIX,jlsjsjlhgczxxh.com,DIRECT
 HOST-SUFFIX,jlsjsxxw.com,DIRECT
 HOST-SUFFIX,jlsports.com,DIRECT
@@ -59935,6 +59937,7 @@ HOST-SUFFIX,koba8.com,DIRECT
 HOST-SUFFIX,kobelco-zh.com,DIRECT
 HOST-SUFFIX,kobox.tv,DIRECT
 HOST-SUFFIX,kocla.com,DIRECT
+HOST-SUFFIX,kodakbanjara.com,DIRECT
 HOST-SUFFIX,kodcloud.com,DIRECT
 HOST-SUFFIX,koderover.com,DIRECT
 HOST-SUFFIX,kodmp.com,DIRECT
@@ -76047,7 +76050,6 @@ HOST-SUFFIX,qdmama.net,DIRECT
 HOST-SUFFIX,qdmcxh.com,DIRECT
 HOST-SUFFIX,qdmm.com,DIRECT
 HOST-SUFFIX,qdmswx.com,DIRECT
-HOST-SUFFIX,qdn4ydsg3s.com,DIRECT
 HOST-SUFFIX,qdnsyh.com,DIRECT
 HOST-SUFFIX,qdnxsyy.com,DIRECT
 HOST-SUFFIX,qdnzrmyy.com,DIRECT
@@ -76874,6 +76876,7 @@ HOST-SUFFIX,qingxinjs.com,DIRECT
 HOST-SUFFIX,qingxuetang.com,DIRECT
 HOST-SUFFIX,qingxun.com,DIRECT
 HOST-SUFFIX,qingyantek.com,DIRECT
+HOST-SUFFIX,qingye.org,DIRECT
 HOST-SUFFIX,qingyeyun.com,DIRECT
 HOST-SUFFIX,qingyi.com,DIRECT
 HOST-SUFFIX,qingying.net,DIRECT
@@ -93748,6 +93751,7 @@ HOST-SUFFIX,uccbikes.com,DIRECT
 HOST-SUFFIX,uccpd.com,DIRECT
 HOST-SUFFIX,ucdchina.com,DIRECT
 HOST-SUFFIX,ucdns22.com,DIRECT
+HOST-SUFFIX,ucdns4.com,DIRECT
 HOST-SUFFIX,ucdns7.com,DIRECT
 HOST-SUFFIX,ucdok.com,DIRECT
 HOST-SUFFIX,ucdrs.net,DIRECT
@@ -105580,6 +105584,7 @@ HOST-SUFFIX,ygibao.com,DIRECT
 HOST-SUFFIX,yginsight.com,DIRECT
 HOST-SUFFIX,ygjctech.com,DIRECT
 HOST-SUFFIX,ygjj.com,DIRECT
+HOST-SUFFIX,yglsr.com,DIRECT
 HOST-SUFFIX,ygmsy.com,DIRECT
 HOST-SUFFIX,ygread.com,DIRECT
 HOST-SUFFIX,ygrtt.com,DIRECT
