@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-01T19:13:07+00:00",
+  "updated_at": "2026-07-01T20:55:17+00:00",
   "vendor_count": 12,
-  "domain_count": 111,
+  "domain_count": 117,
   "vendors": [
     {
       "name": "OpenAI",
@@ -28,6 +28,7 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
         "red.anthropic.com",
@@ -46,6 +47,7 @@
     {
       "name": "Google Gemini",
       "domains": [
+        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
@@ -62,23 +64,31 @@
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
+        "home.google.com",
         "labs.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
+        "pay.google.com",
+        "payments.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
+        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 500: Internal Server Error"
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized",
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
@@ -96,8 +106,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -119,8 +128,7 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -142,7 +150,7 @@
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
         "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
+        "https://console.perplexity.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -151,7 +159,9 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com"
+        "events.cohere.com",
+        "labscommunity.cohere.com",
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -165,9 +175,7 @@
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Midjourney",
@@ -184,15 +192,12 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -207,12 +212,12 @@
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
+        "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
         "techcommunity.microsoft.com",
