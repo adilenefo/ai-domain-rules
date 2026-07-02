@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-02T09:33:27+00:00
+#!updated=2026-07-02T12:22:19+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -57110,7 +57110,6 @@ HOST-SUFFIX,jsinfo.net,DIRECT
 HOST-SUFFIX,jsinnopharm.com,DIRECT
 HOST-SUFFIX,jsiport.com,DIRECT
 HOST-SUFFIX,jsirfe.com,DIRECT
-HOST-SUFFIX,jsj.top,DIRECT
 HOST-SUFFIX,jsjajt.com,DIRECT
 HOST-SUFFIX,jsjcjx.com,DIRECT
 HOST-SUFFIX,jsjclykz.com,DIRECT
