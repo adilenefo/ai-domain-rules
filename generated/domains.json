@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-03T23:19:42+00:00",
+  "updated_at": "2026-07-04T04:03:00+00:00",
   "vendor_count": 12,
-  "domain_count": 105,
+  "domain_count": 89,
   "vendors": [
     {
       "name": "OpenAI",
@@ -31,8 +31,10 @@
         "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "downloads.claude.ai",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
@@ -51,7 +53,6 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -77,7 +78,9 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -96,7 +99,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -134,13 +137,13 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "www.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -150,7 +153,6 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "go.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -183,36 +185,20 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "api.githubcopilot.com",
-        "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
-        "githubcopilot.com",
-        "go.microsoft.com",
-        "learn.microsoft.com",
-        "marketplace.microsoft.com",
-        "news.microsoft.com",
-        "support.microsoft.com",
-        "techcommunity.microsoft.com",
-        "uhf.microsoft.com",
-        "visualstudio.microsoft.com",
-        "www.microsoft.com"
+        "githubcopilot.com"
       ],
       "pages_scanned": 8,
       "errors": [
