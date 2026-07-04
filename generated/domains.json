@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-04T04:03:00+00:00",
+  "updated_at": "2026-07-04T07:16:08+00:00",
   "vendor_count": 12,
-  "domain_count": 89,
+  "domain_count": 94,
   "vendors": [
     {
       "name": "OpenAI",
@@ -26,16 +26,16 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "downloads.claude.ai",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -53,6 +53,7 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -63,9 +64,11 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -78,8 +81,6 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
         "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
       ]
     },
@@ -99,7 +100,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://imagine-public.x.ai/imagine-public/share-videos/7b097052-8cfe-4b0f-8a33-c2a71e1aed25.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -142,8 +143,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -185,25 +185,24 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "api.githubcopilot.com",
+        "account.microsoft.com",
         "copilot.microsoft.com",
-        "githubcopilot.com"
+        "githubcopilot.com",
+        "support.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
