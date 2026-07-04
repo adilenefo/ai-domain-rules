@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-04T21:14:37+00:00",
+  "updated_at": "2026-07-04T22:13:39+00:00",
   "vendor_count": 12,
-  "domain_count": 115,
+  "domain_count": 117,
   "vendors": [
     {
       "name": "OpenAI",
@@ -24,17 +24,21 @@
     {
       "name": "Anthropic",
       "domains": [
+        "alignment.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "downloads.claude.ai",
+        "privacy.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -46,7 +50,6 @@
     {
       "name": "Google Gemini",
       "domains": [
-        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
@@ -62,30 +65,25 @@
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
-        "home.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
-        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
-        "pay.google.com",
-        "payments.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
-        "takeout.google.com",
         "waa-pa.clients6.google.com",
-        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -124,6 +122,7 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
+        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
@@ -141,13 +140,13 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "www.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://docs.perplexity.ai/models/assets/search_api.png: HTTPError: HTTP Error 404: Not Found"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -157,7 +156,8 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com"
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -192,8 +192,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -204,11 +203,13 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "choice.microsoft.com",
+        "browser.events.data.microsoft.com",
+        "careers.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
-        "education.microsoft.com",
+        "docs.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -216,7 +217,6 @@
         "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
-        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
