@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-05T18:17:24+00:00
+#!updated=2026-07-05T19:47:15+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -33130,7 +33130,6 @@ HOST-SUFFIX,embryform.com,DIRECT
 HOST-SUFFIX,embryochina.com,DIRECT
 HOST-SUFFIX,embsky.com,DIRECT
 HOST-SUFFIX,emby.men,DIRECT
-HOST-SUFFIX,emby.yun,DIRECT
 HOST-SUFFIX,embyvip.org,DIRECT
 HOST-SUFFIX,emcbj.com,DIRECT
 HOST-SUFFIX,emcdir.com,DIRECT
