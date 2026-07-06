@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-06T04:40:05+00:00",
+  "updated_at": "2026-07-06T09:11:27+00:00",
   "vendor_count": 12,
-  "domain_count": 112,
+  "domain_count": 121,
   "vendors": [
     {
       "name": "OpenAI",
@@ -19,7 +19,7 @@
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=16&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -27,11 +27,11 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "economic-research.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -51,36 +51,45 @@
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
+        "appsitemsuggest-pa.clients6.google.com",
+        "clients6.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "connect.corp.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "driveactivity.clients6.google.com",
+        "drivefrontend-pa.clients6.google.com",
+        "drivemetadata.clients6.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "lh3.google.com",
         "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
+        "people-pa.clients6.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -98,8 +107,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai/voice: HTTPError: HTTP Error 403: Forbidden",
-        "https://imagine-public.x.ai/imagine-public/share-videos/7b097052-8cfe-4b0f-8a33-c2a71e1aed25.mp4: HTTPError: HTTP Error 403: Forbidden"
+        "https://cdn.grok.com/_next/static/chunks/0j4c4~j4vzm: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -121,13 +129,11 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://console.mistral.ai: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -139,8 +145,7 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "trust.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -155,7 +160,6 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -167,7 +171,6 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
-        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -189,11 +192,14 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
+        "labs.character.ai",
+        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
@@ -204,19 +210,19 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
-        "education.microsoft.com",
+        "docs.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
+        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "wcpstatic.microsoft.com",
