@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,api.githubcopilot.com,AI
 DOMAIN-SUFFIX,api.perplexity.ai,AI
 DOMAIN-SUFFIX,apps.microsoft.com,AI
 DOMAIN-SUFFIX,appsitemsuggest-pa.clients6.google.com,AI
-DOMAIN-SUFFIX,assets.anthropic.com,AI
 DOMAIN-SUFFIX,assets.grok.com,AI
 DOMAIN-SUFFIX,azure.microsoft.com,AI
 DOMAIN-SUFFIX,blog.character.ai,AI
@@ -32,6 +31,7 @@ DOMAIN-SUFFIX,cohere.com,AI
 DOMAIN-SUFFIX,colab.sandbox.google.com,AI
 DOMAIN-SUFFIX,community.perplexity.ai,AI
 DOMAIN-SUFFIX,connect.corp.google.com,AI
+DOMAIN-SUFFIX,console.anthropic.com,AI
 DOMAIN-SUFFIX,console.cloud.google.com,AI
 DOMAIN-SUFFIX,console.mistral.ai,AI
 DOMAIN-SUFFIX,console.perplexity.ai,AI
@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,docs.google.com,AI
 DOMAIN-SUFFIX,docs.mistral.ai,AI
 DOMAIN-SUFFIX,docs.perplexity.ai,AI
 DOMAIN-SUFFIX,docs.x.ai,AI
+DOMAIN-SUFFIX,downloads.claude.ai,AI
 DOMAIN-SUFFIX,drive.google.com,AI
 DOMAIN-SUFFIX,driveactivity.clients6.google.com,AI
 DOMAIN-SUFFIX,drivefrontend-pa.clients6.google.com,AI
@@ -73,7 +74,6 @@ DOMAIN-SUFFIX,learn.microsoft.com,AI
 DOMAIN-SUFFIX,legal.mistral.ai,AI
 DOMAIN-SUFFIX,lh3.google.com,AI
 DOMAIN-SUFFIX,mail.google.com,AI
-DOMAIN-SUFFIX,marketplace.microsoft.com,AI
 DOMAIN-SUFFIX,meta.ai,AI
 DOMAIN-SUFFIX,microsoft.com,AI
 DOMAIN-SUFFIX,midjourney.com,AI
@@ -104,14 +104,17 @@ DOMAIN-SUFFIX,status.anthropic.com,AI
 DOMAIN-SUFFIX,status.openai.com,AI
 DOMAIN-SUFFIX,support.character.ai,AI
 DOMAIN-SUFFIX,support.google.com,AI
-DOMAIN-SUFFIX,support.microsoft.com,AI
-DOMAIN-SUFFIX,techcommunity.microsoft.com,AI
+DOMAIN-SUFFIX,supporttagging-autopush.sandbox.google.com,AI
+DOMAIN-SUFFIX,tagassistant.google.com,AI
 DOMAIN-SUFFIX,trust.anthropic.com,AI
+DOMAIN-SUFFIX,trust.perplexity.ai,AI
 DOMAIN-SUFFIX,trust.stability.ai,AI
 DOMAIN-SUFFIX,trustcenter.cohere.com,AI
 DOMAIN-SUFFIX,uhf.microsoft.com,AI
 DOMAIN-SUFFIX,unlocked.microsoft.com,AI
+DOMAIN-SUFFIX,visualstudio.microsoft.com,AI
 DOMAIN-SUFFIX,waa-pa.clients6.google.com,AI
+DOMAIN-SUFFIX,wcpstatic.microsoft.com,AI
 DOMAIN-SUFFIX,workspace.google.com,AI
 DOMAIN-SUFFIX,www-cdn.anthropic.com,AI
 DOMAIN-SUFFIX,www.anthropic.com,AI
