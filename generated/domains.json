@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-08T06:39:22+00:00",
+  "updated_at": "2026-07-08T09:38:48+00:00",
   "vendor_count": 12,
-  "domain_count": 108,
+  "domain_count": 110,
   "vendors": [
     {
       "name": "OpenAI",
@@ -25,14 +25,13 @@
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
-        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -70,7 +69,6 @@
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
-        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -78,8 +76,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized",
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
@@ -123,8 +121,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://chat.mistral.ai/code/extensions: HTTPError: HTTP Error 403: Forbidden"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -141,8 +138,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -151,7 +147,9 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com"
+        "events.cohere.com",
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -190,12 +188,13 @@
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
@@ -216,6 +215,7 @@
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
