@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T09:38:48+00:00",
+  "updated_at": "2026-07-08T11:58:00+00:00",
   "vendor_count": 12,
   "domain_count": 110,
   "vendors": [
@@ -25,15 +25,16 @@
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
+        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
+        "privacy.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
-        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -62,13 +63,16 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -76,8 +80,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
+        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found",
+        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -95,7 +99,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://assets.grok.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -117,7 +122,8 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai"
+        "mistral.ai",
+        "trust.mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -138,7 +144,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://docs.perplexity.ai/models/assets/search_api.png: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -182,7 +189,6 @@
         "c.ai",
         "character.ai",
         "labs.character.ai",
-        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
@@ -195,12 +201,10 @@
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
-        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
         "education.microsoft.com",
@@ -214,14 +218,10 @@
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
-        "unlocked.microsoft.com",
-        "visualstudio.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
