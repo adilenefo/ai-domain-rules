@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-08T22:17:55+00:00",
+  "updated_at": "2026-07-09T01:03:44+00:00",
   "vendor_count": 12,
-  "domain_count": 113,
+  "domain_count": 108,
   "vendors": [
     {
       "name": "OpenAI",
@@ -31,9 +31,9 @@
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "economic-research.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -59,7 +59,6 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
@@ -68,7 +67,6 @@
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -80,7 +78,9 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
@@ -135,8 +135,7 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "www.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -151,7 +150,8 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com"
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -162,7 +162,6 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
-        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -183,14 +182,12 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -202,9 +199,9 @@
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
-        "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
@@ -213,9 +210,10 @@
         "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
+        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
-        "wcpstatic.microsoft.com",
+        "visualstudio.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
