@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-09T01:03:56+00:00
+#!updated=2026-07-09T05:07:13+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -14290,6 +14290,7 @@ HOST-SUFFIX,baibo8.com,DIRECT
 HOST-SUFFIX,baibomedia.com,DIRECT
 HOST-SUFFIX,baibu.com,DIRECT
 HOST-SUFFIX,baic-group.com,DIRECT
+HOST-SUFFIX,baicaf.com,DIRECT
 HOST-SUFFIX,baicai.asia,DIRECT
 HOST-SUFFIX,baicai.com,DIRECT
 HOST-SUFFIX,baicaijie09.com,DIRECT
@@ -48184,6 +48185,7 @@ HOST-SUFFIX,hpnfjx.com,DIRECT
 HOST-SUFFIX,hpoi.net,DIRECT
 HOST-SUFFIX,hpplay.cn,DIRECT
 HOST-SUFFIX,hprt.com,DIRECT
+HOST-SUFFIX,hprtupgrade.com,DIRECT
 HOST-SUFFIX,hprx.com,DIRECT
 HOST-SUFFIX,hps-sh.com,DIRECT
 HOST-SUFFIX,hpstore-china.com,DIRECT
@@ -52396,6 +52398,7 @@ HOST-SUFFIX,inctrip.com,DIRECT
 HOST-SUFFIX,ind-map.com,DIRECT
 HOST-SUFFIX,ind4.net,DIRECT
 HOST-SUFFIX,ind9ed.com,DIRECT
+HOST-SUFFIX,indeedpower.com,DIRECT
 HOST-SUFFIX,indetek-lab.com,DIRECT
 HOST-SUFFIX,indexea.com,DIRECT
 HOST-SUFFIX,indexedu.com,DIRECT
@@ -52906,6 +52909,7 @@ HOST-SUFFIX,ipoceo.com,DIRECT
 HOST-SUFFIX,iposeidonbussiness.com,DIRECT
 HOST-SUFFIX,iposeidoncdn.com,DIRECT
 HOST-SUFFIX,iposeidongame.com,DIRECT
+HOST-SUFFIX,iposl.com,DIRECT
 HOST-SUFFIX,ipostalcode.com,DIRECT
 HOST-SUFFIX,ipple.net,DIRECT
 HOST-SUFFIX,ipplus360.com,DIRECT
@@ -64411,6 +64415,7 @@ HOST-SUFFIX,lukuanart.com,DIRECT
 HOST-SUFFIX,lul8.com,DIRECT
 HOST-SUFFIX,lula.fun,DIRECT
 HOST-SUFFIX,lulala.com,DIRECT
+HOST-SUFFIX,lulian.cn,DIRECT
 HOST-SUFFIX,lulinux.com,DIRECT
 HOST-SUFFIX,lulisteel.com,DIRECT
 HOST-SUFFIX,lulubei.com,DIRECT
@@ -90513,6 +90518,7 @@ HOST-SUFFIX,tgcook.com,DIRECT
 HOST-SUFFIX,tgcyber.com,DIRECT
 HOST-SUFFIX,tgect.com,DIRECT
 HOST-SUFFIX,tgeosmart.com,DIRECT
+HOST-SUFFIX,tggfl.com,DIRECT
 HOST-SUFFIX,tggypn.com,DIRECT
 HOST-SUFFIX,tgjh.com,DIRECT
 HOST-SUFFIX,tgking.net,DIRECT
@@ -90686,6 +90692,7 @@ HOST-SUFFIX,this6.com,DIRECT
 HOST-SUFFIX,thishealthsummit.com,DIRECT
 HOST-SUFFIX,thismomentinamerica.org,DIRECT
 HOST-SUFFIX,thisnew.com,DIRECT
+HOST-SUFFIX,thispx.com,DIRECT
 HOST-SUFFIX,thisshop.com,DIRECT
 HOST-SUFFIX,thiztech.com,DIRECT
 HOST-SUFFIX,thjb.net,DIRECT
@@ -91655,6 +91662,7 @@ HOST-SUFFIX,tmtsp.com,DIRECT
 HOST-SUFFIX,tmuaih.com,DIRECT
 HOST-SUFFIX,tmusoft.com,DIRECT
 HOST-SUFFIX,tmuyun.com,DIRECT
+HOST-SUFFIX,tmwanba.com,DIRECT
 HOST-SUFFIX,tmwcn.com,DIRECT
 HOST-SUFFIX,tmwxxcx.com,DIRECT
 HOST-SUFFIX,tmwzs.com,DIRECT
@@ -93768,6 +93776,7 @@ HOST-SUFFIX,uggd.com,DIRECT
 HOST-SUFFIX,ugirls.tv,DIRECT
 HOST-SUFFIX,ugmars.com,DIRECT
 HOST-SUFFIX,ugmjd.com,DIRECT
+HOST-SUFFIX,ugnas.cloud,DIRECT
 HOST-SUFFIX,ugnas.com,DIRECT
 HOST-SUFFIX,ugnx.net,DIRECT
 HOST-SUFFIX,ugo-china.com,DIRECT

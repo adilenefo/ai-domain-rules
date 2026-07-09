@@ -1,8 +1,8 @@
 # AI Domain Rules
 
-- Last updated: `2026-07-09T01:03:44+00:00`
+- Last updated: `2026-07-09T05:07:07+00:00`
 - Vendors: `12`
-- Domains: `108`
+- Domains: `111`
 
 ## Files
 
@@ -15,7 +15,7 @@
 
 - **OpenAI**: 6
 - **Anthropic**: 13
-- **Google Gemini**: 29
+- **Google Gemini**: 32
 - **xAI**: 9
 - **Meta AI**: 2
 - **Mistral**: 6
