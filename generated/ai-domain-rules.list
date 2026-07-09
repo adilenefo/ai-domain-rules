@@ -1,6 +1,6 @@
 # Title: AI Domain Rules
-# Updated: 2026-07-09T15:37:17+00:00
-# Total domains: 94
+# Updated: 2026-07-09T18:11:35+00:00
+# Total domains: 100
 
 # OpenAI (6 domains)
 HOST-SUFFIX,chat.openai.com,AI
@@ -10,7 +10,8 @@ HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,status.openai.com,AI
 
-# Anthropic (12 domains)
+# Anthropic (14 domains)
+HOST-SUFFIX,a-cdn.anthropic.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
@@ -23,37 +24,45 @@ HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
+HOST-SUFFIX,www.claudeusercontent.com,AI
 
-# Google Gemini (32 domains)
+# Google Gemini (39 domains)
 HOST-SUFFIX,accounts.google.com,AI
 HOST-SUFFIX,admin.google.com,AI
 HOST-SUFFIX,ai.google.dev,AI
 HOST-SUFFIX,aistudio.google.com,AI
+HOST-SUFFIX,appsitemsuggest-pa.clients6.google.com,AI
+HOST-SUFFIX,clients6.google.com,AI
 HOST-SUFFIX,cloud.google.com,AI
 HOST-SUFFIX,colab.sandbox.google.com,AI
+HOST-SUFFIX,connect.corp.google.com,AI
 HOST-SUFFIX,console.cloud.google.com,AI
 HOST-SUFFIX,deepmind.com,AI
 HOST-SUFFIX,deepmind.google,AI
 HOST-SUFFIX,discuss.ai.google.dev,AI
 HOST-SUFFIX,docs.google.com,AI
 HOST-SUFFIX,drive.google.com,AI
+HOST-SUFFIX,driveactivity.clients6.google.com,AI
+HOST-SUFFIX,drivefrontend-pa.clients6.google.com,AI
+HOST-SUFFIX,drivemetadata.clients6.google.com,AI
 HOST-SUFFIX,firebase.google.com,AI
 HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,geminiweb-pa.clients6.google.com,AI
 HOST-SUFFIX,healthapp.google.com,AI
 HOST-SUFFIX,labs.google.com,AI
+HOST-SUFFIX,lh3.google.com,AI
 HOST-SUFFIX,mail.google.com,AI
 HOST-SUFFIX,myaccount.google.com,AI
 HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,ogads-pa.clients6.google.com,AI
 HOST-SUFFIX,ogs.google.com,AI
 HOST-SUFFIX,one.google.com,AI
+HOST-SUFFIX,people-pa.clients6.google.com,AI
 HOST-SUFFIX,play.google.com,AI
 HOST-SUFFIX,policies.google.com,AI
 HOST-SUFFIX,push.clients6.google.com,AI
+HOST-SUFFIX,services.google.com,AI
 HOST-SUFFIX,support.google.com,AI
-HOST-SUFFIX,supporttagging-autopush.sandbox.google.com,AI
-HOST-SUFFIX,tagassistant.google.com,AI
 HOST-SUFFIX,waa-pa.clients6.google.com,AI
 HOST-SUFFIX,workspace.google.com,AI
 HOST-SUFFIX,www.google.com,AI
@@ -73,11 +82,12 @@ HOST-SUFFIX,x.ai,AI
 HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,meta.ai,AI
 
-# Mistral (6 domains)
+# Mistral (7 domains)
 HOST-SUFFIX,chat.mistral.ai,AI
 HOST-SUFFIX,console.mistral.ai,AI
 HOST-SUFFIX,docs.mistral.ai,AI
 HOST-SUFFIX,help.mistral.ai,AI
+HOST-SUFFIX,learn.mistral.ai,AI
 HOST-SUFFIX,legal.mistral.ai,AI
 HOST-SUFFIX,mistral.ai,AI
 
@@ -90,18 +100,17 @@ HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,pplx.ai,AI
 HOST-SUFFIX,research.perplexity.ai,AI
 
-# Cohere (6 domains)
+# Cohere (4 domains)
 HOST-SUFFIX,cohere.com,AI
 HOST-SUFFIX,dashboard.cohere.com,AI
 HOST-SUFFIX,docs.cohere.com,AI
-HOST-SUFFIX,events.cohere.com,AI
 HOST-SUFFIX,shop.cohere.com,AI
-HOST-SUFFIX,trustcenter.cohere.com,AI
 
-# Stability AI (4 domains)
+# Stability AI (5 domains)
 HOST-SUFFIX,kb.stability.ai,AI
 HOST-SUFFIX,platform.stability.ai,AI
 HOST-SUFFIX,stability.ai,AI
+HOST-SUFFIX,support.stability.ai,AI
 HOST-SUFFIX,trust.stability.ai,AI
 
 # Midjourney (1 domains)
@@ -112,10 +121,7 @@ HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,c.ai,AI
 HOST-SUFFIX,character.ai,AI
 
-# GitHub Copilot (6 domains)
-HOST-SUFFIX,account.microsoft.com,AI
+# GitHub Copilot (3 domains)
 HOST-SUFFIX,api.githubcopilot.com,AI
-HOST-SUFFIX,blogs.microsoft.com,AI
 HOST-SUFFIX,copilot.microsoft.com,AI
 HOST-SUFFIX,githubcopilot.com,AI
-HOST-SUFFIX,support.microsoft.com,AI
