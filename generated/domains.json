@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-09T08:45:31+00:00",
+  "updated_at": "2026-07-09T12:16:17+00:00",
   "vendor_count": 12,
-  "domain_count": 94,
+  "domain_count": 100,
   "vendors": [
     {
       "name": "OpenAI",
@@ -25,16 +25,11 @@
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
-        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
-        "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -42,47 +37,56 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Google Gemini",
       "domains": [
+        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
+        "home.google.com",
         "labs.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
+        "pay.google.com",
+        "payments.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
+        "takeout.google.com",
         "waa-pa.clients6.google.com",
+        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
@@ -100,7 +104,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://console.x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -138,7 +143,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -153,7 +159,7 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -167,7 +173,9 @@
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Midjourney",
@@ -186,21 +194,21 @@
         "c.ai",
         "character.ai",
         "labs.character.ai",
-        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "account.microsoft.com",
         "api.githubcopilot.com",
         "copilot.microsoft.com",
-        "githubcopilot.com"
+        "githubcopilot.com",
+        "support.microsoft.com"
       ],
       "pages_scanned": 8,
       "errors": [
