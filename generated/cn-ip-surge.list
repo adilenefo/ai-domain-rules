@@ -8833,7 +8833,6 @@ IP-CIDR6,2001:df1:c80::/48,DIRECT,no-resolve
 IP-CIDR6,2001:df1:d180::/48,DIRECT,no-resolve
 IP-CIDR6,2001:df1:da00::/48,DIRECT,no-resolve
 IP-CIDR6,2001:df1:f480::/48,DIRECT,no-resolve
-IP-CIDR6,2001:df1:fd80::/48,DIRECT,no-resolve
 IP-CIDR6,2001:df2:5780::/48,DIRECT,no-resolve
 IP-CIDR6,2001:df2:8bc0::/48,DIRECT,no-resolve
 IP-CIDR6,2001:df2:a580::/48,DIRECT,no-resolve

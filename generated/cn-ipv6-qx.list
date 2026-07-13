@@ -1,6 +1,6 @@
 #!name=China IPv6 Rules
 #!desc=China mainland IPv6 CIDR rules from APNIC
-#!updated=2026-07-13T15:12:24+00:00
+#!updated=2026-07-13T17:23:31+00:00
 
 IP6-CIDR,2001:250:2000::/35,DIRECT,no-resolve
 IP6-CIDR,2001:250:4000::/34,DIRECT,no-resolve
@@ -51,7 +51,6 @@ IP6-CIDR,2001:df1:c80::/48,DIRECT,no-resolve
 IP6-CIDR,2001:df1:d180::/48,DIRECT,no-resolve
 IP6-CIDR,2001:df1:da00::/48,DIRECT,no-resolve
 IP6-CIDR,2001:df1:f480::/48,DIRECT,no-resolve
-IP6-CIDR,2001:df1:fd80::/48,DIRECT,no-resolve
 IP6-CIDR,2001:df2:5780::/48,DIRECT,no-resolve
 IP6-CIDR,2001:df2:8bc0::/48,DIRECT,no-resolve
 IP6-CIDR,2001:df2:a580::/48,DIRECT,no-resolve
