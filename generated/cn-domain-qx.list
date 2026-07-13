@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-13T11:30:01+00:00
+#!updated=2026-07-13T15:12:25+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -31333,6 +31333,7 @@ HOST-SUFFIX,dulife.com,DIRECT
 HOST-SUFFIX,dulifei.com,DIRECT
 HOST-SUFFIX,dulightapp.com,DIRECT
 HOST-SUFFIX,dullr.com,DIRECT
+HOST-SUFFIX,dulupay.com,DIRECT
 HOST-SUFFIX,dulwich.org,DIRECT
 HOST-SUFFIX,dumall.com,DIRECT
 HOST-SUFFIX,dumanhua.com,DIRECT
