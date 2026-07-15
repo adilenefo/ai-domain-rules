@@ -1,8 +1,10 @@
 #!name=AI Domain Rules
 #!desc=Auto-updated AI vendor domain rules
 #!author=Minis
-#!updated=2026-07-15T09:22:27+00:00
+#!updated=2026-07-15T11:49:56+00:00
 
+HOST-SUFFIX,account.google.com,AI
+HOST-SUFFIX,account.microsoft.com,AI
 HOST-SUFFIX,accounts.google.com,AI
 HOST-SUFFIX,accounts.x.ai,AI
 HOST-SUFFIX,admin.google.com,AI
@@ -62,6 +64,7 @@ HOST-SUFFIX,go.microsoft.com,AI
 HOST-SUFFIX,grok.com,AI
 HOST-SUFFIX,healthapp.google.com,AI
 HOST-SUFFIX,help.mistral.ai,AI
+HOST-SUFFIX,home.google.com,AI
 HOST-SUFFIX,imagine-public.x.ai,AI
 HOST-SUFFIX,kb.stability.ai,AI
 HOST-SUFFIX,labs.google.com,AI
@@ -73,13 +76,16 @@ HOST-SUFFIX,microsoft.com,AI
 HOST-SUFFIX,midjourney.com,AI
 HOST-SUFFIX,mistral.ai,AI
 HOST-SUFFIX,myaccount.google.com,AI
+HOST-SUFFIX,myactivity.google.com,AI
 HOST-SUFFIX,news.microsoft.com,AI
 HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,ogads-pa.clients6.google.com,AI
+HOST-SUFFIX,ogs.google.com,AI
 HOST-SUFFIX,one.google.com,AI
 HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,payments.google.com,AI
 HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,platform.stability.ai,AI
 HOST-SUFFIX,play.google.com,AI
@@ -90,21 +96,21 @@ HOST-SUFFIX,red.anthropic.com,AI
 HOST-SUFFIX,research.perplexity.ai,AI
 HOST-SUFFIX,s-cdn.anthropic.com,AI
 HOST-SUFFIX,services.google.com,AI
-HOST-SUFFIX,shop.cohere.com,AI
 HOST-SUFFIX,stability.ai,AI
 HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,status.openai.com,AI
-HOST-SUFFIX,support.character.ai,AI
 HOST-SUFFIX,support.google.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
+HOST-SUFFIX,takeout.google.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,trust.stability.ai,AI
-HOST-SUFFIX,trustcenter.cohere.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
 HOST-SUFFIX,unlocked.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
 HOST-SUFFIX,waa-pa.clients6.google.com,AI
+HOST-SUFFIX,wallet.google.com,AI
+HOST-SUFFIX,wcpstatic.microsoft.com,AI
 HOST-SUFFIX,workspace.google.com,AI
 HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
