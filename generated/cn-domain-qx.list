@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-15T23:15:40+00:00
+#!updated=2026-07-16T00:12:35+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -90195,7 +90195,6 @@ HOST-SUFFIX,tesexiu.com,DIRECT
 HOST-SUFFIX,teshenqi.com,DIRECT
 HOST-SUFFIX,tesight.com,DIRECT
 HOST-SUFFIX,tesiro.com,DIRECT
-HOST-SUFFIX,tesla-cdn.thron.cn,DIRECT
 HOST-SUFFIX,tesolsh.com,DIRECT
 HOST-SUFFIX,tesoon.com,DIRECT
 HOST-SUFFIX,test-cignacmb.com,DIRECT
