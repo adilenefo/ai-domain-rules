@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-16T09:29:39+00:00
+#!updated=2026-07-16T11:54:49+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -12809,6 +12809,7 @@ HOST-SUFFIX,api-forwards.com,DIRECT
 HOST-SUFFIX,api-m.com,DIRECT
 HOST-SUFFIX,api-vod-qcloud.com,DIRECT
 HOST-SUFFIX,api.anythinktech.com,DIRECT
+HOST-SUFFIX,api.blipsandchitz.me,DIRECT
 HOST-SUFFIX,api.crisp.chat,DIRECT
 HOST-SUFFIX,api.so,DIRECT
 HOST-SUFFIX,apiairasia.com,DIRECT
@@ -48216,6 +48217,7 @@ HOST-SUFFIX,hrpackage.com,DIRECT
 HOST-SUFFIX,hrs100.com,DIRECT
 HOST-SUFFIX,hrsalon.org,DIRECT
 HOST-SUFFIX,hrsay.com,DIRECT
+HOST-SUFFIX,hrsecn.com,DIRECT
 HOST-SUFFIX,hrsee.com,DIRECT
 HOST-SUFFIX,hrsel.com,DIRECT
 HOST-SUFFIX,hrsoft-china.com,DIRECT
