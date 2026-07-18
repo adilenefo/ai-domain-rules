@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T06:20:03+00:00",
+  "updated_at": "2026-07-18T08:59:59+00:00",
   "vendor_count": 12,
   "domain_count": 105,
   "vendors": [
@@ -29,9 +29,7 @@
         "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -71,7 +69,6 @@
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
-        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -79,7 +76,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -97,8 +94,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -141,7 +137,8 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://console.perplexity.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -150,7 +147,8 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "shop.cohere.com"
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -161,6 +159,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -196,6 +195,7 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
@@ -205,12 +205,12 @@
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
+        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "visualstudio.microsoft.com",
-        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
