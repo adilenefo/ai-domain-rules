@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-17T23:09:34+00:00",
+  "updated_at": "2026-07-18T00:10:19+00:00",
   "vendor_count": 12,
-  "domain_count": 115,
+  "domain_count": 109,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,29 +18,31 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=32&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
+        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -63,11 +65,9 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -79,7 +79,10 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found",
+        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
@@ -122,7 +125,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://chat.mistral.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -139,8 +143,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://docs.perplexity.ai/base-ui-disable-scrollbar: HTTPError: HTTP Error 404: Not Found"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -149,9 +152,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -183,8 +184,7 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
-        "support.character.ai"
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -194,19 +194,16 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
+        "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
-        "docs.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",

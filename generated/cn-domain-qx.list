@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-17T23:09:39+00:00
+#!updated=2026-07-18T00:10:24+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -68816,6 +68816,7 @@ HOST-SUFFIX,mychuguan.com,DIRECT
 HOST-SUFFIX,mychunyan.net,DIRECT
 HOST-SUFFIX,myckjr.com,DIRECT
 HOST-SUFFIX,mycleanmymac.com,DIRECT
+HOST-SUFFIX,mycloudnas.com,DIRECT
 HOST-SUFFIX,mycloudstudy.com,DIRECT
 HOST-SUFFIX,myclub2.com,DIRECT
 HOST-SUFFIX,mycnc.org,DIRECT
