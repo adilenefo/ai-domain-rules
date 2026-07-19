@@ -46,8 +46,10 @@ DOMAIN-SUFFIX,docs.google.com,AI
 DOMAIN-SUFFIX,docs.mistral.ai,AI
 DOMAIN-SUFFIX,docs.perplexity.ai,AI
 DOMAIN-SUFFIX,docs.x.ai,AI
+DOMAIN-SUFFIX,downloads.claude.ai,AI
 DOMAIN-SUFFIX,drive.google.com,AI
 DOMAIN-SUFFIX,education.microsoft.com,AI
+DOMAIN-SUFFIX,educationblog.microsoft.com,AI
 DOMAIN-SUFFIX,events.cohere.com,AI
 DOMAIN-SUFFIX,firebase.google.com,AI
 DOMAIN-SUFFIX,gemini.google.com,AI
@@ -59,6 +61,7 @@ DOMAIN-SUFFIX,healthapp.google.com,AI
 DOMAIN-SUFFIX,help.mistral.ai,AI
 DOMAIN-SUFFIX,imagine-public.x.ai,AI
 DOMAIN-SUFFIX,kb.stability.ai,AI
+DOMAIN-SUFFIX,labs.character.ai,AI
 DOMAIN-SUFFIX,labs.google.com,AI
 DOMAIN-SUFFIX,learn.microsoft.com,AI
 DOMAIN-SUFFIX,legal.mistral.ai,AI
@@ -90,7 +93,6 @@ DOMAIN-SUFFIX,shop.cohere.com,AI
 DOMAIN-SUFFIX,stability.ai,AI
 DOMAIN-SUFFIX,status.anthropic.com,AI
 DOMAIN-SUFFIX,status.openai.com,AI
-DOMAIN-SUFFIX,support.character.ai,AI
 DOMAIN-SUFFIX,support.google.com,AI
 DOMAIN-SUFFIX,support.microsoft.com,AI
 DOMAIN-SUFFIX,techcommunity.microsoft.com,AI
@@ -101,8 +103,8 @@ DOMAIN-SUFFIX,uhf.microsoft.com,AI
 DOMAIN-SUFFIX,unlocked.microsoft.com,AI
 DOMAIN-SUFFIX,visualstudio.microsoft.com,AI
 DOMAIN-SUFFIX,waa-pa.clients6.google.com,AI
+DOMAIN-SUFFIX,wcpstatic.microsoft.com,AI
 DOMAIN-SUFFIX,workspace.google.com,AI
-DOMAIN-SUFFIX,www-cdn.anthropic.com,AI
 DOMAIN-SUFFIX,www.anthropic.com,AI
 DOMAIN-SUFFIX,www.claudeusercontent.com,AI
 DOMAIN-SUFFIX,www.google.com,AI

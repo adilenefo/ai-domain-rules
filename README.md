@@ -1,8 +1,8 @@
 # AI Domain Rules
 
-- Last updated: `2026-07-19T19:33:52+00:00`
+- Last updated: `2026-07-19T21:08:38+00:00`
 - Vendors: `12`
-- Domains: `110`
+- Domains: `112`
 
 ## Files
 
@@ -24,7 +24,7 @@
 - **Stability AI**: 4
 - **Midjourney**: 1
 - **Character.AI**: 4
-- **GitHub Copilot**: 22
+- **GitHub Copilot**: 24
 
 ## Notes
 

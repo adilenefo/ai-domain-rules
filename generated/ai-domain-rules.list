@@ -1,6 +1,6 @@
 # Title: AI Domain Rules
-# Updated: 2026-07-19T19:33:52+00:00
-# Total domains: 110
+# Updated: 2026-07-19T21:08:38+00:00
+# Total domains: 112
 
 # OpenAI (6 domains)
 HOST-SUFFIX,chat.openai.com,AI
@@ -17,10 +17,10 @@ HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,conway.claudeusercontent.com,AI
 HOST-SUFFIX,docs.anthropic.com,AI
+HOST-SUFFIX,downloads.claude.ai,AI
 HOST-SUFFIX,s-cdn.anthropic.com,AI
 HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
-HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
 HOST-SUFFIX,www.claudeusercontent.com,AI
 
@@ -110,9 +110,9 @@ HOST-SUFFIX,midjourney.com,AI
 HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,c.ai,AI
 HOST-SUFFIX,character.ai,AI
-HOST-SUFFIX,support.character.ai,AI
+HOST-SUFFIX,labs.character.ai,AI
 
-# GitHub Copilot (22 domains)
+# GitHub Copilot (24 domains)
 HOST-SUFFIX,account.microsoft.com,AI
 HOST-SUFFIX,api.githubcopilot.com,AI
 HOST-SUFFIX,apps.microsoft.com,AI
@@ -123,6 +123,7 @@ HOST-SUFFIX,choice.microsoft.com,AI
 HOST-SUFFIX,copilot.microsoft.com,AI
 HOST-SUFFIX,developer.microsoft.com,AI
 HOST-SUFFIX,education.microsoft.com,AI
+HOST-SUFFIX,educationblog.microsoft.com,AI
 HOST-SUFFIX,githubcopilot.com,AI
 HOST-SUFFIX,go.microsoft.com,AI
 HOST-SUFFIX,learn.microsoft.com,AI
@@ -134,4 +135,5 @@ HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
 HOST-SUFFIX,unlocked.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
+HOST-SUFFIX,wcpstatic.microsoft.com,AI
 HOST-SUFFIX,www.microsoft.com,AI
