@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-18T23:12:03+00:00",
+  "updated_at": "2026-07-19T00:11:20+00:00",
   "vendor_count": 12,
-  "domain_count": 110,
+  "domain_count": 114,
   "vendors": [
     {
       "name": "OpenAI",
@@ -19,7 +19,7 @@
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=32&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=96&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -29,19 +29,21 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "privacy.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -78,9 +80,7 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -114,17 +114,18 @@
     {
       "name": "Mistral",
       "domains": [
+        "api.mistral.ai",
         "chat.mistral.ai",
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://console.mistral.ai: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -141,8 +142,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://console.perplexity.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -167,9 +167,7 @@
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://stability.ai/solutions: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Midjourney",
@@ -186,27 +184,30 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
+        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
+        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
-        "docs.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -214,7 +215,6 @@
         "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
-        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
@@ -222,7 +222,9 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }
