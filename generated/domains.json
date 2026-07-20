@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-19T23:12:50+00:00",
+  "updated_at": "2026-07-20T00:13:21+00:00",
   "vendor_count": 12,
-  "domain_count": 108,
+  "domain_count": 116,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,21 +18,27 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=16&amp;q=100: HTTPError: HTTP Error 400: Bad Request",
+        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
+        "alignment.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "privacy.anthropic.com",
         "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -46,6 +52,7 @@
     {
       "name": "Google Gemini",
       "domains": [
+        "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
@@ -76,16 +83,13 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
       "name": "xAI",
       "domains": [
         "accounts.x.ai",
-        "api.x.ai",
         "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
@@ -93,12 +97,12 @@
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
-        "status.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://data.x.ai/grok-4-fast-side-by-side.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -115,6 +119,7 @@
     {
       "name": "Mistral",
       "domains": [
+        "api.mistral.ai",
         "chat.mistral.ai",
         "console.mistral.ai",
         "docs.mistral.ai",
@@ -150,8 +155,8 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "events.cohere.com",
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -162,6 +167,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -183,8 +189,6 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
@@ -195,14 +199,19 @@
     {
       "name": "GitHub Copilot",
       "domains": [
+        "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
+        "developer.microsoft.com",
+        "docs.microsoft.com",
         "education.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
