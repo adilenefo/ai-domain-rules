@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-20T22:13:30+00:00",
+  "updated_at": "2026-07-20T23:16:11+00:00",
   "vendor_count": 12,
-  "domain_count": 92,
+  "domain_count": 108,
   "vendors": [
     {
       "name": "OpenAI",
@@ -31,18 +31,16 @@
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
-        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -72,6 +70,7 @@
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -97,8 +96,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -115,6 +113,7 @@
     {
       "name": "Mistral",
       "domains": [
+        "api.mistral.ai",
         "chat.mistral.ai",
         "console.mistral.ai",
         "docs.mistral.ai",
@@ -149,9 +148,7 @@
       "domains": [
         "cohere.com",
         "dashboard.cohere.com",
-        "docs.cohere.com",
-        "events.cohere.com",
-        "shop.cohere.com"
+        "docs.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -162,6 +159,7 @@
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -183,13 +181,11 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -197,9 +193,27 @@
       "domains": [
         "account.microsoft.com",
         "api.githubcopilot.com",
+        "apps.microsoft.com",
+        "azure.microsoft.com",
+        "blogs.microsoft.com",
+        "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
+        "developer.microsoft.com",
+        "education.microsoft.com",
+        "educationblog.microsoft.com",
         "githubcopilot.com",
-        "support.microsoft.com"
+        "go.microsoft.com",
+        "learn.microsoft.com",
+        "marketplace.microsoft.com",
+        "microsoft.com",
+        "news.microsoft.com",
+        "support.microsoft.com",
+        "techcommunity.microsoft.com",
+        "uhf.microsoft.com",
+        "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
+        "www.microsoft.com"
       ],
       "pages_scanned": 8,
       "errors": [
