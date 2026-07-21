@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-21T14:23:51+00:00
+#!updated=2026-07-21T16:43:44+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -5209,6 +5209,7 @@ HOST-SUFFIX,510erp.com,DIRECT
 HOST-SUFFIX,510hb.com,DIRECT
 HOST-SUFFIX,510xds.com,DIRECT
 HOST-SUFFIX,510you.com,DIRECT
+HOST-SUFFIX,51106.cn,DIRECT
 HOST-SUFFIX,51110.com,DIRECT
 HOST-SUFFIX,51119.com,DIRECT
 HOST-SUFFIX,5117.com,DIRECT
@@ -17673,6 +17674,7 @@ HOST-SUFFIX,bookfedex.com,DIRECT
 HOST-SUFFIX,bookfeel.com,DIRECT
 HOST-SUFFIX,booking001.com,DIRECT
 HOST-SUFFIX,bookingtee.com,DIRECT
+HOST-SUFFIX,bookln.cn,DIRECT
 HOST-SUFFIX,booknest.net,DIRECT
 HOST-SUFFIX,bookof.com,DIRECT
 HOST-SUFFIX,bookqi.com,DIRECT
@@ -21282,6 +21284,7 @@ HOST-SUFFIX,chenglou.net,DIRECT
 HOST-SUFFIX,chengmei.games,DIRECT
 HOST-SUFFIX,chengmeiyouxuan.com,DIRECT
 HOST-SUFFIX,chengpeiquan.com,DIRECT
+HOST-SUFFIX,chengquan.cn,DIRECT
 HOST-SUFFIX,chengrang.com,DIRECT
 HOST-SUFFIX,chengrengaokaobaoming.com,DIRECT
 HOST-SUFFIX,chengrenjiaoyu1.com,DIRECT
@@ -34626,6 +34629,7 @@ HOST-SUFFIX,fastapi.net,DIRECT
 HOST-SUFFIX,fastbuild.run,DIRECT
 HOST-SUFFIX,fastcdn.com,DIRECT
 HOST-SUFFIX,fastchina.net,DIRECT
+HOST-SUFFIX,fastcom.com.cn,DIRECT
 HOST-SUFFIX,fastdo.cc,DIRECT
 HOST-SUFFIX,fastener-cn.net,DIRECT
 HOST-SUFFIX,fastener.cc,DIRECT
@@ -58557,6 +58561,7 @@ HOST-SUFFIX,kanbox.com,DIRECT
 HOST-SUFFIX,kancaibao.com,DIRECT
 HOST-SUFFIX,kanchao.com,DIRECT
 HOST-SUFFIX,kanchuan.com,DIRECT
+HOST-SUFFIX,kancloud.cn,DIRECT
 HOST-SUFFIX,kandao.com,DIRECT
 HOST-SUFFIX,kandedongguan.com,DIRECT
 HOST-SUFFIX,kandegang.net,DIRECT
@@ -66641,6 +66646,7 @@ HOST-SUFFIX,meqlm.org,DIRECT
 HOST-SUFFIX,merach.com,DIRECT
 HOST-SUFFIX,mercedes-benzarena.com,DIRECT
 HOST-SUFFIX,merchaincargo.com,DIRECT
+HOST-SUFFIX,mercurycom.com.cn,DIRECT
 HOST-SUFFIX,mereith.com,DIRECT
 HOST-SUFFIX,mergeek.com,DIRECT
 HOST-SUFFIX,merivox.net,DIRECT
@@ -67151,6 +67157,7 @@ HOST-SUFFIX,mikucdn.com,DIRECT
 HOST-SUFFIX,mikuclub.fun,DIRECT
 HOST-SUFFIX,mikudm.com,DIRECT
 HOST-SUFFIX,mikumikumi.xyz,DIRECT
+HOST-SUFFIX,mil.cn,DIRECT
 HOST-SUFFIX,milan.com,DIRECT
 HOST-SUFFIX,milanshishang.com,DIRECT
 HOST-SUFFIX,milanvip.com,DIRECT
@@ -70985,6 +70992,7 @@ HOST-SUFFIX,nkygty.com,DIRECT
 HOST-SUFFIX,nkzy.com,DIRECT
 HOST-SUFFIX,nlark.com,DIRECT
 HOST-SUFFIX,nlbgt.com,DIRECT
+HOST-SUFFIX,nlc.cn,DIRECT
 HOST-SUFFIX,nlecloud.com,DIRECT
 HOST-SUFFIX,nlhszc.com,DIRECT
 HOST-SUFFIX,nliniz.com,DIRECT
@@ -79737,6 +79745,7 @@ HOST-SUFFIX,ruihuo.com,DIRECT
 HOST-SUFFIX,ruiii.com,DIRECT
 HOST-SUFFIX,ruiinsurance.com,DIRECT
 HOST-SUFFIX,ruijie.com,DIRECT
+HOST-SUFFIX,ruijie.com.cn,DIRECT
 HOST-SUFFIX,ruijiehuanbao.com,DIRECT
 HOST-SUFFIX,ruijienetworks.com,DIRECT
 HOST-SUFFIX,ruijiery.com,DIRECT
@@ -90121,6 +90130,7 @@ HOST-SUFFIX,tencentyun.com,DIRECT
 HOST-SUFFIX,tencentzhzf.com,DIRECT
 HOST-SUFFIX,tenchii.com,DIRECT
 HOST-SUFFIX,tencity.com,DIRECT
+HOST-SUFFIX,tenda.com.cn,DIRECT
 HOST-SUFFIX,tendacn.com,DIRECT
 HOST-SUFFIX,tendata.net,DIRECT
 HOST-SUFFIX,tendawifi.com,DIRECT
@@ -92038,6 +92048,7 @@ HOST-SUFFIX,toysir.com,DIRECT
 HOST-SUFFIX,toysol.com,DIRECT
 HOST-SUFFIX,tp-data.com,DIRECT
 HOST-SUFFIX,tp-hivi.com,DIRECT
+HOST-SUFFIX,tp-link.com.cn,DIRECT
 HOST-SUFFIX,tp.louisvuitton.com,DIRECT
 HOST-SUFFIX,tp82.com,DIRECT
 HOST-SUFFIX,tpadx.com,DIRECT

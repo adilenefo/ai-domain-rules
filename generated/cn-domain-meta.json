@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T14:23:51+00:00",
-  "domain_count": 114030,
+  "updated_at": "2026-07-21T16:43:44+00:00",
+  "domain_count": 114041,
   "sources": [
     {
       "source": "blackmatrix7_chinamax",
@@ -16,7 +16,7 @@
     },
     {
       "source": "v2fly_geolocation_cn",
-      "count": 1385
+      "count": 1405
     },
     {
       "source": "v2fly_tld_cn",
