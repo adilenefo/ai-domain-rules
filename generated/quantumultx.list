@@ -1,7 +1,7 @@
 #!name=AI Domain Rules
 #!desc=Auto-updated AI vendor domain rules
 #!author=Minis
-#!updated=2026-07-22T03:48:37+00:00
+#!updated=2026-07-22T06:43:24+00:00
 
 HOST-SUFFIX,account.microsoft.com,AI
 HOST-SUFFIX,accounts.google.com,AI
@@ -14,11 +14,13 @@ HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
 HOST-SUFFIX,api.perplexity.ai,AI
 HOST-SUFFIX,apps.microsoft.com,AI
+HOST-SUFFIX,appsitemsuggest-pa.clients6.google.com,AI
 HOST-SUFFIX,assets.anthropic.com,AI
 HOST-SUFFIX,assets.grok.com,AI
 HOST-SUFFIX,azure.microsoft.com,AI
 HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,blogs.microsoft.com,AI
+HOST-SUFFIX,browser.events.data.microsoft.com,AI
 HOST-SUFFIX,c.ai,AI
 HOST-SUFFIX,careers.microsoft.com,AI
 HOST-SUFFIX,cdn.grok.com,AI
@@ -29,10 +31,13 @@ HOST-SUFFIX,chatgpt.com,AI
 HOST-SUFFIX,choice.microsoft.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
+HOST-SUFFIX,clients6.google.com,AI
 HOST-SUFFIX,cloud.google.com,AI
 HOST-SUFFIX,cohere.com,AI
 HOST-SUFFIX,colab.sandbox.google.com,AI
 HOST-SUFFIX,community.perplexity.ai,AI
+HOST-SUFFIX,connect.corp.google.com,AI
+HOST-SUFFIX,console.cloud.google.com,AI
 HOST-SUFFIX,console.mistral.ai,AI
 HOST-SUFFIX,console.perplexity.ai,AI
 HOST-SUFFIX,console.x.ai,AI
@@ -47,11 +52,16 @@ HOST-SUFFIX,discuss.ai.google.dev,AI
 HOST-SUFFIX,docs.anthropic.com,AI
 HOST-SUFFIX,docs.cohere.com,AI
 HOST-SUFFIX,docs.google.com,AI
+HOST-SUFFIX,docs.microsoft.com,AI
 HOST-SUFFIX,docs.mistral.ai,AI
 HOST-SUFFIX,docs.perplexity.ai,AI
 HOST-SUFFIX,docs.x.ai,AI
 HOST-SUFFIX,drive.google.com,AI
+HOST-SUFFIX,driveactivity.clients6.google.com,AI
+HOST-SUFFIX,drivefrontend-pa.clients6.google.com,AI
+HOST-SUFFIX,drivemetadata.clients6.google.com,AI
 HOST-SUFFIX,educationblog.microsoft.com,AI
+HOST-SUFFIX,eu-mobile.events.data.microsoft.com,AI
 HOST-SUFFIX,events.cohere.com,AI
 HOST-SUFFIX,firebase.google.com,AI
 HOST-SUFFIX,gemini.google.com,AI
@@ -64,10 +74,12 @@ HOST-SUFFIX,help.mistral.ai,AI
 HOST-SUFFIX,imagine-public.x.ai,AI
 HOST-SUFFIX,kb.stability.ai,AI
 HOST-SUFFIX,labs.google.com,AI
+HOST-SUFFIX,learn.microsoft.com,AI
 HOST-SUFFIX,legal.mistral.ai,AI
+HOST-SUFFIX,lh3.google.com,AI
+HOST-SUFFIX,mail.google.com,AI
 HOST-SUFFIX,marketplace.microsoft.com,AI
 HOST-SUFFIX,meta.ai,AI
-HOST-SUFFIX,microsoft.com,AI
 HOST-SUFFIX,midjourney.com,AI
 HOST-SUFFIX,mistral.ai,AI
 HOST-SUFFIX,myaccount.google.com,AI
@@ -78,12 +90,14 @@ HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,ogads-pa.clients6.google.com,AI
 HOST-SUFFIX,one.google.com,AI
 HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,people-pa.clients6.google.com,AI
 HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,platform.stability.ai,AI
 HOST-SUFFIX,play.google.com,AI
 HOST-SUFFIX,policies.google.com,AI
 HOST-SUFFIX,pplx.ai,AI
 HOST-SUFFIX,push.clients6.google.com,AI
+HOST-SUFFIX,red.anthropic.com,AI
 HOST-SUFFIX,research.perplexity.ai,AI
 HOST-SUFFIX,s-cdn.anthropic.com,AI
 HOST-SUFFIX,services.google.com,AI
@@ -96,14 +110,12 @@ HOST-SUFFIX,support.google.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
-HOST-SUFFIX,trust.perplexity.ai,AI
 HOST-SUFFIX,trust.stability.ai,AI
 HOST-SUFFIX,trustcenter.cohere.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
 HOST-SUFFIX,unlocked.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
 HOST-SUFFIX,waa-pa.clients6.google.com,AI
-HOST-SUFFIX,wcpstatic.microsoft.com,AI
 HOST-SUFFIX,workspace.google.com,AI
 HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
