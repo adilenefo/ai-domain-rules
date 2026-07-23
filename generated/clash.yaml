@@ -7,10 +7,13 @@ payload:
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,ai.meta.com
   - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,alignment.anthropic.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,api.anthropic.com
   - DOMAIN-SUFFIX,api.githubcopilot.com
   - DOMAIN-SUFFIX,api.perplexity.ai
   - DOMAIN-SUFFIX,apps.microsoft.com
+  - DOMAIN-SUFFIX,assets.anthropic.com
   - DOMAIN-SUFFIX,assets.grok.com
   - DOMAIN-SUFFIX,azure.microsoft.com
   - DOMAIN-SUFFIX,blog.character.ai
@@ -29,11 +32,11 @@ payload:
   - DOMAIN-SUFFIX,cohere.com
   - DOMAIN-SUFFIX,colab.sandbox.google.com
   - DOMAIN-SUFFIX,community.perplexity.ai
-  - DOMAIN-SUFFIX,console.anthropic.com
   - DOMAIN-SUFFIX,console.cloud.google.com
   - DOMAIN-SUFFIX,console.mistral.ai
   - DOMAIN-SUFFIX,console.perplexity.ai
   - DOMAIN-SUFFIX,console.x.ai
+  - DOMAIN-SUFFIX,conway.claudeusercontent.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,dashboard.cohere.com
   - DOMAIN-SUFFIX,data.x.ai
@@ -41,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,developer.microsoft.com
   - DOMAIN-SUFFIX,discuss.ai.google.dev
+  - DOMAIN-SUFFIX,docs.anthropic.com
   - DOMAIN-SUFFIX,docs.cohere.com
   - DOMAIN-SUFFIX,docs.google.com
   - DOMAIN-SUFFIX,docs.mistral.ai
@@ -48,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,docs.x.ai
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,education.microsoft.com
+  - DOMAIN-SUFFIX,educationblog.microsoft.com
   - DOMAIN-SUFFIX,events.cohere.com
   - DOMAIN-SUFFIX,firebase.google.com
   - DOMAIN-SUFFIX,gemini.google.com
@@ -60,9 +65,7 @@ payload:
   - DOMAIN-SUFFIX,home.google.com
   - DOMAIN-SUFFIX,imagine-public.x.ai
   - DOMAIN-SUFFIX,kb.stability.ai
-  - DOMAIN-SUFFIX,labs.character.ai
   - DOMAIN-SUFFIX,labs.google.com
-  - DOMAIN-SUFFIX,labscommunity.cohere.com
   - DOMAIN-SUFFIX,learn.microsoft.com
   - DOMAIN-SUFFIX,legal.mistral.ai
   - DOMAIN-SUFFIX,marketplace.microsoft.com
@@ -80,22 +83,23 @@ payload:
   - DOMAIN-SUFFIX,ogs.google.com
   - DOMAIN-SUFFIX,one.google.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,payments.google.com
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,platform.stability.ai
   - DOMAIN-SUFFIX,play.google.com
   - DOMAIN-SUFFIX,policies.google.com
   - DOMAIN-SUFFIX,pplx.ai
+  - DOMAIN-SUFFIX,privacy.anthropic.com
   - DOMAIN-SUFFIX,push.clients6.google.com
   - DOMAIN-SUFFIX,red.anthropic.com
   - DOMAIN-SUFFIX,research.perplexity.ai
+  - DOMAIN-SUFFIX,s-cdn.anthropic.com
   - DOMAIN-SUFFIX,services.google.com
-  - DOMAIN-SUFFIX,share.character.ai
   - DOMAIN-SUFFIX,shop.cohere.com
   - DOMAIN-SUFFIX,stability.ai
   - DOMAIN-SUFFIX,status.anthropic.com
   - DOMAIN-SUFFIX,status.openai.com
   - DOMAIN-SUFFIX,support.anthropic.com
-  - DOMAIN-SUFFIX,support.character.ai
   - DOMAIN-SUFFIX,support.google.com
   - DOMAIN-SUFFIX,support.microsoft.com
   - DOMAIN-SUFFIX,takeout.google.com
@@ -107,10 +111,10 @@ payload:
   - DOMAIN-SUFFIX,unlocked.microsoft.com
   - DOMAIN-SUFFIX,waa-pa.clients6.google.com
   - DOMAIN-SUFFIX,wallet.google.com
-  - DOMAIN-SUFFIX,wcpstatic.microsoft.com
   - DOMAIN-SUFFIX,workspace.google.com
   - DOMAIN-SUFFIX,www-cdn.anthropic.com
   - DOMAIN-SUFFIX,www.anthropic.com
+  - DOMAIN-SUFFIX,www.claudeusercontent.com
   - DOMAIN-SUFFIX,www.google.com
   - DOMAIN-SUFFIX,www.microsoft.com
   - DOMAIN-SUFFIX,x.ai
