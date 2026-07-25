@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-25T19:35:14+00:00",
+  "updated_at": "2026-07-25T21:09:16+00:00",
   "vendor_count": 12,
-  "domain_count": 90,
+  "domain_count": 105,
   "vendors": [
     {
       "name": "OpenAI",
@@ -28,6 +28,7 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
         "s-cdn.anthropic.com",
@@ -45,12 +46,12 @@
     {
       "name": "Google Gemini",
       "domains": [
+        "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -64,19 +65,22 @@
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -94,8 +98,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -147,10 +150,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
-        "labscommunity.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "events.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -194,9 +194,23 @@
       "domains": [
         "account.microsoft.com",
         "api.githubcopilot.com",
+        "apps.microsoft.com",
+        "azure.microsoft.com",
+        "blogs.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
+        "education.microsoft.com",
         "githubcopilot.com",
-        "support.microsoft.com"
+        "go.microsoft.com",
+        "learn.microsoft.com",
+        "marketplace.microsoft.com",
+        "microsoft.com",
+        "news.microsoft.com",
+        "support.microsoft.com",
+        "techcommunity.microsoft.com",
+        "uhf.microsoft.com",
+        "visualstudio.microsoft.com",
+        "www.microsoft.com"
       ],
       "pages_scanned": 8,
       "errors": [
