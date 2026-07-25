@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-25T11:35:29+00:00",
+  "updated_at": "2026-07-25T14:03:06+00:00",
   "vendor_count": 12,
-  "domain_count": 107,
+  "domain_count": 110,
   "vendors": [
     {
       "name": "OpenAI",
@@ -25,21 +25,20 @@
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
-        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
-        "conway.claudeusercontent.com",
         "docs.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -77,15 +76,14 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "xAI",
       "domains": [
         "accounts.x.ai",
+        "app-builder-deployer.grok.com",
         "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
@@ -140,8 +138,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://docs.perplexity.ai/models/assets/search_api.png: HTTPError: HTTP Error 404: Not Found"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -151,6 +148,7 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
+        "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
@@ -159,6 +157,7 @@
     {
       "name": "Stability AI",
       "domains": [
+        "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
         "trust.stability.ai"
@@ -182,8 +181,6 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
@@ -198,18 +195,22 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
+        "docs.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
+        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
-        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
