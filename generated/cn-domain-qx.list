@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-07-28T23:26:34+00:00
+#!updated=2026-07-29T03:42:18+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -64197,6 +64197,7 @@ HOST-SUFFIX,lubanu.com,DIRECT
 HOST-SUFFIX,lubaocar.com,DIRECT
 HOST-SUFFIX,lubeichem.com,DIRECT
 HOST-SUFFIX,lubiao.com,DIRECT
+HOST-SUFFIX,lubiao.wiki,DIRECT
 HOST-SUFFIX,lubotv.com,DIRECT
 HOST-SUFFIX,luboyun.com,DIRECT
 HOST-SUFFIX,luchengas.com,DIRECT
@@ -102664,6 +102665,7 @@ HOST-SUFFIX,xmmtu.com,DIRECT
 HOST-SUFFIX,xmmuye.com,DIRECT
 HOST-SUFFIX,xmnjdwx.com,DIRECT
 HOST-SUFFIX,xmocloud01.com,DIRECT
+HOST-SUFFIX,xmoj.tech,DIRECT
 HOST-SUFFIX,xmonecode.com,DIRECT
 HOST-SUFFIX,xmos.tv,DIRECT
 HOST-SUFFIX,xmov.ai,DIRECT
