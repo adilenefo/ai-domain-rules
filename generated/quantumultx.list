@@ -1,7 +1,7 @@
 #!name=AI Domain Rules
 #!desc=Auto-updated AI vendor domain rules
 #!author=Minis
-#!updated=2026-07-29T15:19:37+00:00
+#!updated=2026-07-29T17:39:18+00:00
 
 HOST-SUFFIX,accounts.google.com,AI
 HOST-SUFFIX,accounts.x.ai,AI
@@ -11,8 +11,10 @@ HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,aistudio.google.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
+HOST-SUFFIX,api.githubcopilot.com,AI
 HOST-SUFFIX,api.perplexity.ai,AI
 HOST-SUFFIX,app-media.x.ai,AI
+HOST-SUFFIX,assets.claude.ai,AI
 HOST-SUFFIX,assets.grok.com,AI
 HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,c.ai,AI
@@ -27,7 +29,6 @@ HOST-SUFFIX,cloud.google.com,AI
 HOST-SUFFIX,cohere.com,AI
 HOST-SUFFIX,colab.sandbox.google.com,AI
 HOST-SUFFIX,community.perplexity.ai,AI
-HOST-SUFFIX,console.anthropic.com,AI
 HOST-SUFFIX,console.cloud.google.com,AI
 HOST-SUFFIX,console.mistral.ai,AI
 HOST-SUFFIX,console.perplexity.ai,AI
@@ -46,7 +47,6 @@ HOST-SUFFIX,docs.mistral.ai,AI
 HOST-SUFFIX,docs.perplexity.ai,AI
 HOST-SUFFIX,docs.x.ai,AI
 HOST-SUFFIX,drive.google.com,AI
-HOST-SUFFIX,edu.google.com,AI
 HOST-SUFFIX,events.cohere.com,AI
 HOST-SUFFIX,firebase.google.com,AI
 HOST-SUFFIX,gemini.google.com,AI
@@ -82,14 +82,15 @@ HOST-SUFFIX,shop.cohere.com,AI
 HOST-SUFFIX,stability.ai,AI
 HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,status.openai.com,AI
-HOST-SUFFIX,support.anthropic.com,AI
+HOST-SUFFIX,status.stability.ai,AI
+HOST-SUFFIX,support.character.ai,AI
 HOST-SUFFIX,support.google.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
-HOST-SUFFIX,trust.perplexity.ai,AI
 HOST-SUFFIX,trust.stability.ai,AI
 HOST-SUFFIX,trustcenter.cohere.com,AI
 HOST-SUFFIX,waa-pa.clients6.google.com,AI
 HOST-SUFFIX,workspace.google.com,AI
+HOST-SUFFIX,www-cdn.anthropic.com,AI
 HOST-SUFFIX,www.anthropic.com,AI
 HOST-SUFFIX,www.claudeusercontent.com,AI
 HOST-SUFFIX,www.google.com,AI

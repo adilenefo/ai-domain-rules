@@ -6,8 +6,10 @@ DOMAIN-SUFFIX,ai.meta.com,AI
 DOMAIN-SUFFIX,aistudio.google.com,AI
 DOMAIN-SUFFIX,anthropic.com,AI
 DOMAIN-SUFFIX,api.anthropic.com,AI
+DOMAIN-SUFFIX,api.githubcopilot.com,AI
 DOMAIN-SUFFIX,api.perplexity.ai,AI
 DOMAIN-SUFFIX,app-media.x.ai,AI
+DOMAIN-SUFFIX,assets.claude.ai,AI
 DOMAIN-SUFFIX,assets.grok.com,AI
 DOMAIN-SUFFIX,blog.character.ai,AI
 DOMAIN-SUFFIX,c.ai,AI
@@ -22,7 +24,6 @@ DOMAIN-SUFFIX,cloud.google.com,AI
 DOMAIN-SUFFIX,cohere.com,AI
 DOMAIN-SUFFIX,colab.sandbox.google.com,AI
 DOMAIN-SUFFIX,community.perplexity.ai,AI
-DOMAIN-SUFFIX,console.anthropic.com,AI
 DOMAIN-SUFFIX,console.cloud.google.com,AI
 DOMAIN-SUFFIX,console.mistral.ai,AI
 DOMAIN-SUFFIX,console.perplexity.ai,AI
@@ -41,7 +42,6 @@ DOMAIN-SUFFIX,docs.mistral.ai,AI
 DOMAIN-SUFFIX,docs.perplexity.ai,AI
 DOMAIN-SUFFIX,docs.x.ai,AI
 DOMAIN-SUFFIX,drive.google.com,AI
-DOMAIN-SUFFIX,edu.google.com,AI
 DOMAIN-SUFFIX,events.cohere.com,AI
 DOMAIN-SUFFIX,firebase.google.com,AI
 DOMAIN-SUFFIX,gemini.google.com,AI
@@ -77,14 +77,15 @@ DOMAIN-SUFFIX,shop.cohere.com,AI
 DOMAIN-SUFFIX,stability.ai,AI
 DOMAIN-SUFFIX,status.anthropic.com,AI
 DOMAIN-SUFFIX,status.openai.com,AI
-DOMAIN-SUFFIX,support.anthropic.com,AI
+DOMAIN-SUFFIX,status.stability.ai,AI
+DOMAIN-SUFFIX,support.character.ai,AI
 DOMAIN-SUFFIX,support.google.com,AI
 DOMAIN-SUFFIX,trust.anthropic.com,AI
-DOMAIN-SUFFIX,trust.perplexity.ai,AI
 DOMAIN-SUFFIX,trust.stability.ai,AI
 DOMAIN-SUFFIX,trustcenter.cohere.com,AI
 DOMAIN-SUFFIX,waa-pa.clients6.google.com,AI
 DOMAIN-SUFFIX,workspace.google.com,AI
+DOMAIN-SUFFIX,www-cdn.anthropic.com,AI
 DOMAIN-SUFFIX,www.anthropic.com,AI
 DOMAIN-SUFFIX,www.claudeusercontent.com,AI
 DOMAIN-SUFFIX,www.google.com,AI
