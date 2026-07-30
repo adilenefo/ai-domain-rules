@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-29T23:16:04+00:00",
+  "updated_at": "2026-07-30T00:14:08+00:00",
   "vendor_count": 12,
-  "domain_count": 99,
+  "domain_count": 100,
   "vendors": [
     {
       "name": "OpenAI",
@@ -26,14 +26,14 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
-        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "economic-research.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -41,13 +41,13 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Google Gemini",
       "domains": [
+        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
@@ -60,32 +60,32 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
-        "knowledge.workspace.google.com",
+        "home.google.com",
         "labs.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
+        "payments.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "takeout.google.com",
         "waa-pa.clients6.google.com",
+        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -103,7 +103,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://x.ai/news/grok-4-1: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -124,6 +125,7 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
+        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
@@ -155,7 +157,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "labscommunity.cohere.com",
+        "events.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -165,6 +167,7 @@
     {
       "name": "Stability AI",
       "domains": [
+        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -192,20 +195,16 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
-        "browser.events.data.microsoft.com",
         "copilot.microsoft.com",
-        "docs.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
-        "githubcopilot.com",
-        "support.microsoft.com"
+        "githubcopilot.com"
       ],
       "pages_scanned": 8,
       "errors": [
