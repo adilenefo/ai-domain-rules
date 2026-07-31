@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T00:15:53+00:00",
+  "updated_at": "2026-07-31T03:54:39+00:00",
   "vendor_count": 12,
   "domain_count": 109,
   "vendors": [
@@ -25,11 +25,12 @@
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
+        "api.anthropic.com",
+        "assets.claude.ai",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
@@ -64,22 +65,20 @@
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -151,7 +150,6 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "labscommunity.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -161,6 +159,7 @@
     {
       "name": "Stability AI",
       "domains": [
+        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -185,23 +184,25 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "account.microsoft.com",
+        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
+        "developer.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
@@ -210,13 +211,16 @@
         "marketplace.microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
+        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }
