@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-01T15:27:37+00:00",
+  "updated_at": "2026-08-01T17:16:58+00:00",
   "vendor_count": 12,
-  "domain_count": 113,
+  "domain_count": 116,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,21 +18,19 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=32&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
-        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
+        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
@@ -65,15 +63,19 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
@@ -117,7 +119,6 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
-        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
@@ -150,8 +151,7 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -159,9 +159,11 @@
     {
       "name": "Stability AI",
       "domains": [
+        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "status.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -182,29 +184,30 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
+        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
+        "developer.microsoft.com",
+        "docs.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
