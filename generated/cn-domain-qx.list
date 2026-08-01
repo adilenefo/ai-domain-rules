@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-01T09:21:53+00:00
+#!updated=2026-08-01T11:35:25+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -26046,6 +26046,7 @@ HOST-SUFFIX,cqtea.com,DIRECT
 HOST-SUFFIX,cqtfjs.com,DIRECT
 HOST-SUFFIX,cqtiantai.com,DIRECT
 HOST-SUFFIX,cqtieba.com,DIRECT
+HOST-SUFFIX,cqtk.com.cn,DIRECT
 HOST-SUFFIX,cqtkjj.com,DIRECT
 HOST-SUFFIX,cqtkyy.com,DIRECT
 HOST-SUFFIX,cqtl.org,DIRECT
