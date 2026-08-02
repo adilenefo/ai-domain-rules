@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-02T13:56:33+00:00",
+  "updated_at": "2026-08-02T15:28:14+00:00",
   "vendor_count": 12,
-  "domain_count": 121,
+  "domain_count": 111,
   "vendors": [
     {
       "name": "OpenAI",
@@ -26,12 +26,10 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
-        "assets.claude.ai",
         "claude.ai",
         "claudeusercontent.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -41,8 +39,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -52,31 +49,25 @@
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "appsitemsuggest-pa.clients6.google.com",
-        "clients6.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "connect.corp.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "driveactivity.clients6.google.com",
-        "drivefrontend-pa.clients6.google.com",
-        "drivemetadata.clients6.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "lh3.google.com",
         "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
-        "people-pa.clients6.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
@@ -86,16 +77,12 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
       "domains": [
         "accounts.x.ai",
-        "api.x.ai",
         "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
@@ -103,13 +90,12 @@
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
-        "status.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai/voice?campaign=app: HTTPError: HTTP Error 403: Forbidden"
+        "https://console.x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -147,12 +133,14 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "www.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://console.perplexity.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -161,7 +149,6 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
@@ -177,7 +164,9 @@
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://stability.ai/back: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Midjourney",
@@ -194,12 +183,12 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -211,12 +200,11 @@
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "browser.events.data.microsoft.com",
-        "choice.microsoft.com",
+        "careers.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
         "docs.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
         "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
