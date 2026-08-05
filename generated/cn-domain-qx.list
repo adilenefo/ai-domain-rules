@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-05T14:39:21+00:00
+#!updated=2026-08-05T16:53:43+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -9196,6 +9196,7 @@ HOST-SUFFIX,95572.com,DIRECT
 HOST-SUFFIX,95579.com,DIRECT
 HOST-SUFFIX,95580.net,DIRECT
 HOST-SUFFIX,95588.com,DIRECT
+HOST-SUFFIX,95598.cn,DIRECT
 HOST-SUFFIX,95598pay.com,DIRECT
 HOST-SUFFIX,95599.hk,DIRECT
 HOST-SUFFIX,9560.cc,DIRECT
@@ -26416,6 +26417,7 @@ HOST-SUFFIX,csfounder.com,DIRECT
 HOST-SUFFIX,csfreezer.com,DIRECT
 HOST-SUFFIX,csftyy.com,DIRECT
 HOST-SUFFIX,csfudu.com,DIRECT
+HOST-SUFFIX,csg.cn,DIRECT
 HOST-SUFFIX,csgasgroup.com,DIRECT
 HOST-SUFFIX,csgcjxxh.com,DIRECT
 HOST-SUFFIX,csgcyy.com,DIRECT
@@ -32208,6 +32210,7 @@ HOST-SUFFIX,ecrrc.com,DIRECT
 HOST-SUFFIX,ecsage.net,DIRECT
 HOST-SUFFIX,ecscoupon.com,DIRECT
 HOST-SUFFIX,ecscpu.com,DIRECT
+HOST-SUFFIX,ecsg.com.cn,DIRECT
 HOST-SUFFIX,ecshop.com,DIRECT
 HOST-SUFFIX,ecshop123.com,DIRECT
 HOST-SUFFIX,ecsits.com,DIRECT
@@ -33316,6 +33319,7 @@ HOST-SUFFIX,esemseo.com,DIRECT
 HOST-SUFFIX,esenagro.com,DIRECT
 HOST-SUFFIX,esensoft.com,DIRECT
 HOST-SUFFIX,esfimg.com,DIRECT
+HOST-SUFFIX,esgcc.com.cn,DIRECT
 HOST-SUFFIX,esgforum.com,DIRECT
 HOST-SUFFIX,esgz.com,DIRECT
 HOST-SUFFIX,eshangle.com,DIRECT
@@ -74449,6 +74453,7 @@ HOST-SUFFIX,powerchinayun.com,DIRECT
 HOST-SUFFIX,powercx.com,DIRECT
 HOST-SUFFIX,powerde.com,DIRECT
 HOST-SUFFIX,powereasy.net,DIRECT
+HOST-SUFFIX,poweremarket.com,DIRECT
 HOST-SUFFIX,powerex1.com,DIRECT
 HOST-SUFFIX,powerflow-tech.com,DIRECT
 HOST-SUFFIX,powerfulchina.com,DIRECT
@@ -81526,6 +81531,7 @@ HOST-SUFFIX,sgameglobal.com,DIRECT
 HOST-SUFFIX,sgamer.com,DIRECT
 HOST-SUFFIX,sgautomotive.com,DIRECT
 HOST-SUFFIX,sgbll.com,DIRECT
+HOST-SUFFIX,sgcc.com.cn,DIRECT
 HOST-SUFFIX,sgccdn.com,DIRECT
 HOST-SUFFIX,sgcctd.com,DIRECT
 HOST-SUFFIX,sgcctop.com,DIRECT
