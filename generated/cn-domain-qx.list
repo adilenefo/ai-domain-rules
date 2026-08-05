@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-04T23:19:05+00:00
+#!updated=2026-08-05T03:34:12+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -90656,6 +90656,8 @@ HOST-SUFFIX,tj-guangxin.com,DIRECT
 HOST-SUFFIX,tj-kingdee.com,DIRECT
 HOST-SUFFIX,tj-model.com,DIRECT
 HOST-SUFFIX,tj-pod1-smp-device.apple.com,DIRECT
+HOST-SUFFIX,tj-pod2-smp-device.apple.com,DIRECT
+HOST-SUFFIX,tj-pod3-smp-device.apple.com,DIRECT
 HOST-SUFFIX,tj-un.com,DIRECT
 HOST-SUFFIX,tj0573.com,DIRECT
 HOST-SUFFIX,tj1-miui-bn-stage01.kscn,DIRECT
