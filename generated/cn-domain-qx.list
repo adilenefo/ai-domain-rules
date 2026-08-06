@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-05T22:28:31+00:00
+#!updated=2026-08-06T00:11:06+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -64872,6 +64872,7 @@ HOST-SUFFIX,madailicai.com,DIRECT
 HOST-SUFFIX,madajiefood.com,DIRECT
 HOST-SUFFIX,madaomall.com,DIRECT
 HOST-SUFFIX,madboxi.com,DIRECT
+HOST-SUFFIX,made-in-china.com,DIRECT
 HOST-SUFFIX,madefuns.com,DIRECT
 HOST-SUFFIX,madeinchinastone.com,DIRECT
 HOST-SUFFIX,madewei.com,DIRECT
@@ -66645,6 +66646,7 @@ HOST-SUFFIX,microwu.com,DIRECT
 HOST-SUFFIX,microxiang.com,DIRECT
 HOST-SUFFIX,microyan.com,DIRECT
 HOST-SUFFIX,microzuji.com,DIRECT
+HOST-SUFFIX,micstatic.com,DIRECT
 HOST-SUFFIX,mictormedical.com,DIRECT
 HOST-SUFFIX,micu.hk,DIRECT
 HOST-SUFFIX,micun.com,DIRECT
