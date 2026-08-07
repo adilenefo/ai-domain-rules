@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:09:51+00:00",
+  "updated_at": "2026-08-07T16:09:36+00:00",
   "vendor_count": 12,
   "domain_count": 111,
   "vendors": [
@@ -24,12 +24,12 @@
     {
       "name": "Anthropic",
       "domains": [
+        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
         "assets.claude.ai",
         "claude.ai",
         "claudeusercontent.com",
-        "conway.claudeusercontent.com",
         "docs.anthropic.com",
         "red.anthropic.com",
         "s-cdn.anthropic.com",
@@ -53,6 +53,7 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -63,14 +64,15 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
-        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -78,8 +80,9 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
+        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://gemini.google.com/app/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -149,13 +152,12 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "shop.cohere.com"
+        "events.cohere.com",
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2Fde5dfdd8f91267a91f194bfb7095edb80ce4951f-3840x2160.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://cohere.com/_next/static/chunks/1ioa407dvl2m2.js: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Stability AI",
@@ -195,21 +197,17 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "docs.microsoft.com",
+        "developer.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
+        "learn.microsoft.com",
         "marketplace.microsoft.com",
         "microsoft.com",
         "news.microsoft.com",
