@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-07T11:58:32+00:00",
+  "updated_at": "2026-08-07T13:40:32+00:00",
   "vendor_count": 12,
-  "domain_count": 114,
+  "domain_count": 113,
   "vendors": [
     {
       "name": "OpenAI",
@@ -24,14 +24,17 @@
     {
       "name": "Anthropic",
       "domains": [
+        "alignment.anthropic.com",
         "anthropic.com",
-        "api.anthropic.com",
         "assets.anthropic.com",
+        "assets.claude.ai",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "conway.claudeusercontent.com",
         "docs.anthropic.com",
+        "privacy.anthropic.com",
+        "red.anthropic.com",
+        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
@@ -59,16 +62,15 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -80,7 +82,9 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
+      ]
     },
     {
       "name": "xAI",
@@ -119,8 +123,7 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -185,11 +188,12 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai"
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -200,10 +204,9 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
-        "education.microsoft.com",
-        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -213,7 +216,6 @@
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
-        "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
