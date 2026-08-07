@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-07T22:55:46+00:00",
+  "updated_at": "2026-08-07T23:49:11+00:00",
   "vendor_count": 12,
-  "domain_count": 110,
+  "domain_count": 93,
   "vendors": [
     {
       "name": "OpenAI",
@@ -25,12 +25,12 @@
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
+        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
+        "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -56,12 +56,12 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
@@ -70,18 +70,13 @@
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
-        "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -99,7 +94,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://assets.grok.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -133,17 +128,17 @@
       "domains": [
         "api.perplexity.ai",
         "community.perplexity.ai",
-        "console.perplexity.ai",
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
         "research.perplexity.ai",
-        "trust.perplexity.ai"
+        "www.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/v1/agent: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
@@ -157,12 +152,13 @@
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2F0b4376367d0a9076aaa5438406bf9350f7bb01e9-7680x4320.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+      ]
     },
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -186,42 +182,27 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
-        "api.githubcopilot.com",
-        "apps.microsoft.com",
-        "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "careers.microsoft.com",
-        "choice.microsoft.com",
+        "browser.events.data.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
-        "education.microsoft.com",
-        "githubcopilot.com",
-        "go.microsoft.com",
-        "learn.microsoft.com",
-        "marketplace.microsoft.com",
-        "news.microsoft.com",
-        "support.microsoft.com",
-        "uhf.microsoft.com",
-        "unlocked.microsoft.com",
-        "visualstudio.microsoft.com",
-        "www.microsoft.com"
+        "docs.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
+        "githubcopilot.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }

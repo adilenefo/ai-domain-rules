@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-07T22:55:51+00:00
+#!updated=2026-08-07T23:49:15+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -62121,6 +62121,7 @@ HOST-SUFFIX,lifeup.vip,DIRECT
 HOST-SUFFIX,lifevc.com,DIRECT
 HOST-SUFFIX,lifevccdn.com,DIRECT
 HOST-SUFFIX,lifeweeker.com,DIRECT
+HOST-SUFFIX,lifexue.com,DIRECT
 HOST-SUFFIX,lifeyk.com,DIRECT
 HOST-SUFFIX,lifeyn.net,DIRECT
 HOST-SUFFIX,lifezb.com,DIRECT
