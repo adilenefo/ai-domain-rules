@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-09T13:16:09+00:00",
+  "updated_at": "2026-08-09T14:02:02+00:00",
   "vendor_count": 12,
-  "domain_count": 110,
+  "domain_count": 92,
   "vendors": [
     {
       "name": "OpenAI",
@@ -25,12 +25,10 @@
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
+        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
-        "economic-research.anthropic.com",
-        "red.anthropic.com",
-        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
@@ -45,7 +43,7 @@
     {
       "name": "Google Gemini",
       "domains": [
-        "accounts.google.com",
+        "account.google.com",
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
@@ -61,25 +59,30 @@
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
+        "home.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
         "ogs.google.com",
         "one.google.com",
+        "payments.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
+        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
+      ]
     },
     {
       "name": "xAI",
@@ -96,8 +99,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -118,13 +120,13 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
+        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://chat.mistral.ai/code/extensions: HTTPError: HTTP Error 403: Forbidden"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -151,16 +153,18 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://cohere.com/_next/static/chunks/1hjo750d6o6ha.js: HTTPError: HTTP Error 404: Not Found",
+        "https://cohere.com/_next/static/chunks/3ngzqkvfhb5bh.js: HTTPError: HTTP Error 404: Not Found",
+        "https://cohere.com/_next/static/chunks/157en9pv5g2c_.js: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -189,34 +193,15 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
-        "apps.microsoft.com",
-        "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
-        "githubcopilot.com",
-        "go.microsoft.com",
-        "learn.microsoft.com",
-        "marketplace.microsoft.com",
-        "microsoft.com",
-        "news.microsoft.com",
-        "support.microsoft.com",
-        "techcommunity.microsoft.com",
-        "uhf.microsoft.com",
-        "unlocked.microsoft.com",
-        "www.microsoft.com"
+        "githubcopilot.com"
       ],
       "pages_scanned": 8,
       "errors": [
