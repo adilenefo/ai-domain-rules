@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T23:46:03+00:00",
+  "updated_at": "2026-08-09T02:29:56+00:00",
   "vendor_count": 12,
   "domain_count": 112,
   "vendors": [
@@ -19,8 +19,7 @@
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=96&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
+        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -29,19 +28,21 @@
         "anthropic.com",
         "api.anthropic.com",
         "assets.anthropic.com",
+        "assets.claude.ai",
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
-        "www.anthropic.com"
+        "www.anthropic.com",
+        "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -53,7 +54,6 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -64,33 +64,32 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
       "domains": [
-        "accounts.x.ai",
         "app-media.x.ai",
+        "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
+        "data.x.ai",
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
@@ -142,7 +141,9 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized",
+        "https://docs.perplexity.ai/models/assets/search_api.png: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -155,15 +156,12 @@
         "shop.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://cohere.com/_next/static/chunks/1ioa407dvl2m2.js: HTTPError: HTTP Error 404: Not Found",
-        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2F52fb04311d24a61986b4ca323e7b7c562233373a-3840x2160.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
-      ]
+      "errors": []
     },
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
+        "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
         "trust.stability.ai"
@@ -193,9 +191,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -207,6 +203,7 @@
         "azure.microsoft.com",
         "blogs.microsoft.com",
         "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
         "education.microsoft.com",
@@ -215,9 +212,9 @@
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
+        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
