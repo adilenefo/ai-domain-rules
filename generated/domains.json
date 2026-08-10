@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10T16:12:21+00:00",
+  "updated_at": "2026-08-10T17:09:52+00:00",
   "vendor_count": 12,
-  "domain_count": 116,
+  "domain_count": 97,
   "vendors": [
     {
       "name": "OpenAI",
@@ -26,17 +26,16 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "docs.anthropic.com",
+        "downloads.claude.ai",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
-        "www.anthropic.com",
-        "www.claudeusercontent.com"
+        "www.anthropic.com"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -58,13 +57,11 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
@@ -75,12 +72,16 @@
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "xAI",
@@ -93,13 +94,11 @@
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
-        "media.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://media.x.ai/v1/grok-mobile/image-2.0-launch_v2_mobile_800w_noaudio-611ba95d.mp4: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -121,8 +120,7 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -138,12 +136,14 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "www.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://docs.perplexity.ai/base-ui-disable-scrollbar: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -162,7 +162,6 @@
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -187,12 +186,14 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai"
+        "labs.character.ai",
+        "share.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -200,27 +201,9 @@
       "domains": [
         "account.microsoft.com",
         "api.githubcopilot.com",
-        "apps.microsoft.com",
-        "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
-        "careers.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
-        "docs.microsoft.com",
-        "education.microsoft.com",
-        "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
-        "go.microsoft.com",
-        "learn.microsoft.com",
-        "marketplace.microsoft.com",
-        "news.microsoft.com",
-        "support.microsoft.com",
-        "techcommunity.microsoft.com",
-        "uhf.microsoft.com",
-        "wcpstatic.microsoft.com",
-        "www.microsoft.com"
+        "support.microsoft.com"
       ],
       "pages_scanned": 8,
       "errors": [
