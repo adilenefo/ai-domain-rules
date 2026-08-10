@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10T19:17:33+00:00",
+  "updated_at": "2026-08-10T20:05:03+00:00",
   "vendor_count": 12,
-  "domain_count": 110,
+  "domain_count": 107,
   "vendors": [
     {
       "name": "OpenAI",
@@ -57,17 +57,14 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
-        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -79,16 +76,15 @@
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
       "domains": [
         "app-media.x.ai",
+        "assets.grok.com",
         "cdn.grok.com",
-        "docs.x.ai",
+        "data.x.ai",
         "grok.com",
         "imagine-public.x.ai",
         "media.x.ai",
@@ -139,8 +135,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/v1/agent: HTTPError: HTTP Error 401: Unauthorized"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -149,11 +144,13 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com"
+        "events.cohere.com",
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://cohere.com/_next/static/chunks/3ngzqkvfhb5bh.js: HTTPError: HTTP Error 404: Not Found"
+        "https://cohere.com/_next/static/chunks/2p8f5zf56kuov.js: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -189,7 +186,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
@@ -203,7 +200,6 @@
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
@@ -216,8 +212,6 @@
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
-        "visualstudio.microsoft.com",
-        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
