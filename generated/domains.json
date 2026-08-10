@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-10T15:17:40+00:00",
+  "updated_at": "2026-08-10T16:12:21+00:00",
   "vendor_count": 12,
-  "domain_count": 115,
+  "domain_count": 116,
   "vendors": [
     {
       "name": "OpenAI",
@@ -30,8 +30,6 @@
         "claudeusercontent.com",
         "console.anthropic.com",
         "docs.anthropic.com",
-        "downloads.claude.ai",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
@@ -42,8 +40,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -61,11 +58,13 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
@@ -76,8 +75,6 @@
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
-        "supporttagging-autopush.sandbox.google.com",
-        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
@@ -90,17 +87,19 @@
       "domains": [
         "accounts.x.ai",
         "app-media.x.ai",
+        "assets.grok.com",
         "cdn.grok.com",
-        "console.x.ai",
         "data.x.ai",
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
+        "media.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://media.x.ai/v1/grok-mobile/image-2.0-launch_v2_mobile_800w_noaudio-611ba95d.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -122,12 +121,12 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai"
+        "mistral.ai",
+        "trust.mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
-        "https://chat.mistral.ai/code/extensions: HTTPError: HTTP Error 403: Forbidden"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -154,14 +153,11 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "labscommunity.cohere.com",
         "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://cohere.com/_next/static/chunks/1hjo750d6o6ha.js: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Stability AI",
@@ -190,7 +186,8 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -206,11 +203,14 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
+        "docs.microsoft.com",
+        "education.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -219,8 +219,6 @@
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
-        "unlocked.microsoft.com",
-        "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
