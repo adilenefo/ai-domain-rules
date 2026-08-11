@@ -1,6 +1,6 @@
 # Title: AI Domain Rules
-# Updated: 2026-08-11T13:43:34+00:00
-# Total domains: 105
+# Updated: 2026-08-11T15:16:37+00:00
+# Total domains: 117
 
 # OpenAI (6 domains)
 HOST-SUFFIX,chat.openai.com,AI
@@ -10,13 +10,16 @@ HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,status.openai.com,AI
 
-# Anthropic (11 domains)
+# Anthropic (14 domains)
+HOST-SUFFIX,a-cdn.anthropic.com,AI
 HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,api.anthropic.com,AI
+HOST-SUFFIX,assets.anthropic.com,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,docs.anthropic.com,AI
 HOST-SUFFIX,red.anthropic.com,AI
+HOST-SUFFIX,s-cdn.anthropic.com,AI
 HOST-SUFFIX,status.anthropic.com,AI
 HOST-SUFFIX,trust.anthropic.com,AI
 HOST-SUFFIX,www-cdn.anthropic.com,AI
@@ -54,23 +57,27 @@ HOST-SUFFIX,waa-pa.clients6.google.com,AI
 HOST-SUFFIX,workspace.google.com,AI
 HOST-SUFFIX,www.google.com,AI
 
-# xAI (6 domains)
+# xAI (9 domains)
 HOST-SUFFIX,accounts.x.ai,AI
 HOST-SUFFIX,app-media.x.ai,AI
+HOST-SUFFIX,assets.grok.com,AI
 HOST-SUFFIX,cdn.grok.com,AI
+HOST-SUFFIX,docs.x.ai,AI
 HOST-SUFFIX,grok.com,AI
 HOST-SUFFIX,imagine-public.x.ai,AI
+HOST-SUFFIX,media.x.ai,AI
 HOST-SUFFIX,x.ai,AI
 
 # Meta AI (2 domains)
 HOST-SUFFIX,ai.meta.com,AI
 HOST-SUFFIX,meta.ai,AI
 
-# Mistral (6 domains)
+# Mistral (7 domains)
 HOST-SUFFIX,chat.mistral.ai,AI
 HOST-SUFFIX,console.mistral.ai,AI
 HOST-SUFFIX,docs.mistral.ai,AI
 HOST-SUFFIX,help.mistral.ai,AI
+HOST-SUFFIX,learn.mistral.ai,AI
 HOST-SUFFIX,legal.mistral.ai,AI
 HOST-SUFFIX,mistral.ai,AI
 
@@ -91,8 +98,7 @@ HOST-SUFFIX,events.cohere.com,AI
 HOST-SUFFIX,shop.cohere.com,AI
 HOST-SUFFIX,trustcenter.cohere.com,AI
 
-# Stability AI (5 domains)
-HOST-SUFFIX,dreamstudio.stability.ai,AI
+# Stability AI (4 domains)
 HOST-SUFFIX,kb.stability.ai,AI
 HOST-SUFFIX,platform.stability.ai,AI
 HOST-SUFFIX,stability.ai,AI
@@ -101,12 +107,17 @@ HOST-SUFFIX,trust.stability.ai,AI
 # Midjourney (1 domains)
 HOST-SUFFIX,midjourney.com,AI
 
-# Character.AI (3 domains)
+# Character.AI (6 domains)
 HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,c.ai,AI
 HOST-SUFFIX,character.ai,AI
+HOST-SUFFIX,labs.character.ai,AI
+HOST-SUFFIX,share.character.ai,AI
+HOST-SUFFIX,support.character.ai,AI
 
-# GitHub Copilot (23 domains)
+# GitHub Copilot (26 domains)
+HOST-SUFFIX,account.microsoft.com,AI
+HOST-SUFFIX,api.githubcopilot.com,AI
 HOST-SUFFIX,apps.microsoft.com,AI
 HOST-SUFFIX,azure.microsoft.com,AI
 HOST-SUFFIX,blogs.microsoft.com,AI
@@ -123,6 +134,7 @@ HOST-SUFFIX,githubcopilot.com,AI
 HOST-SUFFIX,go.microsoft.com,AI
 HOST-SUFFIX,learn.microsoft.com,AI
 HOST-SUFFIX,marketplace.microsoft.com,AI
+HOST-SUFFIX,microsoft.com,AI
 HOST-SUFFIX,news.microsoft.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
