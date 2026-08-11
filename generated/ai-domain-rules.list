@@ -1,6 +1,6 @@
 # Title: AI Domain Rules
-# Updated: 2026-08-11T06:04:30+00:00
-# Total domains: 110
+# Updated: 2026-08-11T07:38:31+00:00
+# Total domains: 101
 
 # OpenAI (6 domains)
 HOST-SUFFIX,chat.openai.com,AI
@@ -10,10 +10,8 @@ HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,status.openai.com,AI
 
-# Anthropic (12 domains)
+# Anthropic (10 domains)
 HOST-SUFFIX,anthropic.com,AI
-HOST-SUFFIX,api.anthropic.com,AI
-HOST-SUFFIX,assets.claude.ai,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,docs.anthropic.com,AI
@@ -56,12 +54,9 @@ HOST-SUFFIX,waa-pa.clients6.google.com,AI
 HOST-SUFFIX,workspace.google.com,AI
 HOST-SUFFIX,www.google.com,AI
 
-# xAI (9 domains)
-HOST-SUFFIX,app-builder-deployer.grok.com,AI
+# xAI (6 domains)
 HOST-SUFFIX,app-media.x.ai,AI
-HOST-SUFFIX,assets.grok.com,AI
 HOST-SUFFIX,cdn.grok.com,AI
-HOST-SUFFIX,console.x.ai,AI
 HOST-SUFFIX,data.x.ai,AI
 HOST-SUFFIX,grok.com,AI
 HOST-SUFFIX,imagine-public.x.ai,AI
@@ -79,7 +74,7 @@ HOST-SUFFIX,help.mistral.ai,AI
 HOST-SUFFIX,legal.mistral.ai,AI
 HOST-SUFFIX,mistral.ai,AI
 
-# Perplexity (8 domains)
+# Perplexity (7 domains)
 HOST-SUFFIX,api.perplexity.ai,AI
 HOST-SUFFIX,community.perplexity.ai,AI
 HOST-SUFFIX,console.perplexity.ai,AI
@@ -87,7 +82,6 @@ HOST-SUFFIX,docs.perplexity.ai,AI
 HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,pplx.ai,AI
 HOST-SUFFIX,research.perplexity.ai,AI
-HOST-SUFFIX,trust.perplexity.ai,AI
 
 # Cohere (6 domains)
 HOST-SUFFIX,cohere.com,AI
@@ -97,8 +91,7 @@ HOST-SUFFIX,events.cohere.com,AI
 HOST-SUFFIX,shop.cohere.com,AI
 HOST-SUFFIX,trustcenter.cohere.com,AI
 
-# Stability AI (5 domains)
-HOST-SUFFIX,dreamstudio.stability.ai,AI
+# Stability AI (4 domains)
 HOST-SUFFIX,kb.stability.ai,AI
 HOST-SUFFIX,platform.stability.ai,AI
 HOST-SUFFIX,stability.ai,AI
@@ -112,12 +105,12 @@ HOST-SUFFIX,blog.character.ai,AI
 HOST-SUFFIX,c.ai,AI
 HOST-SUFFIX,character.ai,AI
 
-# GitHub Copilot (22 domains)
+# GitHub Copilot (20 domains)
 HOST-SUFFIX,account.microsoft.com,AI
 HOST-SUFFIX,api.githubcopilot.com,AI
 HOST-SUFFIX,apps.microsoft.com,AI
+HOST-SUFFIX,azure.microsoft.com,AI
 HOST-SUFFIX,blogs.microsoft.com,AI
-HOST-SUFFIX,careers.microsoft.com,AI
 HOST-SUFFIX,choice.microsoft.com,AI
 HOST-SUFFIX,copilot.microsoft.com,AI
 HOST-SUFFIX,developer.microsoft.com,AI
@@ -126,12 +119,10 @@ HOST-SUFFIX,educationblog.microsoft.com,AI
 HOST-SUFFIX,githubcopilot.com,AI
 HOST-SUFFIX,go.microsoft.com,AI
 HOST-SUFFIX,learn.microsoft.com,AI
-HOST-SUFFIX,microsoft.com,AI
+HOST-SUFFIX,marketplace.microsoft.com,AI
 HOST-SUFFIX,news.microsoft.com,AI
 HOST-SUFFIX,support.microsoft.com,AI
 HOST-SUFFIX,techcommunity.microsoft.com,AI
 HOST-SUFFIX,uhf.microsoft.com,AI
-HOST-SUFFIX,unlocked.microsoft.com,AI
 HOST-SUFFIX,visualstudio.microsoft.com,AI
-HOST-SUFFIX,wcpstatic.microsoft.com,AI
 HOST-SUFFIX,www.microsoft.com,AI

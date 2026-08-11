@@ -6,18 +6,14 @@ payload:
   - DOMAIN-SUFFIX,ai.meta.com
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,api.anthropic.com
   - DOMAIN-SUFFIX,api.githubcopilot.com
   - DOMAIN-SUFFIX,api.perplexity.ai
-  - DOMAIN-SUFFIX,app-builder-deployer.grok.com
   - DOMAIN-SUFFIX,app-media.x.ai
   - DOMAIN-SUFFIX,apps.microsoft.com
-  - DOMAIN-SUFFIX,assets.claude.ai
-  - DOMAIN-SUFFIX,assets.grok.com
+  - DOMAIN-SUFFIX,azure.microsoft.com
   - DOMAIN-SUFFIX,blog.character.ai
   - DOMAIN-SUFFIX,blogs.microsoft.com
   - DOMAIN-SUFFIX,c.ai
-  - DOMAIN-SUFFIX,careers.microsoft.com
   - DOMAIN-SUFFIX,cdn.grok.com
   - DOMAIN-SUFFIX,character.ai
   - DOMAIN-SUFFIX,chat.mistral.ai
@@ -32,7 +28,6 @@ payload:
   - DOMAIN-SUFFIX,community.perplexity.ai
   - DOMAIN-SUFFIX,console.mistral.ai
   - DOMAIN-SUFFIX,console.perplexity.ai
-  - DOMAIN-SUFFIX,console.x.ai
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,dashboard.cohere.com
   - DOMAIN-SUFFIX,data.x.ai
@@ -45,7 +40,6 @@ payload:
   - DOMAIN-SUFFIX,docs.google.com
   - DOMAIN-SUFFIX,docs.mistral.ai
   - DOMAIN-SUFFIX,docs.perplexity.ai
-  - DOMAIN-SUFFIX,dreamstudio.stability.ai
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,education.microsoft.com
   - DOMAIN-SUFFIX,educationblog.microsoft.com
@@ -64,8 +58,8 @@ payload:
   - DOMAIN-SUFFIX,learn.microsoft.com
   - DOMAIN-SUFFIX,legal.mistral.ai
   - DOMAIN-SUFFIX,mail.google.com
+  - DOMAIN-SUFFIX,marketplace.microsoft.com
   - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,myaccount.google.com
@@ -94,14 +88,11 @@ payload:
   - DOMAIN-SUFFIX,support.microsoft.com
   - DOMAIN-SUFFIX,techcommunity.microsoft.com
   - DOMAIN-SUFFIX,trust.anthropic.com
-  - DOMAIN-SUFFIX,trust.perplexity.ai
   - DOMAIN-SUFFIX,trust.stability.ai
   - DOMAIN-SUFFIX,trustcenter.cohere.com
   - DOMAIN-SUFFIX,uhf.microsoft.com
-  - DOMAIN-SUFFIX,unlocked.microsoft.com
   - DOMAIN-SUFFIX,visualstudio.microsoft.com
   - DOMAIN-SUFFIX,waa-pa.clients6.google.com
-  - DOMAIN-SUFFIX,wcpstatic.microsoft.com
   - DOMAIN-SUFFIX,workspace.google.com
   - DOMAIN-SUFFIX,www-cdn.anthropic.com
   - DOMAIN-SUFFIX,www.anthropic.com
