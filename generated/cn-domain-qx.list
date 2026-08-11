@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-11T18:08:50+00:00
+#!updated=2026-08-11T19:26:30+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -52377,6 +52377,8 @@ HOST-SUFFIX,iot101.com,DIRECT
 HOST-SUFFIX,iot688.com,DIRECT
 HOST-SUFFIX,iot889.com,DIRECT
 HOST-SUFFIX,iotachem.com,DIRECT
+HOST-SUFFIX,iotaskyt.com,DIRECT
+HOST-SUFFIX,iotaskyty.com,DIRECT
 HOST-SUFFIX,iotbay.com,DIRECT
 HOST-SUFFIX,iotfair.net,DIRECT
 HOST-SUFFIX,iotku.com,DIRECT
@@ -88968,6 +88970,7 @@ HOST-SUFFIX,tbapp.com,DIRECT
 HOST-SUFFIX,tbbbk.com,DIRECT
 HOST-SUFFIX,tbcache.com,DIRECT
 HOST-SUFFIX,tbcdn.com,DIRECT
+HOST-SUFFIX,tbdesk.com,DIRECT
 HOST-SUFFIX,tbh5.com,DIRECT
 HOST-SUFFIX,tbhcc.com,DIRECT
 HOST-SUFFIX,tbhelper.com,DIRECT
