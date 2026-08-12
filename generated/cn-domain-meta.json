@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T23:02:37+00:00",
-  "domain_count": 113467,
+  "updated_at": "2026-08-12T23:59:25+00:00",
+  "domain_count": 113470,
   "sources": [
     {
       "source": "blackmatrix7_chinamax",
@@ -12,7 +12,7 @@
     },
     {
       "source": "loyalsoldier_direct",
-      "count": 111465
+      "count": 111471
     },
     {
       "source": "v2fly_geolocation_cn",
