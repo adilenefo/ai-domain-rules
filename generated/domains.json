@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-12T21:04:07+00:00",
+  "updated_at": "2026-08-12T22:03:30+00:00",
   "vendor_count": 12,
-  "domain_count": 95,
+  "domain_count": 113,
   "vendors": [
     {
       "name": "OpenAI",
@@ -32,12 +32,13 @@
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
-        "www.anthropic.com"
+        "www-cdn.anthropic.com",
+        "www.anthropic.com",
+        "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -47,31 +48,25 @@
         "admin.google.com",
         "ai.google.dev",
         "aistudio.google.com",
-        "appsitemsuggest-pa.clients6.google.com",
-        "clients6.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "connect.corp.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "driveactivity.clients6.google.com",
-        "drivefrontend-pa.clients6.google.com",
-        "drivemetadata.clients6.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
-        "lh3.google.com",
         "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
-        "people-pa.clients6.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
@@ -83,16 +78,15 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found"
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
       "name": "xAI",
       "domains": [
+        "accounts.x.ai",
         "app-media.x.ai",
-        "assets.grok.com",
         "cdn.grok.com",
-        "console.x.ai",
         "data.x.ai",
         "docs.x.ai",
         "grok.com",
@@ -123,12 +117,12 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://console.mistral.ai: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -140,13 +134,13 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "trust.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://docs.perplexity.ai/base-ui-disable-scrollbar: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -160,11 +154,14 @@
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://cohere.com/_next/static/chunks/3eplakpprefr6.js: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Stability AI",
       "domains": [
+        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -188,19 +185,44 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
+        "account.microsoft.com",
         "api.githubcopilot.com",
+        "apps.microsoft.com",
+        "azure.microsoft.com",
+        "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
+        "careers.microsoft.com",
+        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "githubcopilot.com"
+        "developer.microsoft.com",
+        "docs.microsoft.com",
+        "education.microsoft.com",
+        "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
+        "githubcopilot.com",
+        "go.microsoft.com",
+        "learn.microsoft.com",
+        "marketplace.microsoft.com",
+        "microsoft.com",
+        "news.microsoft.com",
+        "support.microsoft.com",
+        "uhf.microsoft.com",
+        "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
+        "wcpstatic.microsoft.com",
+        "www.microsoft.com"
       ],
       "pages_scanned": 8,
       "errors": [
