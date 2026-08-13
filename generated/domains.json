@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T12:00:04+00:00",
+  "updated_at": "2026-08-13T13:49:14+00:00",
   "vendor_count": 12,
-  "domain_count": 107,
+  "domain_count": 88,
   "vendors": [
     {
       "name": "OpenAI",
@@ -29,17 +29,14 @@
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
-        "s-cdn.anthropic.com",
         "status.anthropic.com",
+        "support.anthropic.com",
         "trust.anthropic.com",
-        "www-cdn.anthropic.com",
         "www.anthropic.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -51,6 +48,7 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -61,9 +59,11 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -76,26 +76,27 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found",
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
         "https://gemini.google.com/app/: HTTPError: HTTP Error 404: Not Found",
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "xAI",
       "domains": [
         "app-media.x.ai",
-        "assets.grok.com",
         "cdn.grok.com",
-        "console.x.ai",
         "data.x.ai",
+        "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
+        "media.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://data.x.ai/releases/imagine/video-1-5/1_5_video_launch.mp4: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -134,14 +135,12 @@
         "perplexity.ai",
         "pplx.ai",
         "research.perplexity.ai",
-        "trust.perplexity.ai",
         "www.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/search: HTTPError: HTTP Error 401: Unauthorized"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -150,24 +149,17 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://cohere.com/_next/static/chunks/2p8f5zf56kuov.js: HTTPError: HTTP Error 404: Not Found",
-        "https://cohere.com/_next/static/chunks/3bo0wvklu_fhb.js: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
-        "support.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -198,27 +190,12 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
-        "apps.microsoft.com",
-        "azure.microsoft.com",
-        "blogs.microsoft.com",
-        "choice.microsoft.com",
+        "browser.events.data.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
-        "education.microsoft.com",
-        "educationblog.microsoft.com",
-        "githubcopilot.com",
-        "go.microsoft.com",
-        "learn.microsoft.com",
-        "marketplace.microsoft.com",
-        "news.microsoft.com",
-        "support.microsoft.com",
-        "techcommunity.microsoft.com",
-        "uhf.microsoft.com",
-        "unlocked.microsoft.com",
-        "visualstudio.microsoft.com",
-        "www.microsoft.com"
+        "docs.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
+        "githubcopilot.com"
       ],
       "pages_scanned": 8,
       "errors": [
