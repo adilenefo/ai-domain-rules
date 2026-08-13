@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-13T16:12:26+00:00",
+  "updated_at": "2026-08-13T17:14:10+00:00",
   "vendor_count": 12,
-  "domain_count": 109,
+  "domain_count": 108,
   "vendors": [
     {
       "name": "OpenAI",
@@ -29,16 +29,18 @@
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
+        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -50,18 +52,18 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
-        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
+        "knowledge.workspace.google.com",
         "labs.google.com",
-        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
@@ -78,21 +80,21 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found"
+        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
       "name": "xAI",
       "domains": [
+        "accounts.x.ai",
         "app-media.x.ai",
-        "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
         "data.x.ai",
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
-        "media.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
@@ -149,8 +151,7 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -182,36 +183,34 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "api.githubcopilot.com",
+        "account.microsoft.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
+        "docs.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
-        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
@@ -219,9 +218,7 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
