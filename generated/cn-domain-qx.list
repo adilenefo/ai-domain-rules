@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-13T18:09:10+00:00
+#!updated=2026-08-13T19:26:32+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -14487,7 +14487,6 @@ HOST-SUFFIX,bamboofactorychina.com,DIRECT
 HOST-SUFFIX,bambooolab.com,DIRECT
 HOST-SUFFIX,bambu-lab.com,DIRECT
 HOST-SUFFIX,bambulab.cn,DIRECT
-HOST-SUFFIX,bambulab.com,DIRECT
 HOST-SUFFIX,bamengame.com,DIRECT
 HOST-SUFFIX,bamensq.com,DIRECT
 HOST-SUFFIX,bamenzhushou.com,DIRECT
