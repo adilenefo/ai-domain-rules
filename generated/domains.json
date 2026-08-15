@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-14T23:37:11+00:00",
+  "updated_at": "2026-08-15T01:50:21+00:00",
   "vendor_count": 12,
-  "domain_count": 110,
+  "domain_count": 114,
   "vendors": [
     {
       "name": "OpenAI",
@@ -29,9 +29,8 @@
         "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
+        "console.anthropic.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
-        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
@@ -54,25 +53,31 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
@@ -85,13 +90,14 @@
     {
       "name": "xAI",
       "domains": [
+        "accounts.x.ai",
         "app-media.x.ai",
         "assets.grok.com",
         "cdn.grok.com",
         "console.x.ai",
+        "data.x.ai",
         "grok.com",
         "imagine-public.x.ai",
-        "media.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
@@ -135,7 +141,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -149,12 +156,12 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://cohere.com/_next/static/immutable/chunks/210zpwjxguumg.js: HTTPError: HTTP Error 404: Not Found"
+        "https://cohere.com/_next/static/immutable/chunks/0k2dczm9akj49.js: HTTPError: HTTP Error 404: Not Found",
+        "https://cohere.com/_next/static/immutable/chunks/2gd0vkw-s0oxc.js: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -183,12 +190,14 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai"
+        "character.ai",
+        "labs.character.ai",
+        "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -199,14 +208,9 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
-        "docs.microsoft.com",
-        "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -216,6 +220,7 @@
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
+        "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
         "wcpstatic.microsoft.com",
         "www.microsoft.com"
