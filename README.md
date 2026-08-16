@@ -1,8 +1,8 @@
 # AI Domain Rules
 
-- Last updated: `2026-08-16T21:34:52+00:00`
+- Last updated: `2026-08-16T22:37:56+00:00`
 - Vendors: `12`
-- Domains: `85`
+- Domains: `107`
 
 ## Files
 
@@ -15,16 +15,16 @@
 
 - **OpenAI**: 6
 - **Anthropic**: 12
-- **Google Gemini**: 27
-- **xAI**: 6
+- **Google Gemini**: 29
+- **xAI**: 11
 - **Meta AI**: 2
 - **Mistral**: 6
 - **Perplexity**: 7
-- **Cohere**: 4
-- **Stability AI**: 4
+- **Cohere**: 3
+- **Stability AI**: 5
 - **Midjourney**: 1
-- **Character.AI**: 6
-- **GitHub Copilot**: 4
+- **Character.AI**: 4
+- **GitHub Copilot**: 21
 
 ## Notes
 
