@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-16T22:38:01+00:00
+#!updated=2026-08-16T23:34:21+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -75772,6 +75772,7 @@ HOST-SUFFIX,qianvisa.com,DIRECT
 HOST-SUFFIX,qianwa.com,DIRECT
 HOST-SUFFIX,qianwanku.com,DIRECT
 HOST-SUFFIX,qianwen.com,DIRECT
+HOST-SUFFIX,qianwenai.com,DIRECT
 HOST-SUFFIX,qianxiangbank.com,DIRECT
 HOST-SUFFIX,qianxibj.net,DIRECT
 HOST-SUFFIX,qianximiye.com,DIRECT
