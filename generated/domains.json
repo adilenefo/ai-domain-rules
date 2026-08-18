@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18T15:47:11+00:00",
+  "updated_at": "2026-08-18T16:49:12+00:00",
   "vendor_count": 12,
-  "domain_count": 104,
+  "domain_count": 112,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,8 +18,7 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -30,18 +29,18 @@
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
+        "economic-research.anthropic.com",
+        "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -59,15 +58,16 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
-        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -85,7 +85,9 @@
       "name": "xAI",
       "domains": [
         "app-media.x.ai",
+        "assets.grok.com",
         "cdn.grok.com",
+        "console.x.ai",
         "data.x.ai",
         "grok.com",
         "imagine-public.x.ai",
@@ -94,8 +96,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://media.x.ai/v1/grok-mobile/image-2.0-launch_v2_mobile_800w_noaudio-611ba95d.mp4: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -147,11 +148,14 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "shop.cohere.com"
+        "events.cohere.com",
+        "labscommunity.cohere.com",
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://cohere.com/_next/static/immutable/chunks/210zpwjxguumg.js: HTTPError: HTTP Error 404: Not Found"
+        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2F52fb04311d24a61986b4ca323e7b7c562233373a-3840x2160.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
@@ -180,15 +184,12 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -199,9 +200,12 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
+        "developer.microsoft.com",
         "education.microsoft.com",
+        "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -213,6 +217,7 @@
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
+        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
