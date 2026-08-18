@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18T11:42:36+00:00",
+  "updated_at": "2026-08-18T13:09:13+00:00",
   "vendor_count": 12,
-  "domain_count": 111,
+  "domain_count": 107,
   "vendors": [
     {
       "name": "OpenAI",
@@ -26,15 +26,12 @@
       "domains": [
         "anthropic.com",
         "api.anthropic.com",
-        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
-        "red.anthropic.com",
+        "economic-research.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
         "www.anthropic.com",
@@ -42,7 +39,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -67,29 +65,29 @@
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
       "name": "xAI",
       "domains": [
         "app-media.x.ai",
-        "assets.grok.com",
         "cdn.grok.com",
-        "console.x.ai",
         "grok.com",
         "imagine-public.x.ai",
         "media.x.ai",
@@ -118,7 +116,6 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
-        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
@@ -136,7 +133,8 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai"
+        "research.perplexity.ai",
+        "trust.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -155,7 +153,9 @@
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://cohere.com/_next/static/immutable/chunks/0k2dczm9akj49.js: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Stability AI",
@@ -166,7 +166,9 @@
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://stability.ai/stab-glass.js: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Midjourney",
@@ -191,13 +193,12 @@
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
+        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
@@ -205,18 +206,17 @@
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
-        "education.microsoft.com",
+        "developer.microsoft.com",
         "educationblog.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
-        "wcpstatic.microsoft.com",
+        "unlocked.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
