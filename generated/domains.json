@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-20T22:45:51+00:00",
+  "updated_at": "2026-08-20T23:42:07+00:00",
   "vendor_count": 12,
-  "domain_count": 110,
+  "domain_count": 108,
   "vendors": [
     {
       "name": "OpenAI",
@@ -29,6 +29,7 @@
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -67,7 +68,6 @@
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
-        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
@@ -75,18 +75,18 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized",
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed",
+        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found",
+        "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "xAI",
       "domains": [
-        "app-builder-deployer.grok.com",
+        "accounts.x.ai",
         "app-media.x.ai",
         "cdn.grok.com",
         "console.x.ai",
-        "data.x.ai",
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
@@ -94,7 +94,8 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://x.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://accounts.x.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -115,13 +116,13 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
-        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://console.mistral.ai: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
@@ -147,18 +148,18 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "shop.cohere.com"
+        "events.cohere.com",
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2F0b4376367d0a9076aaa5438406bf9350f7bb01e9-7680x4320.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2Fde5dfdd8f91267a91f194bfb7095edb80ce4951f-3840x2160.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://cohere.com/_next/static/immutable/chunks/2cc4yvecoquy_.js: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -184,12 +185,12 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
-        "labs.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
@@ -200,17 +201,17 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
-        "choice.microsoft.com",
         "copilot.microsoft.com",
-        "developer.microsoft.com",
+        "docs.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
-        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
         "techcommunity.microsoft.com",
