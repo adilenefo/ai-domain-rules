@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-20T20:47:47+00:00",
+  "updated_at": "2026-08-20T21:44:33+00:00",
   "vendor_count": 12,
-  "domain_count": 111,
+  "domain_count": 102,
   "vendors": [
     {
       "name": "OpenAI",
@@ -29,18 +29,14 @@
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
-        "red.anthropic.com",
-        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
-        "www.anthropic.com",
-        "www.claudeusercontent.com"
+        "www.anthropic.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai/login: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -71,17 +67,14 @@
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
+        "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://geminiweb-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -89,7 +82,6 @@
         "app-builder-deployer.grok.com",
         "app-media.x.ai",
         "cdn.grok.com",
-        "console.x.ai",
         "data.x.ai",
         "grok.com",
         "imagine-public.x.ai",
@@ -118,7 +110,6 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
-        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
@@ -150,20 +141,14 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com",
-        "shop.cohere.com",
-        "trustcenter.cohere.com"
+        "shop.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2F0b4376367d0a9076aaa5438406bf9350f7bb01e9-7680x4320.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request",
-        "https://cohere.com/_next/static/immutable/chunks/1uef977e__12i.js: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -187,30 +172,26 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://character.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
+        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
-        "docs.microsoft.com",
+        "developer.microsoft.com",
         "education.microsoft.com",
-        "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -218,6 +199,7 @@
         "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
+        "techcommunity.microsoft.com",
         "uhf.microsoft.com",
         "unlocked.microsoft.com",
         "visualstudio.microsoft.com",
@@ -225,7 +207,9 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+      ]
     }
   ]
 }
