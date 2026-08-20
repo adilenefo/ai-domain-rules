@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-20T04:54:33+00:00",
+  "updated_at": "2026-08-20T05:47:32+00:00",
   "vendor_count": 12,
-  "domain_count": 114,
+  "domain_count": 111,
   "vendors": [
     {
       "name": "OpenAI",
@@ -24,17 +24,13 @@
     {
       "name": "Anthropic",
       "domains": [
-        "alignment.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
-        "assets.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
-        "console.anthropic.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
+        "economic-research.anthropic.com",
         "red.anthropic.com",
-        "s-cdn.anthropic.com",
         "status.anthropic.com",
         "support.anthropic.com",
         "trust.anthropic.com",
@@ -67,22 +63,24 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "support.google.com",
+        "supporttagging-autopush.sandbox.google.com",
+        "tagassistant.google.com",
         "waa-pa.clients6.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "xAI",
@@ -90,6 +88,7 @@
         "app-builder-deployer.grok.com",
         "app-media.x.ai",
         "cdn.grok.com",
+        "data.x.ai",
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
@@ -119,10 +118,8 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
-        "learn.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai",
-        "trust.mistral.ai"
+        "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -143,9 +140,7 @@
       "pages_scanned": 8,
       "errors": [
         "https://www.perplexity.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.perplexity.ai/v1/agent: HTTPError: HTTP Error 401: Unauthorized",
-        "https://docs.perplexity.ai/models/assets/search_api.png: HTTPError: HTTP Error 404: Not Found"
+        "https://www.pplx.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -154,12 +149,12 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
-        "events.cohere.com"
+        "events.cohere.com",
+        "labscommunity.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://cohere.com/_next/static/immutable/chunks/3mk1k5ochkndt.js: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Stability AI",
@@ -192,25 +187,22 @@
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://character.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found",
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
       ]
     },
     {
       "name": "GitHub Copilot",
       "domains": [
         "account.microsoft.com",
-        "api.githubcopilot.com",
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
-        "browser.events.data.microsoft.com",
         "careers.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
-        "docs.microsoft.com",
         "education.microsoft.com",
         "educationblog.microsoft.com",
-        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com",
         "go.microsoft.com",
         "learn.microsoft.com",
@@ -226,9 +218,7 @@
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     }
   ]
 }
