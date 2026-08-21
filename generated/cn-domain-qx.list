@@ -1,6 +1,6 @@
 #!name=China Domain Rules
 #!desc=China domain rules aggregated from multiple public sources
-#!updated=2026-08-21T17:46:24+00:00
+#!updated=2026-08-21T18:57:15+00:00
 
 HOST-SUFFIX,0.zone,DIRECT
 HOST-SUFFIX,00.net,DIRECT
@@ -10515,7 +10515,6 @@ HOST-SUFFIX,afbd4a3905a4a9a5.com,DIRECT
 HOST-SUFFIX,afca-asia.org,DIRECT
 HOST-SUFFIX,afca6b82c11032.beer,DIRECT
 HOST-SUFFIX,afcec.com,DIRECT
-HOST-SUFFIX,afcs.dell.com,DIRECT
 HOST-SUFFIX,afdian.com,DIRECT
 HOST-SUFFIX,afdian.net,DIRECT
 HOST-SUFFIX,afdiancdn.com,DIRECT
@@ -23460,7 +23459,6 @@ HOST-SUFFIX,clidone.com,DIRECT
 HOST-SUFFIX,client.amplifi.com,DIRECT
 HOST-SUFFIX,client51.com,DIRECT
 HOST-SUFFIX,clientflow.apple.com,DIRECT
-HOST-SUFFIX,clientperipherals.dell.com,DIRECT
 HOST-SUFFIX,clientservices.googleapis.com,DIRECT
 HOST-SUFFIX,clifford-hospital.org,DIRECT
 HOST-SUFFIX,cliffordtrading.com,DIRECT
@@ -26933,7 +26931,6 @@ HOST-SUFFIX,curtisasia.com,DIRECT
 HOST-SUFFIX,cusdvs.com,DIRECT
 HOST-SUFFIX,cusdvs.net,DIRECT
 HOST-SUFFIX,custeel.com,DIRECT
-HOST-SUFFIX,customization-cdn.dell.com,DIRECT
 HOST-SUFFIX,customizedfasteners.com,DIRECT
 HOST-SUFFIX,customsapp.com,DIRECT
 HOST-SUFFIX,customskh.org,DIRECT
@@ -28507,7 +28504,6 @@ HOST-SUFFIX,ddove.com,DIRECT
 HOST-SUFFIX,ddpai.com,DIRECT
 HOST-SUFFIX,ddpoc.com,DIRECT
 HOST-SUFFIX,ddqcw.com,DIRECT
-HOST-SUFFIX,dds.dell.com,DIRECT
 HOST-SUFFIX,ddsaas.com,DIRECT
 HOST-SUFFIX,ddsk.la,DIRECT
 HOST-SUFFIX,ddsm.com,DIRECT
@@ -29828,7 +29824,6 @@ HOST-SUFFIX,dl-meitu.com,DIRECT
 HOST-SUFFIX,dl-rc.com,DIRECT
 HOST-SUFFIX,dl-vip.pcfaster.baidu.co.th,DIRECT
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
-HOST-SUFFIX,dl.dell.com,DIRECT
 HOST-SUFFIX,dl.google.com,DIRECT
 HOST-SUFFIX,dl.l.google.com,DIRECT
 HOST-SUFFIX,dl0728.com,DIRECT
@@ -31810,9 +31805,6 @@ HOST-SUFFIX,e9x51y8t91.com,DIRECT
 HOST-SUFFIX,ea-china.com,DIRECT
 HOST-SUFFIX,ea-retina.com,DIRECT
 HOST-SUFFIX,ea-xing.com,DIRECT
-HOST-SUFFIX,ea2cn-dev-outlet.dell.com,DIRECT
-HOST-SUFFIX,ea2cn-prod-outlet.dell.com,DIRECT
-HOST-SUFFIX,ea2cn-staging-outlet.dell.com,DIRECT
 HOST-SUFFIX,ea360.com,DIRECT
 HOST-SUFFIX,ea3w.com,DIRECT
 HOST-SUFFIX,ea65d2a2f16d6b8c.com,DIRECT
@@ -32892,7 +32884,6 @@ HOST-SUFFIX,emlinix.com,DIRECT
 HOST-SUFFIX,emlog.net,DIRECT
 HOST-SUFFIX,emmmn.com,DIRECT
 HOST-SUFFIX,emodor.com,DIRECT
-HOST-SUFFIX,emoi-cncdn.bing.com,DIRECT
 HOST-SUFFIX,emoji6.com,DIRECT
 HOST-SUFFIX,emojimobile.com,DIRECT
 HOST-SUFFIX,emoriko.com,DIRECT
@@ -34582,7 +34573,6 @@ HOST-SUFFIX,fcpiao.com,DIRECT
 HOST-SUFFIX,fcpowerup.com,DIRECT
 HOST-SUFFIX,fcqjc.com,DIRECT
 HOST-SUFFIX,fcrc114.com,DIRECT
-HOST-SUFFIX,fcs.dell.com,DIRECT
 HOST-SUFFIX,fcs1.com,DIRECT
 HOST-SUFFIX,fcsc.com,DIRECT
 HOST-SUFFIX,fcstor.com,DIRECT
@@ -36308,11 +36298,7 @@ HOST-SUFFIX,ft.tech,DIRECT
 HOST-SUFFIX,ft12.com,DIRECT
 HOST-SUFFIX,ft22.com,DIRECT
 HOST-SUFFIX,ft98.com,DIRECT
-HOST-SUFFIX,fta.dell.com,DIRECT
-HOST-SUFFIX,ftaapj.dell.com,DIRECT
-HOST-SUFFIX,ftaemea.dell.com,DIRECT
 HOST-SUFFIX,ftaro.com,DIRECT
-HOST-SUFFIX,ftasitapj.dell.com,DIRECT
 HOST-SUFFIX,ftbj.net,DIRECT
 HOST-SUFFIX,ftcoaster.com,DIRECT
 HOST-SUFFIX,ftcwifi.com,DIRECT
@@ -37421,8 +37407,6 @@ HOST-SUFFIX,gbt88.com,DIRECT
 HOST-SUFFIX,gbtranswins.com,DIRECT
 HOST-SUFFIX,gbvh.com,DIRECT
 HOST-SUFFIX,gbw114.com,DIRECT
-HOST-SUFFIX,gbxgateway-dev.dell.com,DIRECT
-HOST-SUFFIX,gbxgateway.dell.com,DIRECT
 HOST-SUFFIX,gc-zb.com,DIRECT
 HOST-SUFFIX,gc1616.com,DIRECT
 HOST-SUFFIX,gc39.com,DIRECT
@@ -50424,7 +50408,6 @@ HOST-SUFFIX,i-weichuan.com,DIRECT
 HOST-SUFFIX,i-xiaohaibao.com,DIRECT
 HOST-SUFFIX,i-xinnuo.com,DIRECT
 HOST-SUFFIX,i-xoron.com,DIRECT
-HOST-SUFFIX,i.dell.com,DIRECT
 HOST-SUFFIX,i.pki.goog,DIRECT
 HOST-SUFFIX,i0.pub,DIRECT
 HOST-SUFFIX,i007.vip,DIRECT
@@ -69760,7 +69743,6 @@ HOST-SUFFIX,nextvid.net,DIRECT
 HOST-SUFFIX,nextworkshop.net,DIRECT
 HOST-SUFFIX,nextyu.com,DIRECT
 HOST-SUFFIX,nexus-holding.com,DIRECT
-HOST-SUFFIX,nexus.dell.com,DIRECT
 HOST-SUFFIX,nexusedgeio.com,DIRECT
 HOST-SUFFIX,nexushd.org,DIRECT
 HOST-SUFFIX,neyetwatcher.com,DIRECT
@@ -72832,7 +72814,6 @@ HOST-SUFFIX,p-sig-dom.com,DIRECT
 HOST-SUFFIX,p-sig-dom.net,DIRECT
 HOST-SUFFIX,p.biz,DIRECT
 HOST-SUFFIX,p.bstarstatic.com,DIRECT
-HOST-SUFFIX,p.cdn.persaas.dell.com,DIRECT
 HOST-SUFFIX,p023.com,DIRECT
 HOST-SUFFIX,p0371.com,DIRECT
 HOST-SUFFIX,p0431.com,DIRECT
@@ -80319,7 +80300,6 @@ HOST-SUFFIX,sceci.net,DIRECT
 HOST-SUFFIX,sceeo.com,DIRECT
 HOST-SUFFIX,sceia.org,DIRECT
 HOST-SUFFIX,scemrq.com,DIRECT
-HOST-SUFFIX,scene7-cdn.dell.com,DIRECT
 HOST-SUFFIX,scengine.com,DIRECT
 HOST-SUFFIX,scenictc.com,DIRECT
 HOST-SUFFIX,scensmart.com,DIRECT
@@ -83838,7 +83818,6 @@ HOST-SUFFIX,si-en.com,DIRECT
 HOST-SUFFIX,si-era.com,DIRECT
 HOST-SUFFIX,si-in.com,DIRECT
 HOST-SUFFIX,si-win.com,DIRECT
-HOST-SUFFIX,si.cdn.dell.com,DIRECT
 HOST-SUFFIX,sia1995.net,DIRECT
 HOST-SUFFIX,siad-c.com,DIRECT
 HOST-SUFFIX,siaedu.net,DIRECT
@@ -84753,7 +84732,6 @@ HOST-SUFFIX,slzsxx.com,DIRECT
 HOST-SUFFIX,sm-check.com,DIRECT
 HOST-SUFFIX,sm-cq.com,DIRECT
 HOST-SUFFIX,sm-main.com,DIRECT
-HOST-SUFFIX,sm.dell.com,DIRECT
 HOST-SUFFIX,sm0.fun,DIRECT
 HOST-SUFFIX,sm160.com,DIRECT
 HOST-SUFFIX,sm160.net,DIRECT
@@ -85054,9 +85032,7 @@ HOST-SUFFIX,snowjy.com,DIRECT
 HOST-SUFFIX,snowkey.com,DIRECT
 HOST-SUFFIX,snowlotusgroup.com,DIRECT
 HOST-SUFFIX,snowyimall.com,DIRECT
-HOST-SUFFIX,snp.cdn.dell.com,DIRECT
 HOST-SUFFIX,snpac.com,DIRECT
-HOST-SUFFIX,snpi.dell.com,DIRECT
 HOST-SUFFIX,snps.tech,DIRECT
 HOST-SUFFIX,snptc.com,DIRECT
 HOST-SUFFIX,snrat.com,DIRECT
@@ -86840,7 +86816,6 @@ HOST-SUFFIX,supplygw.com,DIRECT
 HOST-SUFFIX,supplywater.com,DIRECT
 HOST-SUFFIX,support-cn.samsung.com,DIRECT
 HOST-SUFFIX,support.apple.com,DIRECT
-HOST-SUFFIX,supportassist.dell.com,DIRECT
 HOST-SUFFIX,supreme-oe.com,DIRECT
 HOST-SUFFIX,supwisdom.com,DIRECT
 HOST-SUFFIX,supwk.com,DIRECT
@@ -91579,7 +91554,6 @@ HOST-SUFFIX,toysol.com,DIRECT
 HOST-SUFFIX,tp-data.com,DIRECT
 HOST-SUFFIX,tp-hivi.com,DIRECT
 HOST-SUFFIX,tp-link.com.cn,DIRECT
-HOST-SUFFIX,tp.louisvuitton.com,DIRECT
 HOST-SUFFIX,tp82.com,DIRECT
 HOST-SUFFIX,tpadx.com,DIRECT
 HOST-SUFFIX,tpbook.com,DIRECT
@@ -93564,7 +93538,6 @@ HOST-SUFFIX,upin.com,DIRECT
 HOST-SUFFIX,upkao.com,DIRECT
 HOST-SUFFIX,upkk.com,DIRECT
 HOST-SUFFIX,upkuajing.com,DIRECT
-HOST-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com,DIRECT
 HOST-SUFFIX,uplookedu.com,DIRECT
 HOST-SUFFIX,uplooking.com,DIRECT
 HOST-SUFFIX,upluck.cc,DIRECT
@@ -98942,7 +98915,6 @@ HOST-SUFFIX,wwsgh.com,DIRECT
 HOST-SUFFIX,wwstat.com,DIRECT
 HOST-SUFFIX,www-666789.com,DIRECT
 HOST-SUFFIX,www-76244.com,DIRECT
-HOST-SUFFIX,www-csb.dell.com,DIRECT
 HOST-SUFFIX,www-google-analytics.l.google.com,DIRECT
 HOST-SUFFIX,www-googletagmanager.l.google.com,DIRECT
 HOST-SUFFIX,www-jabuank-co-jp.net,DIRECT
@@ -98951,7 +98923,6 @@ HOST-SUFFIX,www.cbsnews.com,DIRECT
 HOST-SUFFIX,www.cdnetworks.com,DIRECT
 HOST-SUFFIX,www.cg,DIRECT
 HOST-SUFFIX,www.com.my,DIRECT
-HOST-SUFFIX,www.dell.com,DIRECT
 HOST-SUFFIX,www.destinationurl.com,DIRECT
 HOST-SUFFIX,www.djivideos.com,DIRECT
 HOST-SUFFIX,www.entrust.cn,DIRECT
