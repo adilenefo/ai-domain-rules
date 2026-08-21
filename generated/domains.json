@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-21T03:16:58+00:00",
+  "updated_at": "2026-08-21T04:05:29+00:00",
   "vendor_count": 12,
-  "domain_count": 102,
+  "domain_count": 114,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,8 +18,7 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fxrs545k8.png&amp;w=3840&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -36,11 +35,13 @@
         "support.anthropic.com",
         "trust.anthropic.com",
         "www-cdn.anthropic.com",
-        "www.anthropic.com"
+        "www.anthropic.com",
+        "www.claudeusercontent.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
+        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -52,6 +53,7 @@
         "aistudio.google.com",
         "cloud.google.com",
         "colab.sandbox.google.com",
+        "console.cloud.google.com",
         "deepmind.com",
         "deepmind.google",
         "discuss.ai.google.dev",
@@ -62,9 +64,11 @@
         "geminiweb-pa.clients6.google.com",
         "healthapp.google.com",
         "labs.google.com",
+        "mail.google.com",
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -77,15 +81,17 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found",
-        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
       "name": "xAI",
       "domains": [
+        "accounts.x.ai",
         "app-media.x.ai",
         "cdn.grok.com",
+        "console.x.ai",
+        "data.x.ai",
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
@@ -115,25 +121,25 @@
         "console.mistral.ai",
         "docs.mistral.ai",
         "help.mistral.ai",
+        "learn.mistral.ai",
         "legal.mistral.ai",
         "mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
+        "https://console.mistral.ai/: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect",
+        "https://console.mistral.ai: HTTPError: HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nTemporary Redirect"
       ]
     },
     {
       "name": "Perplexity",
       "domains": [
         "api.perplexity.ai",
-        "community.perplexity.ai",
         "console.perplexity.ai",
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "www.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -147,16 +153,18 @@
         "cohere.com",
         "dashboard.cohere.com",
         "docs.cohere.com",
+        "shop.cohere.com",
         "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://cohere.com/product-overview: HTTPError: HTTP Error 404: Not Found"
+        "https://cohere.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Frjtqmwfu%2Fweb3-prod%2Fde5dfdd8f91267a91f194bfb7095edb80ce4951f-3840x2160.png%3Fw%3D1340%26q%3D80%26fit%3Dmax%26auto%3Dformat&amp;w=1920&amp;q=75: HTTPError: HTTP Error 400: Bad Request"
       ]
     },
     {
       "name": "Stability AI",
       "domains": [
+        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
@@ -181,6 +189,7 @@
         "blog.character.ai",
         "c.ai",
         "character.ai",
+        "labs.character.ai",
         "support.character.ai"
       ],
       "pages_scanned": 8,
@@ -196,6 +205,7 @@
         "apps.microsoft.com",
         "azure.microsoft.com",
         "blogs.microsoft.com",
+        "careers.microsoft.com",
         "choice.microsoft.com",
         "copilot.microsoft.com",
         "developer.microsoft.com",
@@ -205,11 +215,13 @@
         "go.microsoft.com",
         "learn.microsoft.com",
         "marketplace.microsoft.com",
+        "microsoft.com",
         "news.microsoft.com",
         "support.microsoft.com",
         "techcommunity.microsoft.com",
         "uhf.microsoft.com",
-        "unlocked.microsoft.com",
+        "visualstudio.microsoft.com",
+        "wcpstatic.microsoft.com",
         "www.microsoft.com"
       ],
       "pages_scanned": 8,
