@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-22T08:48:52+00:00",
+  "updated_at": "2026-08-22T09:43:32+00:00",
   "vendor_count": 12,
-  "domain_count": 92,
+  "domain_count": 95,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,20 +18,20 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://status.openai.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2F01H537TKYPX5W42WRCKR1AGPFT%2Fopenai-1%2Fv0bc3jd3.png&amp;w=96&amp;q=100: HTTPError: HTTP Error 400: Bad Request"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
-        "a-cdn.anthropic.com",
         "anthropic.com",
         "api.anthropic.com",
+        "assets.anthropic.com",
         "assets.claude.ai",
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
+        "red.anthropic.com",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
         "trust.anthropic.com",
@@ -41,8 +41,7 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://claude.ai: HTTPError: HTTP Error 403: Forbidden"
+        "https://claude.ai/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
@@ -60,6 +59,7 @@
         "discuss.ai.google.dev",
         "docs.google.com",
         "drive.google.com",
+        "edu.google.com",
         "firebase.google.com",
         "gemini.google.com",
         "geminiweb-pa.clients6.google.com",
@@ -68,6 +68,7 @@
         "myaccount.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
         "play.google.com",
         "policies.google.com",
@@ -80,16 +81,17 @@
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://ogads-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://healthapp.google.com/connections/accountlinking: HTTPError: HTTP Error 404: Not Found"
+        "https://docs.google.com/picker: HTTPError: HTTP Error 401: Unauthorized"
       ]
     },
     {
       "name": "xAI",
       "domains": [
         "accounts.x.ai",
+        "app-builder-deployer.grok.com",
         "app-media.x.ai",
         "cdn.grok.com",
+        "data.x.ai",
         "docs.x.ai",
         "grok.com",
         "imagine-public.x.ai",
@@ -119,7 +121,8 @@
         "docs.mistral.ai",
         "help.mistral.ai",
         "legal.mistral.ai",
-        "mistral.ai"
+        "mistral.ai",
+        "trust.mistral.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -135,8 +138,7 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "www.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -151,10 +153,14 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com"
+        "shop.cohere.com",
+        "trustcenter.cohere.com",
+        "www.dashboard.cohere.com"
       ],
       "pages_scanned": 8,
-      "errors": []
+      "errors": [
+        "https://cohere.com/_next/static/immutable/chunks/2gd0vkw-s0oxc.js: HTTPError: HTTP Error 404: Not Found"
+      ]
     },
     {
       "name": "Stability AI",
@@ -165,9 +171,7 @@
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
-      "errors": [
-        "https://stability.ai/assets/js/stab-glass.js: HTTPError: HTTP Error 404: Not Found"
-      ]
+      "errors": []
     },
     {
       "name": "Midjourney",
@@ -184,9 +188,7 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -196,17 +198,15 @@
     {
       "name": "GitHub Copilot",
       "domains": [
-        "account.microsoft.com",
         "api.githubcopilot.com",
         "blogs.microsoft.com",
         "copilot.microsoft.com",
-        "githubcopilot.com",
-        "support.microsoft.com"
+        "githubcopilot.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/: HTTPError: HTTP Error 403: Forbidden",
-        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found"
+        "https://api.githubcopilot.com: HTTPError: HTTP Error 404: Not Found",
+        "https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/: HTTPError: HTTP Error 403: Forbidden"
       ]
     }
   ]
