@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-22T04:51:12+00:00",
+  "updated_at": "2026-08-22T05:43:29+00:00",
   "vendor_count": 12,
-  "domain_count": 91,
+  "domain_count": 97,
   "vendors": [
     {
       "name": "OpenAI",
@@ -18,22 +18,22 @@
         "https://openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://platform.openai.com/: HTTPError: HTTP Error 403: Forbidden",
         "https://help.openai.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden",
-        "https://chat.openai.com: HTTPError: HTTP Error 403: Forbidden"
+        "https://chatgpt.com/: HTTPError: HTTP Error 403: Forbidden"
       ]
     },
     {
       "name": "Anthropic",
       "domains": [
         "anthropic.com",
+        "api.anthropic.com",
         "claude.ai",
         "claudeusercontent.com",
         "docs.anthropic.com",
-        "privacy.anthropic.com",
+        "downloads.claude.ai",
         "s-cdn.anthropic.com",
         "status.anthropic.com",
-        "support.anthropic.com",
         "trust.anthropic.com",
+        "www-cdn.anthropic.com",
         "www.anthropic.com",
         "www.claudeusercontent.com"
       ],
@@ -45,6 +45,7 @@
     {
       "name": "Google Gemini",
       "domains": [
+        "account.google.com",
         "accounts.google.com",
         "admin.google.com",
         "ai.google.dev",
@@ -63,35 +64,38 @@
         "healthapp.google.com",
         "labs.google.com",
         "myaccount.google.com",
+        "myactivity.google.com",
         "notebooklm.google.com",
         "ogads-pa.clients6.google.com",
+        "ogs.google.com",
         "one.google.com",
+        "payments.google.com",
         "play.google.com",
         "policies.google.com",
         "push.clients6.google.com",
         "services.google.com",
         "support.google.com",
         "waa-pa.clients6.google.com",
+        "wallet.google.com",
         "workspace.google.com",
         "www.google.com"
       ],
       "pages_scanned": 8,
       "errors": [
-        "https://gemini.google.com/app/: HTTPError: HTTP Error 404: Not Found",
         "https://waa-pa.clients6.google.com: HTTPError: HTTP Error 404: Not Found",
-        "https://play.google.com/store/apps/details?id: HTTPError: HTTP Error 404: Not Found"
+        "https://push.clients6.google.com/upload/: HTTPError: HTTP Error 405: Method Not Allowed"
       ]
     },
     {
       "name": "xAI",
       "domains": [
-        "app-builder-deployer.grok.com",
+        "accounts.x.ai",
         "app-media.x.ai",
         "cdn.grok.com",
-        "docs.x.ai",
+        "console.x.ai",
+        "data.x.ai",
         "grok.com",
         "imagine-public.x.ai",
-        "media.x.ai",
         "x.ai"
       ],
       "pages_scanned": 8,
@@ -134,8 +138,7 @@
         "docs.perplexity.ai",
         "perplexity.ai",
         "pplx.ai",
-        "research.perplexity.ai",
-        "www.perplexity.ai"
+        "research.perplexity.ai"
       ],
       "pages_scanned": 8,
       "errors": [
@@ -150,7 +153,8 @@
         "dashboard.cohere.com",
         "docs.cohere.com",
         "events.cohere.com",
-        "shop.cohere.com"
+        "shop.cohere.com",
+        "trustcenter.cohere.com"
       ],
       "pages_scanned": 8,
       "errors": []
@@ -158,10 +162,10 @@
     {
       "name": "Stability AI",
       "domains": [
-        "dreamstudio.stability.ai",
         "kb.stability.ai",
         "platform.stability.ai",
         "stability.ai",
+        "support.stability.ai",
         "trust.stability.ai"
       ],
       "pages_scanned": 8,
@@ -182,15 +186,13 @@
       "domains": [
         "blog.character.ai",
         "c.ai",
-        "character.ai",
-        "labs.character.ai",
-        "share.character.ai",
-        "support.character.ai"
+        "character.ai"
       ],
       "pages_scanned": 8,
       "errors": [
         "https://character.ai/: HTTPError: HTTP Error 403: Forbidden",
-        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable"
+        "https://blog.character.ai/.ghost/analytics/api/v1/page_hit: HTTPError: HTTP Error 406: Not Acceptable",
+        "https://blog.character.ai/webmentions/receive/: HTTPError: HTTP Error 404: Not Found"
       ]
     },
     {
@@ -198,7 +200,10 @@
       "domains": [
         "api.githubcopilot.com",
         "blogs.microsoft.com",
+        "browser.events.data.microsoft.com",
         "copilot.microsoft.com",
+        "docs.microsoft.com",
+        "eu-mobile.events.data.microsoft.com",
         "githubcopilot.com"
       ],
       "pages_scanned": 8,
